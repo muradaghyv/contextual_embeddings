@@ -371,6 +371,15 @@ if __name__ == "__main__":
         "Arılar bu il çox keyfiyyətli bal veriblər.",  # "bal" as honey
         "Onun konsertdə göstərdiyi performans üçün maksimum bal verdilər."  # "bal" as score
     ]
+
+    # Define English sentences with the target word in different contexts
+    # target_word = "bank"
+    # sentences = [
+    #     "I deposited my money on bank.",  # "bal" as honey
+    #     "I sat on the bank near the Caspian Sea.",  # "bal" as score
+    #     "Alvis will pull his money from the bank tomorrow",  # "bal" as honey
+    #     "The cat was eating food while sitting down on the bank."  # "bal" as score
+    # ]
     
     # 1. Analyze embeddings from different layers
     layer_results = analyze_embeddings_multiple_layers(
