@@ -17,3 +17,12 @@ From that point we can conclude:
 **XLM-RoBERTa model performs poor in Azerbaijani language.**
 
 * P.S. These are my initial assumptions, I need to clarify my assumptions. 
+
+## Notes 08.04.2025
+* I created a PDF document and created chunks of it. 
+* Our main embedding model is **BGE-M3** model. I derived vector embeddings of chunked documents. Then, stored them inside the vector database. 
+* Then, I wrote a query and derived embedding of this query, too.
+* *cosine similarity* is used to calculate similarity score between query embedding and embeddings of chunked documents. 
+
+**Result**
+* BGE-M3 embedding model doesn't perform poor. Its results are reasonable. I only did initial observation and initial implementation. For getting accurate observation, I have to improve the script for processing documents and creating vector database, chunks, etc. 
