@@ -1,3 +1,4 @@
 FlagEmbedding/
 ai_doc.docx
 chunks/
+*__pycache__
