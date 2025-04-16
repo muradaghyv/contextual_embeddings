@@ -26,3 +26,19 @@ From that point we can conclude:
 
 **Result**
 * BGE-M3 embedding model doesn't perform poor. Its results are reasonable. I only did initial observation and initial implementation. For getting accurate observation, I have to improve the script for processing documents and creating vector database, chunks, etc. 
+
+## Notes 16.04.2025
+* Created `processor.py` script which:
+    * reads PDF document;
+    * cleans and normalizes this PDF text;
+    * splits it into chunks;
+    * saves these chunks in the specified directory;
+    * creates a ChromaDB vector database for storing vector embeddings 
+
+* Created `smt.ipynb` => this notebook shows how to use `processor.py` script. Actually, there should be **main()** function for running *Preprocessor* class and its methods. This will be done
+
+* Modified `preprocessor.ipynb` so that the irrelevant functions and code snippets have been removed. Although the main processor script is `processor.py`, this notebook will be used for trying new and additional staff in future works. 
+
+### TODO:
+* Create **main()** script for running all stuff: query is written by user and relevant documents are retrieved using processor script and embedding model. 
+* Evaluate the performance of processor script for _different embedding models_ and _different PDFs_. If it works, this script may be used for all further processes. 
