@@ -3,7 +3,7 @@ import re
 from typing import List
 import os
 
-from FlagEmbedding import BGEM3FlagModel
+import torch
 import chromadb
 import numpy as np
 import tempfile
@@ -142,18 +142,20 @@ class Preprocessor():
         metadatas = [{"source": f"chunk_{i}.txt"} for i in range (len(chunks))]
 
         # Converting numpy array to lists if needed
-        embedddings_list = []
+        embeddings_list = []
         for emb in embeddings:
             if isinstance(emb, np.ndarray):
-                embedddings_list.append(emb.tolist())
+                embeddings_list.append(emb.tolist())
+            elif isinstance(emb, torch.Tensor):
+                embeddings_list.append(emb.numpy().tolist())
             else:
-                embedddings_list.append(emb)
+                embeddings_list.append(emb)
         
         collection.add(
             documents=chunks, 
             ids=document_ids,
             metadatas=metadatas,
-            embeddings=embedddings_list
+            embeddings=embeddings_list
         )     
 
         print(f"Successfully stored {len(chunks)} chunks with embeddings.")
