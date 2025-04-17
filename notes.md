@@ -42,3 +42,6 @@ From that point we can conclude:
 ### TODO:
 * Create **main()** script for running all stuff: query is written by user and relevant documents are retrieved using processor script and embedding model. 
 * Evaluate the performance of processor script for _different embedding models_ and _different PDFs_. If it works, this script may be used for all further processes. 
+
+## Notes 17.04.2025
+* I have tried **XLM-RoBERTa** model with `processor.py` script. It gave me an error when creating vector database. I should look at this error and fix it.
