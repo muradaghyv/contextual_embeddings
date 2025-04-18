@@ -12,19 +12,20 @@ class Preprocessor():
     def __init__(self, filepath: str) -> str:
         """
         Preprocessor class is for reading a PDF document, cleaning text inside it,
-        and splitting it into chunks.
-
-        Args:
-            filepath: path to PDF document 
-
-        Returns:
-            all_text: the text string inside the pdf document
+        and splitting it into chunks, saving chunks and their embeddings in the vector database.
         """
         self.filepath = filepath
+        self.reader = pypdf.PdfReader(self.filepath)
     
     def read_text(self):
+        """
+        Reading a text in the PDF document
+
+        Returns: 
+            all_text: string contains the full text on PDF.
+        """
         try:
-            reader = pypdf.PdfReader(self.filepath)
+            reader = self.reader
 
             all_text = ""
             for i in range (reader.get_num_pages()):
@@ -147,7 +148,8 @@ class Preprocessor():
             if isinstance(emb, np.ndarray):
                 embeddings_list.append(emb.tolist())
             elif isinstance(emb, torch.Tensor):
-                embeddings_list.append(emb.numpy().tolist())
+                embedding = emb.squeeze(0).numpy()
+                embeddings_list.append(embedding.tolist())
             else:
                 embeddings_list.append(emb)
         
