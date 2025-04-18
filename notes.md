@@ -45,3 +45,10 @@ From that point we can conclude:
 
 ## Notes 17.04.2025
 * I have tried **XLM-RoBERTa** model with `processor.py` script. It gave me an error when creating vector database. I should look at this error and fix it.
+
+## Notes 18.04.2025
+* I fixed an issue, when embeddings are torch tensors using **squeeze()** command. Embedding vectors are created as 2D torch tensors which was the reason why the processor script was giving an error when creating database. It is expecting 1D array (list), but we were passing 2D. **squeeze()** command makes this 2D tensor 1D.
+
+* I have modified `smt.ipynb`so that it is more compact and structured way for trying different embedding models and different documents with different questions. 
+
+* Created `sample_doc.pdf` document in Azerbaijani which is more structured and cleaner text document. We will use this document and relevant questions for evaluating the performance of different multi-lingual models.
