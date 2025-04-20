@@ -52,3 +52,17 @@ From that point we can conclude:
 * I have modified `smt.ipynb`so that it is more compact and structured way for trying different embedding models and different documents with different questions. 
 
 * Created `sample_doc.pdf` document in Azerbaijani which is more structured and cleaner text document. We will use this document and relevant questions for evaluating the performance of different multi-lingual models.
+
+## Notes 20.04.2025
+* Modified *create_database()* method so that it saves the created databases in **permanent directories**. rather than temporary ones.
+
+* Created 2 main notebooks:
+    * `first_steps.ipynb` => Loading the given PDF document, reading, cleaning and normalizing the text inside the document, splitting it into chunks and saving these chunks, creating vector embeddings of these chunks and saving these vector embeddings inside the vector database.
+    * `retrieval.ipynb` => Loading the vector database, embedding the query and retrieving the relevant document, and saving the result text in .txt file.
+
+* Tried the 3rd embedding model: *LaBSE: Language Agnostic BERT Sentence Embeddings*. **This embedding model didn't perform well on Azerbaijani language.**
+
+* Removed unnecessary notebooks from the project directory.
+
+* **TODO**:
+    * As because the necessary scripts have been written, I have to prepare final result from 3 or 5 embedding models with multiple queries. That is the main thing to do!
