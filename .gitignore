@@ -2,6 +2,7 @@ FlagEmbedding/
 ai_doc.docx
 chunks/
 *__pycache__
-gpt_2_aze
 bge_result.txt
 xlm_result.txt
+labse_result.txt
+databases/
