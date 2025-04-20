@@ -115,7 +115,7 @@ class Preprocessor():
             except Exception as e:
                 print(f"Error saving chunk to {full_filename}: {e}")
     
-    def create_database(self, chunks: List[str], embeddings: np.ndarray):
+    def create_database(self, chunks: List[str], embeddings: np.ndarray, collection_name: str):
         """
         Creating vector database for storing chunk embeddings. This vector
         store will be used for retrieving relevant documents.
@@ -127,11 +127,13 @@ class Preprocessor():
         Returns: 
             collection: vector database collection stored in ChromaDB
         """
-        # Creating a temporary directory 
-        temp_dir = tempfile.mkdtemp()
-        print(f"Using ChromaDB directory: {temp_dir}")
+        dir = f"/home/murad/Documents/contextual_embeddings/databases/{collection_name}"
+        print(f"Using ChromaDB directory: {dir}")
 
-        client = chromadb.PersistentClient(path=temp_dir)
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+
+        client = chromadb.PersistentClient(path=dir)
 
         # Creating a collection without embedding data
         collection = client.create_collection(
@@ -161,6 +163,6 @@ class Preprocessor():
         )     
 
         print(f"Successfully stored {len(chunks)} chunks with embeddings.")
-        print(f"Database location: {temp_dir}")
+        print(f"Database location: {dir}")
 
         return collection
