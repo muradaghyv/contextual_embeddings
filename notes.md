@@ -66,3 +66,8 @@ From that point we can conclude:
 
 * **TODO**:
     * As because the necessary scripts have been written, I have to prepare final result from 3 or 5 embedding models with multiple queries. That is the main thing to do!
+
+## Notes 23.04.2025
+* Created `report.pdf` document that reports 3 outcomes of 3 different models with 3 different queries;
+
+* `retrieval.ipynb` script was corrupted in the previous commit. I have re-written and re-commited it.
