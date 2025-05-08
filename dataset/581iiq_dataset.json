@@ -1,0 +1,184 @@
+[
+    {
+      "query": "“Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiya Azərbaycan tərəfindən nə vaxt və hansı şəhərdə imzalanmışdır?",
+      "pos": [
+        "2002-ci il oktyabrın 7-də Kişinyov şəhərində Müstəqil Dövlətlər Birliyinin Dövlət Başçıları Şurasının iclasında Azərbaycan Respublikası tərəfindən xüsusi rəy ilə imzalanmış “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiya təsdiq edilsin."
+      ],
+      "neg": [
+        "II. Bu Qanun dərc edildiyi gündən qüvvəyə minir.",
+        "Bakı şəhəri, 13 yanvar 2004-cü il"
+      ],
+      "pos_scores": [98.2],
+      "neg_scores": [87.0, 85.5],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Milli Məclisi “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanın təsdiqi barədə Qanunu nə vaxt qəbul edib?",
+      "pos": [
+        "Bakı şəhəri, 13 yanvar 2004-cü il"
+      ],
+      "neg": [
+        "2002-ci il oktyabrın 7-də Kişinyov şəhərində...",
+        "II. Bu Qanun dərc edildiyi gündən qüvvəyə minir."
+      ],
+      "pos_scores": [97.9],
+      "neg_scores": [88.1, 86.3],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "“Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanın təsdiq edilməsi haqqında Qanun hansı tarixdən etibarən qüvvəyə minib?",
+      "pos": [
+        "II. Bu Qanun dərc edildiyi gündən qüvvəyə minir."
+      ],
+      "neg": [
+        "Bakı şəhəri, 13 yanvar 2004-cü il",
+        "581-IIQ"
+      ],
+      "pos_scores": [98.8],
+      "neg_scores": [89.0, 87.2],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Konvensiyanın təsdiq edilməsi barədə Azərbaycan Respublikası Qanununun qeydiyyat nömrəsi hansıdır?",
+      "pos": [
+        "581-IIQ"
+      ],
+      "neg": [
+        "13 yanvar 2004-cü il",
+        "2002-ci il oktyabrın 7-də"
+      ],
+      "pos_scores": [99.0],
+      "neg_scores": [86.5, 88.3],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikasının “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanın yeni redaksiyasına dair Xüsusi Rəyinin ilk bəndi nəyi ifadə edir?",
+      "pos": [
+        "1. Bu Konvensiya çərçivəsində əməliyyat-axtarış tədbirlərinin sorğu əsasında yerinə yetirilməsi Azərbaycan Respublikasının qüvvədə olan qanunvericiliyinin buna imkan verdiyi həcmdə və yalnız onun səlahiyyətli orqanları tərəfindən mümkündür."
+      ],
+      "neg": [
+        "2. Bu Konvensiya çərçivəsində məhkəmə qərarına əsasən yalnız cinayətin törədilməsində istifadə edilən alət və vasitələrin, habelə cinayət yolu ilə əldə edilmiş əmlakın müsadirəsi mümkündür.",
+        "3. Konvensiyanın 63 və 108-ci maddələrinin Azərbaycan Respublikası üçün hüquqi qüvvəsi yoxdur."
+      ],
+      "pos_scores": [97.5],
+      "neg_scores": [90.1, 87.7],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycanın Xüsusi Rəyinə görə, Konvensiya çərçivəsində hansı növ əmlakın müsadirəsinə icazə verilir?",
+      "pos": [
+        "2. Bu Konvensiya çərçivəsində məhkəmə qərarına əsasən yalnız cinayətin törədilməsində istifadə edilən alət və vasitələrin, habelə cinayət yolu ilə əldə edilmiş əmlakın müsadirəsi mümkündür."
+      ],
+      "neg": [
+        "1. Bu Konvensiya çərçivəsində əməliyyat-axtarış tədbirlərinin sorğu əsasında yerinə yetirilməsi... mümkündür.",
+        "Konvensiyanın 63 və 108-ci maddələrinin Azərbaycan Respublikası üçün hüquqi qüvvəsi yoxdur."
+      ],
+      "pos_scores": [98.1],
+      "neg_scores": [88.5, 86.0],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikası üçün Konvensiyanın hansı maddələri qüvvədə sayılmır?",
+      "pos": [
+        "3. Konvensiyanın 63 və 108-ci maddələrinin Azərbaycan Respublikası üçün hüquqi qüvvəsi yoxdur."
+      ],
+      "neg": [
+        "II. Bu Qanun dərc edildiyi gündən qüvvəyə minir.",
+        "MDB Dövlət Başçıları Şurasının ... iclasının 13.3 bəndli gündəmində duran məsələyə dair"
+      ],
+      "pos_scores": [98.6],
+      "neg_scores": [89.2, 87.4],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "“Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanın yeni redaksiyasına Azərbaycan Respublikasının Xüsusi Rəyini kim imzalayıb?",
+      "pos": [
+        "Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti"
+      ],
+      "neg": [
+        "İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti",
+        "Ukrayna adından"
+      ],
+      "pos_scores": [99.2],
+      "neg_scores": [88.0, 86.8],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "“Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiya hansı beynəlxalq təşkilatın üzv dövlətləri tərəfindən imzalanmışdır?",
+      "pos": [
+        "Müstəqil Dövlətlər Birliyinin iştirakçısı olan dövlətlər bu Konvensiyanın iştirakçıları..."
+      ],
+      "neg": [
+        "Azərbaycan Respublikasının Milli Məclisi qərara alır:",
+        "Bakı şəhəri, 13 yanvar 2004-cü il"
+      ],
+      "pos_scores": [97.3],
+      "neg_scores": [87.0, 85.5],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "“Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanın təsdiq edilməsi barədə Qanunu hansı Azərbaycan Prezidenti imzalayıb?",
+      "pos": [
+        "İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti"
+      ],
+      "neg": [
+        "Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti",
+        "II. Bu Qanun dərc edildiyi gündən qüvvəyə minir."
+      ],
+      "pos_scores": [98.9],
+      "neg_scores": [90.5, 89.3],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikası “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanı imzalayarkən hansı formada mövqeyini bildirib?",
+      "pos": [
+        "...Azərbaycan Respublikası tərəfindən xüsusi rəy ilə imzalanmış “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiya təsdiq edilsin."
+      ],
+      "neg": [
+        "Konvensiyanın 63 və 108-ci maddələrinin Azərbaycan Respublikası üçün hüquqi qüvvəsi yoxdur.",
+        "II. Bu Qanun dərc edildiyi gündən qüvvəyə minir."
+      ],
+      "pos_scores": [97.6],
+      "neg_scores": [88.2, 86.7],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycanın Xüsusi Rəyinə əsasən, əməliyyat-axtarış tədbirləri Konvensiya çərçivəsində hansı şərtlər daxilində həyata keçirilə bilər?",
+      "pos": [
+        "1. Bu Konvensiya çərçivəsində əməliyyat-axtarış tədbirlərinin sorğu əsasında yerinə yetirilməsi Azərbaycan Respublikasının qüvvədə olan qanunvericiliyinin buna imkan verdiyi həcmdə və yalnız onun səlahiyyətli orqanları tərəfindən mümkündür."
+      ],
+      "neg": [
+        "Məhkəmə qərarına əsasən yalnız cinayətin törədilməsində istifadə edilən alət və vasitələrin ... müsadirəsi mümkündür.",
+        "Ukraynanın QEYD-ŞƏRT..."
+      ],
+      "pos_scores": [98.3],
+      "neg_scores": [87.9, 85.2],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "MDB Dövlət Başçıları Şurasının iclasında “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanın yeni redaksiyası gündəmdə olubmu?",
+      "pos": [
+        "MDB Dövlət Başçıları Şurasının “Mülki, ailə və cinayət işləri üzrə hüquqi yardıra və hüquqi münasibətlər haqqında Konvensiyanın yeni redaksiyası haqqında” iclasının 13.3 bəndli gündəmində duran məsələyə dair"
+      ],
+      "neg": [
+        "Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti",
+        "Konvensiyanın 63 və 108-ci maddələrinin Azərbaycan Respublikası üçün hüquqi qüvvəsi yoxdur."
+      ],
+      "pos_scores": [97.1],
+      "neg_scores": [90.0, 88.8],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "“Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” Konvensiyanın iştirakçısı olan dövlətlər sənəddə necə adlandırılır?",
+      "pos": [
+        "Müstəqil Dövlətlər Birliyinin iştirakçısı olan dövlətlər bu Konvensiyanın iştirakçıları (bundan sonra Razılığa gələn Tərəflər adlanacaq)"
+      ],
+      "neg": [
+        "Azərbaycan Respublikasının Milli Məclisi qərara alır:",
+        "XÜSUSİ RƏYİ"
+      ],
+      "pos_scores": [99.5],
+      "neg_scores": [86.2, 85.1],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    }
+  ]

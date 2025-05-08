@@ -1,0 +1,54 @@
+[
+    {
+      "query": "Azərbaycan Respublikası vətəndaşının şəxsiyyətini təsdiq edən əsas sənəd hansıdır?",
+      "pos": [
+        "Azərbaycan Respublikasının ərazisində Azərbaycan Respublikası vətəndaşının şəxsiyyətini təsdiq edən sənəd Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsidir (bundan sonra şəxsiyyət vəsiqəsi)."
+      ],
+      "neg": [
+        "Xarici dövlətlərlə müvafiq beynəlxalq müqavilə bağlanmış olduğu halda, şəxsiyyət vəsiqəsindən həmin dövlətlərdə də vətəndaşın şəxsiyyətini təsdiq edən, habelə onun ölkədən getmək və ölkəyə gəlmək hüququnun həyata keçirilməsi üçün nəzərdə tutulan sənəd kimi istifadə oluna bilər.",
+        "Şəxsiyyət vəsiqəsinin təsvirini, spesifikasiyasını və nümunəsini müvafiq icra hakimiyyəti orqanı təsdiq edir."
+      ],
+      "pos_scores": [99.0],
+      "neg_scores": [85.0, 82.1],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Neçə yaşı tamam olmuş vətəndaş şəxsiyyət vəsiqəsi almalıdır və hansı müddətdə?",
+      "pos": [
+        "Azərbaycan Respublikasının hər bir vətəndaşı 15 yaşı tamam olduqdan və ya şəxs Azərbaycan Respublikası vətəndaşlığına qəbul edildikdən sonra bir ay müddətində şəxsiyyət vəsiqəsi almalıdır."
+      ],
+      "neg": [
+        "15 yaşı tamam olmamış Azərbaycan Respublikasının vətəndaşı şəxsiyyət vəsiqəsini onun valideyninin, vətəndaşı övladlığa götürənin, vətəndaşın qəyyumunun və ya himayəçisinin (bundan sonra qanuni nümayəndəsinin), habelə qanuni nümayəndəsinin notariat qaydasında təsdiq edilmiş etibarnaməsi əsasında təyin olunmuş şəxsin müraciəti əsasında almaq hüququna malikdir.",
+        "Şəxsiyyət vəsiqəsi on illik müddətə, 55 yaşı tamam olmuş şəxslərə isə qeyri-məhdud müddətə verilir."
+      ],
+      "pos_scores": [98.5],
+      "neg_scores": [89.5, 86.7],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Şəxsiyyət vəsiqəsinin elektron daşıyıcısında (çipdə) hansı məlumatlar yerləşdirilir?",
+      "pos": [
+        "Şəxsiyyət vəsiqəsinə yerləşdirilən elektron daşıyıcıya (çipə) aşağıdakı məlumatlar daxil edilir: bu maddənin birinci hissəsində göstərilən məlumatlar; vətəndaş soyadını və (və ya) adını dəyişdiribsə, əvvəlki soyadı və (və ya) adı; vətəndaşın doğulduğu yer, yaşadığı yer, ailə vəziyyəti, boyu, gözlərinin rəngi, əl-barmaq izləri, hərbi vəzifəsi; vətəndaşın valideynlərinin soyadı, adı, atasının adı, vətəndaşın qanuni nümayəndəsinin soyadı, adı, atasının adı və əlaqə məlumatları (poçt ünvanı, telefon nömrələri), vətəndaşın ərinin (arvadının) soyadı və adı (nikaha daxil olarkən soyad dəyişdiribsə, nikahdan əvvəlki soyad da göstərilir); vətəndaşın uşaqlarının soyadı və adı; vətəndaşın istəyi əsasında onun gücləndirilmiş elektron imzası ilə əlaqədar sertifikatlar, akkreditə edilmiş sertifikat xidmətləri mərkəzi tərəfindən verilmiş elektron imza yaratma və elektron imzanı yoxlama məlumatları (imza yaratma məlumatları oxunuş üçün bağlıdır); şəxsiyyət vəsiqəsini verən orqanın adı və vəsiqənin verilmə tarixi; \"Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında\" Azərbaycan Respublikası Qanununun tətbiqi haqqında Əsasnamə\"də nəzərdə tutulduğu halda digər məlumatlar."
+      ],
+      "neg": [
+        "Şəxsiyyət vəsiqəsinin üzərində vətəndaşın soyadı, adı, atasının adı, vətəndaşın cinsi, doğulduğu tarix, doğulduğu yer, qan qrupu, fərdi identifikasiya nömrəsi, vəsiqənin nömrəsi və etibarlılıq müddəti göstərilir, həmçinin şəxsiyyət vəsiqəsi sahibinin şəxsi imzası və Beynəlxalq Mülki Aviasiya Təşkilatının (İCAO-nun) tələblərinə uyğun fotoşəkli yerləşdirilir.",
+        "15 yaşı tamam olmamış vətəndaşdan əl-barmaq izləri götürülmür, habelə ona verilən şəxsiyyət vəsiqəsinin elektron daşıyıcısına vətəndaşın ailə vəziyyəti, boyu, gözlərinin rəngi, hərbi vəzifəsi ... göstərilən məlumatlar daxil edilmir."
+      ],
+      "pos_scores": [98.0],
+      "neg_scores": [90.5, 88.2],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Hansı hallarda şəxsiyyət vəsiqəsi dəyişdirilməlidir?",
+      "pos": [
+        "Şəxsiyyət vəsiqəsinin etibarlılıq müddəti bitdikdə, yaxud vətəndaşın soyadı, adı, atasının adı dəyişdikdə və ya şəxsiyyət vəsiqəsi, o cümlədən onun elektron daşıyıcısı (çip) yararsız hala düşdükdə, yaxud vəsiqənin üzərindəki məlumatların səhv olduğu müəyyənləşdirildikdə, şəxsiyyət vəsiqəsi dəyişdirilməlidir."
+      ],
+      "neg": [
+        "Bu maddənin ikinci hissəsində göstərilən hallardan biri baş verdikdən sonra vətəndaşvə ya onun qanuni nümayəndəsi şəxsiyyət vəsiqəsinin dəyişdirilməsi üçün bir ay müddətində vəsiqəni verən orqanaözü və ya vətəndaşın qanuni nümayəndəsinin notariat qaydasında təsdiq edilmiş etibarnaməsi əsasında təyin olunmuş şəxs vasitəsilə müraciət etməlidir.",
+        "Şəxsiyyət vəsiqəsi on illik müddətə, 55 yaşı tamam olmuş şəxslərə isə qeyri-məhdud müddətə verilir."
+      ],
+      "pos_scores": [98.7],
+      "neg_scores": [87.4, 85.9],
+      "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+    }
+  ]
