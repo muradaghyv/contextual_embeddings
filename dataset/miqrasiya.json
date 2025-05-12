@@ -1,0 +1,338 @@
+[
+    {
+      "query": "Azərbaycan Respublikasının miqrasiya qanunvericiliyi hansı sənədlərdən ibarətdir?",
+      "pos": [
+        "Maddə 1. Azərbaycan Respublikasının miqrasiya qanunvericiliyi\nAzərbaycan Respublikasının miqrasiya qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Məcəllədən, Azərbaycan Respublikasının qanunlarından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən və onlara uyğun olaraq qəbul edilmiş digər normativ hüquqi aktlardan ibarətdir."
+      ],
+      "neg": [
+        "Maddə 2. Azərbaycan Respublikası miqrasiya qanunvericiliyinin prinsipləri\nAzərbaycan Respublikasının miqrasiya qanunvericiliyi insan və vətəndaş hüquqlarına və azadlıqlarına hörmət, qanunçuluq, qanun qarşısında bərabərlik və ədalətlilik... prinsiplərinə əsaslanır.",
+        "3.0.4. pasport şəxsə vətəndaşı olduğu ölkə tərəfindən verilən, ona ölkədən getmək və ölkəyə gəlmək hüququ verən, habelə onun şəxsiyyətini və vətəndaşlığını təsdiq edən sənəd;",
+        "5.0. Miqrasiya proseslərinin iştirakçıları aşağıdakılardır:"
+      ],
+      "pos_scores": [98.0],
+      "neg_scores": [88.5, 85.0, 86.2],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Miqrasiya Məcəlləsində \"vətəndaşlığı olmayan şəxs\" necə tərif edilir?",
+      "pos": [
+        "3.0.2. vətəndaşlığı olmayan şəxs heç bir dövlət tərəfindən onun qanununa əsasən vətəndaşı olmayan və başqa dövlətin vətəndaş hesab edilməyən şəxs;"
+      ],
+      "neg": [
+        "3.0.1. əcnəbi Azərbaycan Respublikasının vətəndaşlığına mənsub olan şəxs;",
+        "3.0.3. yetkinlik yaşına çatmayan şəxs 18 yaşı tamam olmayan şəxs;",
+        "6.1. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin miqrasiya uçotu (bundan sonra miqrasiya uçotu) əcnəbilər və vətəndaşlığı olmayan şəxslər haqqında bu Məcəllə ilə nəzərdə tutulmuş məlumatların, habelə onların yerdəyişməsi haqqında məlumatların qeydə alınması və ümumiləşdirilməsi sahəsində fəaliyyətdir."
+      ],
+      "pos_scores": [97.7],
+      "neg_scores": [90.1, 87.6, 89.3],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikasının Miqrasiya Məcəlləsi hansı münasibətləri tənzimləyir?",
+      "pos": [
+        "4.1. Bu Məcəllə Azərbaycan Respublikası vətəndaşlarının ölkədən getməsi, ölkəyə gəlməsi, əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasına gəlməsi və Azərbaycan Respublikasından getməsi, Azərbaycan Respublikasında müvəqqəti olması, onlara müvəqqəti və daimi yaşamaq üçün icazələrin verilməsi, onların qeydiyyata alınması, miqrasiya prosesi iştirakçılarının hüquq və vəzifələri, əmək miqrasiyası, habelə miqrasiyaya dövlət nəzarəti və qanunsuz miqrasiyaya qarşı mübarizə sahəsində münasibətləri tənzimləyir."
+      ],
+      "neg": [
+        "4.2. Bu Məcəllə ilə müəyyən edilən qaydalar daxili əmək miqrasiyasına şamil edilmir.",
+        "5.0.1. miqrasiya proseslərinin idarə olunmasında və tənzimlənməsində iştirak edən, habelə həmin proseslərə dövlət nəzarətini həyata keçirən dövlət orqanları;",
+        "6.2. Miqrasiya uçotu miqrasiya proseslərinin idarə olunması formalarından biridir..."
+      ],
+      "pos_scores": [98.3],
+      "neg_scores": [88.2, 86.9, 87.5],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Miqrasiya uçotunun məqsədləri nələrdir?",
+      "pos": [
+        "6.3. Miqrasiya uçotu aşağıdakı məqsədlərlə aparılır:\n6.3.1. əcnəbilərin və vətəndaşlığı olmayan şəxslərin öz hüquq və azadlıqlarını həyata keçirməsi, habelə üzərlərinə qoyulmuş vəzifələri yerinə yetirməsi üçün lazımi şərait yaradılması;\n6.3.2. miqrasiya sahəsində dövlət siyasətinin işlənməsi və həyata keçirilməsi;\n6.3.3. əcnəbilərin və vətəndaşlığı olmayan şəxslərin yerdəyişməsinin nəticələrinin proqnozlaşdırılması məqsədi ilə belə yerdəyişmə haqqında tam, dəqiq və operativ məlumatın formalaşdırılması, habelə miqrasiya sahəsində statistik müşahidənin aparılması;"
+      ],
+      "neg": [
+        "7.1. Şəxsin miqrasiya uçotuna alınması üçün əsaslar aşağıdakılardır:",
+        "8.1. Miqrasiya uçotu aparılarkən əcnəbilər və vətəndaşlığı olmayan şəxslər haqqında aşağıdakı məlumatların toplanması, qeydə alınması, ümumiləşdirilməsi və istifadəsi həyata keçirilir:",
+        "9.1. Azərbaycan Respublikasının vətəndaşı (bundan sonra - vətəndaş) dövlət sərhədinin buraxılış məntəqələrindən keçərək sərbəst surətdə ölkədən getmək və ölkəyə gəlmək hüququna malikdir."
+      ],
+      "pos_scores": [97.9],
+      "neg_scores": [85.4, 87.0, 86.6],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Yetkinlik yaşına çatmayan Azərbaycan vətəndaşı ölkədən valideynlərinin biri ilə getdikdə digər valideynin razılığı tələb olunurmu?",
+      "pos": [
+        "11.2. Yetkinlik yaşına çatmayan vətəndaş ölkədən valideynlərinin biri ilə getdikdə digər valideynin notariat qaydasında təsdiq edilmiş razılığı tələb olunur."
+      ],
+      "neg": [
+        "11.1. Bu Məcəllənin 11.2-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, yetkinlik yaşına çatmayan vətəndaş ölkədən valideynləri, övladlığa götürəni, himayəçisi və ya qəyyumu ilə gedə bilər.",
+        "11.3. Yetkinlik yaşına çatmayan vətəndaşın valideynlərindən birinin ölüm haqqında şəhadətnaməsi... olduqda, digər valideynin razılığı tələb olunmur.",
+        "12. Fəaliyyət qabiliyyətinin olmaması məhkəmə tərəfindən təsdiq edilmiş vətəndaş ölkədən valideynlərinin... notariat qaydasında təsdiq edilmiş vəsatəti əsasında... gedə bilər."
+      ],
+      "pos_scores": [98.1],
+      "neg_scores": [90.0, 89.2, 87.8],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Əcnəbilər və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasından getməsi hansı hallarda müvəqqəti məhdudlaşdırıla bilər?",
+      "pos": [
+        "17.1. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasından getməsi aşağıdakı hallarda müvəqqəti məhdudlaşdırıla bilər:\n17.1.1. onların getməsi milli təhlükəsizliyin təmin edilməsi mənafeyinə zidd olduqda bu əsas aradan qalxanadək;\n17.1.2. onlar Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsinə uyğun olaraq tutulduqda və ya barələrində hər hansı qətimkan tədbiri seçildikdə azad edilənədək, qətimkan tədbirinin müddəti bitənədək və ya qətimkan tədbiri ləğv edilənədək;"
+      ],
+      "neg": [
+        "16.1. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbaycan Respublikasına gəlmək aşağıdakı hallarda qadağan edilir:",
+        "18.1. Bu Məcəllənin tələblərini pozaraq pasportsuz, vizasız və ya etibarlı olmayan pasport və digər sənədlərlə Azərbaycan Respublikasının dövlət sərhədini keçməyə cəhd göstərən əcnəbilər... Azərbaycan Respublikasının ərazisinə buraxılmadan, gəldikləri ölkəyə qaytarılırlar.",
+        "19.2. Azərbaycan Respublikasının ərazisindən tranzitlə keçən əcnəbiyə VƏ ya vətəndaşlığı olmayan şəxsə bu Məcəllənin 34-37-ci maddələrində nəzərdə tutulmuş qaydada tranzit vizası verilir."
+      ],
+      "pos_scores": [97.6],
+      "neg_scores": [88.7, 86.4, 85.9],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikasında müvəqqəti olan əcnəbilərin və vətəndaşlığı olmayan şəxslərin olduğu yer üzrə qeydiyyatı üçün dövlət rüsumu ödənilirmi?",
+      "pos": [
+        "21.7. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin olduğu yer üzrə qeydiyyata alınması üçün dövlət rüsumu ödənilmir."
+      ],
+      "neg": [
+        "21.2. Bunun üçün əcnəbinin və ya vətəndaşlığı olmayan şəxsin qaldığı yerin... müdiriyyəti və ya mənzilin... sahibi... ərizə-anketi və onun pasportunun... surətini müvafiq icra hakimiyyəti orqanına təqdim etməlidir.",
+        "21.5. Əcnəbilər və vətəndaşlığı olmayan şəxslər aşağıdakı müddətlərə qeydiyyata alınırlar:",
+        "36.1.5. viza verilməsi üçün dövlət rüsumunun ödənilməsi barədə sənəd;"
+      ],
+      "pos_scores": [98.4],
+      "neg_scores": [89.9, 87.2, 90.5],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Şəxsin Azərbaycan Respublikasında olması arzuolunmaz hesab edilməsi nə qədər müddətə müəyyən edilir?",
+      "pos": [
+        "23.2. Şəxsin arzuolunmaz hesab edilməsi 5 il müddətinə müəyyən edilir və müvafiq əsaslar aradan qalxmadıqda eyni müddətə uzadıla bilər. Uzadılmaların sayı məhdudlaşdırılmır."
+      ],
+      "neg": [
+        "23.1. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasına gəlməsi, Azərbaycan Respublikasında olması və ya yaşaması... zərər vura biləcəyi hallarda... ölkədə olması arzuolunmaz hesab edilə bilər.",
+        "24.6. Giriş vizasının etibarlılıq müddəti birdəfəlik giriş-çıxış üçün 90 günədək, çoxdəfəlik giriş-çıxış üçün isə 2 ilədək müəyyən olunur.",
+        "34.2. Tranzit vizasının etibarlılıq müddəti 30 günədək, ölkədə qalma müddəti isə 5 günədək müəyyən edilir."
+      ],
+      "pos_scores": [97.3],
+      "neg_scores": [88.0, 86.7, 85.1],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Adi kateqoriyalı giriş vizaları hansı məqsədlərlə verilir?",
+      "pos": [
+        "24.5. Adi kateqoriyalı giriş vizaları işgüzar, elm, təhsil, əmək, turizm, mədəniyyət, idman, humanitar, müalicə və şəxsi səfər məqsədləri ilə Azərbaycan Respublikasına gələn əcnəbilərə və vətəndaşlığı olmayan şəxslərə verilir."
+      ],
+      "neg": [
+        "24.3. Giriş vizası diplomatik, xidməti və adi kateqoriyalara bölünür.",
+        "24.4. Diplomatik və xidməti kateqoriyalı giriş vizaları yalnız rəsmi səfər məqsədi ilə Azərbaycan Respublikasına gələn əcnəbilərə və vətəndaşlığı olmayan şəxslərə verilir.",
+        "33.1. Turizm vizası Azərbaycan Respublikasına turist kimi gələn əcnəbilərə VƏ vətəndaşlığı olmayan şəxslərə verilir."
+      ],
+      "pos_scores": [98.0],
+      "neg_scores": [90.2, 89.5, 87.8],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Turizm məqsədi ilə verilən giriş vizasında ölkədə qalma müddəti nə qədərdir?",
+      "pos": [
+        "33.2. Turizm vizasında ölkədə qalma müddəti 30 günədək müəyyən edilir."
+      ],
+      "neg": [
+        "26.2. İşgüzar səfər vizasında ölkədə qalma müddəti 180 günədək müəyyən edilir.",
+        "28.2. Əmək vizasında ölkədə qalma müddəti 90 günədək müəyyən edilir.",
+        "34.2. Tranzit vizasının etibarlılıq müddəti 30 günədək, ölkədə qalma müddəti isə 5 günədək müəyyən edilir."
+      ],
+      "pos_scores": [97.5],
+      "neg_scores": [88.3, 87.0, 86.1],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Elektron viza ilə ölkədə qalma müddəti nə qədər müəyyən edilir?",
+      "pos": [
+        "38.1. ...Elektron qaydada verilən birdəfəlik vizada ölkədə qalma müddəti 30 günədək, çoxdəfəlik vizada isə 90 günədək müəyyən edilir."
+      ],
+      "neg": [
+        "38.3. Elektron viza siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən ölkələrin vətəndaşlarına və həmin ölkələrdə daimi yaşayan vətəndaşlığı olmayan şəxslərə verilir.",
+        "38.8. Elektron viza pasporta yapışdırılmır, əcnəbi və ya vətəndaşlığı olmayan şəxs Azərbaycan Respublikasının dövlət sərhədinin buraxılış məntəqəsindən keçərkən çap edilmiş elektron vizanı və ya həmin vizanın məlumatlarını sərhədkeçmə sənədi ilə birgə təqdim edir.",
+        "24.6. Giriş vizasının etibarlılıq müddəti birdəfəlik giriş-çıxış üçün 90 günədək, çoxdəfəlik giriş-çıxış üçün isə 2 ilədək müəyyən olunur."
+      ],
+      "pos_scores": [98.2],
+      "neg_scores": [89.0, 90.4, 87.7],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Əcnəbilərin Azərbaycan Respublikasında müvəqqəti olma müddəti hansı hallarda uzadılır?",
+      "pos": [
+        "40.0. Bu Məcəllənin 43-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında müvəqqəti olma müddəti aşağıdakı hallarda uzadılır:\n40.0.1. əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisində təcili müalicə olunmasına zərurət yarandıqda;\n40.0.2. əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında yaşayan yaxın qohumları ağır xəstələndikdə və ya vəfat etdikdə;"
+      ],
+      "neg": [
+        "39.1. Bu Məcəllənin 40-cı maddəsində müəyyən olunmuş hallarda əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında müvəqqəti olma müddəti müvafiq icra hakimiyyəti orqanı tərəfindən uzadıla bilər...",
+        "43.1. Әсnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında müvəqqəti olma müddəti aşağıdakı hallarda uzadılmır...",
+        "45.1. ...əcnəbilərə və vətəndaşlığı olmayan şəxslərə aşağıdakı hallarda Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə verilir (müddəti uzadılır):"
+      ],
+      "pos_scores": [97.4],
+      "neg_scores": [88.1, 89.8, 86.5],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə vəsiqəsi hansı hüquqları verir?",
+      "pos": [
+        "44.4. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə vəsiqəsi əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə və etibarlılıq müddətində Azərbaycan Respublikasından getmək və viza almadan Azərbaycan Respublikasına qayıtmaq hüququ verən, habelə həmin şəxslərin ölkə ərazisində şəxsiyyətini və yaşayış yeri üzrə qeydiyyata alındığını təsdiq edən sənəddir."
+      ],
+      "neg": [
+        "44.1. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq istəyən əcnəbilər və vətəndaşlığı olmayan şəxslər bunun üçün müvafiq icazə almalıdırlar.",
+        "45.1.3. Azərbaycan Respublikasının ərazisində azı 100.000 manat dəyərində daşınmaz əmlakı və ya Azərbaycan Respublikasının banklarında həmin məbləğdə pul vəsaiti olduqda;",
+        "49.1. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə, bu Məcəllənin 45.1.2-ci maddəsində nəzərdə tutulan hal istisna olmaqla, ərizəçinin müraciətində göstərilən, lakin 1 ildən artıq olmayan müddətə verilir..."
+      ],
+      "pos_scores": [98.0],
+      "neg_scores": [87.3, 85.9, 88.6],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Əmək miqrasiyası kvotası nə məqsədlə tətbiq edilir?",
+      "pos": [
+        "51.6. Kvota yerli əmək ehtiyatlarından səmərəli istifadə edilməsi və əmək miqrasiyası proseslərinin tənzimlənməsi sahəsindəki işlərin effektivliyinin artırılması məqsədi ilə tətbiq edilir."
+      ],
+      "neg": [
+        "51.1. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq və haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq istəyən əcnəbilər və vətəndaşlığı olmayan şəxslər müvəqqəti yaşamaq üçün icazə ilə yanaşı, iş icazəsi almalıdırlar.",
+        "51.5. İş icazəsinin verilməsi müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən əmək miqrasiyası kvotası çərçivəsində... həyata keçirilir.",
+        "57.1. Dövlət əmək miqrasiyası kvotasının tətbiq edilməsi, iş icazələrinin verilməsi... yolu ilə əmək miqrasiyasını tənzimləyir."
+      ],
+      "pos_scores": [97.7],
+      "neg_scores": [89.1, 90.8, 87.4],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikasında daimi yaşamaq üçün icazənin etibarlılıq müddəti nə qədərdir?",
+      "pos": [
+        "54.12. Azərbaycan Respublikasında daimi yaşamaq üçün icazə 5 il müddətinə verilir. Bu müddətin bitməsinə azı 3 ay qalmış əcnəbinin və vətəndaşlığı olmayan şəxsin müraciətinə əsasən daimi yaşamaq üçün verilmiş icazə yenidən 5 il müddətinə uzadıla bilər. Uzadılmaların sayı məhdudlaşdırılmır."
+      ],
+      "neg": [
+        "52.1. Bu Məcəllənin 45.1.1-45.1.7-ci maddələrində nəzərdə tutulmuş əsaslarla müvafiq icazə əsasında son 2 il ərzində fasiləsiz olaraq Azərbaycan Respublikasının ərazisində müvəqqəti yaşayan əcnəbilərə... daimi yaşamaq üçün icazə verilir:",
+        "53.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının ərazisində daimi yaşamaq icazəsinin alınması (müddətinin uzadılması) üçün aşağıdakı sənədləri təqdim etməlidirlər:",
+        "49.1. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə... lakin 1 ildən artıq olmayan müddətə verilir..."
+      ],
+      "pos_scores": [98.2],
+      "neg_scores": [90.0, 88.3, 86.9],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Hansı əcnəbilər və vətəndaşlığı olmayan şəxslər üçün iş icazəsinin alınması tələb olunmur?",
+      "pos": [
+        "64.0. Aşağıdakı əcnəbilər və vətəndaşlığı olmayan şəxslər üçün iş icazəsinin alınması tələb olunmur:\n64.0.1. Azərbaycan Respublikasının ərazisində daimi yaşamaq üçün icazəsi olanlara;\n64.0.2. Azərbaycan Respublikasının ərazisində sahibkarlıq fəaliyyəti ilə məşğul olanlara;"
+      ],
+      "neg": [
+        "61.1. ...əcnəbi və vətəndaşlığı olmayan şəxs... iş icazəsi aldıqdan sonra Azərbaycan Respublikasında işləyə bilər.",
+        "63.2. Hüquqi şəxslər... bu Məcəllənin 64-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla, işə cəlb etmək istədikləri hər bir əcnəbi və ya vətəndaşlığı olmayan şəxs üçün iş icazəsi almalıdırlar.",
+        "65.1. İş icazəsi almaq üçün işəgötürən müvafiq icra hakimiyyəti orqanına aşağıdakı sənədləri təqdim etməlidir:"
+      ],
+      "pos_scores": [97.8],
+      "neg_scores": [89.7, 91.1, 87.6],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "İş icazəsinin müddəti nə qədərdir və uzadıla bilərmi?",
+      "pos": [
+        "69.1. İş icazəsi 1 il müddətinə, əmək müqaviləsinin 1 ildən az müddətə bağlanılması nəzərdə tutulduqda isə həmin müddətə verilir. İş icazəsinin müddəti, bu Məcəllənin 69.1-1-ci maddəsi nəzərə alınmaqla, hər dəfə 1 ildən çox olmamaq şərti ilə uzadıla bilər."
+      ],
+      "neg": [
+        "69.2. İş icazəsinin müddətinin uzadılması üçün işəgötürən iş icazəsinin müddətinin bitməsinə azı 30 gün qalmış müvafiq icra hakimiyyəti orqanına ərizə ilə müraciət etməlidir.",
+        "70.1. Əcnəbi və vətəndaşlığı olmayan şəxs eyni işəgötürənin yanında başqa işə keçirildikdə onun üçün yeni iş icazəsi alınmalıdır.",
+        "51.8. İş icazəsi blankının ciddi hesabat sənədi kimi qeydiyyat seriyası və nömrəsi, habelə qiymətli kağızların səviyyəsində qoruyucu nişanları olmalıdır."
+      ],
+      "pos_scores": [98.3],
+      "neg_scores": [90.4, 88.0, 86.2],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Əmək müqaviləsi vaxtından əvvəl pozulduqda iş icazəsi qüvvəsini itirirmi?",
+      "pos": [
+        "71.1. Əcnəbi və ya vətəndaşlığı olmayan şəxslə işəgötürən arasında bağlanılmış əmək müqaviləsi vaxtından əvvəl pozulduqda, işəgötürən bu barədə 5 iş günü ərzində müvafiq icra hakimiyyəti orqanına məlumat verməlidir. Əmək müqaviləsi vaxtından əvvəl pozulduqda, şəxsə verilmiş iş icazəsi öz qüvvəsini itirir."
+      ],
+      "neg": [
+        "71.2. Əmək müqaviləsi vaxtından əvvəl pozulduqda və əməkçi miqrantın Azərbaycan Respublikasında qalması üçün başqa əsas olmadıqda, o, 10 iş günü müddətində Azərbaycan Respublikasının ərazisini tərk etməlidir.",
+        "70.5. Əcnəbinin və vətəndaşlığı olmayan şəxsin iş icazəsinin müddəti bitdikdə və ya əmək müqaviləsi vaxtından əvvəl pozulduqda, onu başqa işəgötürən yeni iş icazəsi almaqla öz yanında işə dəvət edə bilər.",
+        "63.5. Hüquqi şəxslər... işə cəlb etdikləri əcnəbiləri... yalnız öz iş yerlərində işlə təmin etməli və bu barədə onlarla iş icazəsinin qüvvədə olduğu müddətə əmək müqaviləsi bağlamalıdırlar."
+      ],
+      "pos_scores": [97.9],
+      "neg_scores": [91.3, 89.6, 88.1],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikasının hüdudlarından kənara çıxarılma hansı əsaslarla baş verə bilər?",
+      "pos": [
+        "78.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər aşağıdakı hallarda Azərbaycan Respublikasının hüdudlarından kənara çıxarıla bilərlər:\n78.1.1. cinayət törədildiyinə görə Azərbaycan Respublikasının hüdudlarından kənara məcburi çıxarma cəzası təyin edildikdə;\n78.1.2. inzibati xəta törədildiyinə görə Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma inzibati tənbeh tədbiri tətbiq edildikdə;\n78.1.3. bu Məcəllənin 79-cu maddəsinə uyğun olaraq əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılması haqqında qərar (bundan sonra \"kənara çıxarma haqqında qərar\") qəbul edildikdə."
+      ],
+      "neg": [
+        "79.1. Müvafiq icra hakimiyyəti orqanı aşağıda göstərilən hallarda əcnəbilər VƏ vətəndaşlığı olmayan şəxslər barəsində kənara çıxarma haqqında qərar qəbul edir:",
+        "80.1. Bu Məcəllənin 78.1-ci maddəsində nəzərdə tutulmuş hallarda Azərbaycan Respublikasının hüdudlarından kənara çıxarılması qərara alınmış əcnəbilər və vətəndaşlığı olmayan şəxslər... müəyyən olunmuş müddətlərdə Azərbaycan Respublikasının ərazisini tərk etməlidirlər.",
+        "16.1.4. şəxs əvvəllər Azərbaycan Respublikasının hüdudlarından kənara çıxarıldıqda, əgər ölkəyə girişinə qoyulmuş məhdudiyyət müddəti bitməmişdirsə;"
+      ],
+      "pos_scores": [98.1],
+      "neg_scores": [89.2, 88.5, 87.0],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Kənara çıxarma haqqında qərarla əcnəbinin ölkəyə gəlişinə nə qədər müddətə məhdudiyyət qoyulur?",
+      "pos": [
+        "79.2. Kənara çıxarma haqqında qərarla həmçinin əcnəbilərin və vətəndaşlığı olmayan şəxslərin 5 ilədək müddətə ölkə ərazisinə gəlməsinə məhdudiyyət qoyulur."
+      ],
+      "neg": [
+        "79.1.1. vizası və ya müvəqqəti olma müddətinin uzadılması barədə qərarı, yaxud müvəqqəti və ya daimi yaşamaq üçün icazəsi ləğv edildikdə;",
+        "79.5. Kənara çıxarma haqqında qərar əcnəbilərə və ya vətəndaşlığı olmayan şəxslərə təqdim edildiyi vaxtdan həmin şəxslərin üzərinə aşağıdakı müddətlərdə ölkəni tərk etmək öhdəliyi qoyur:",
+        "16.2. Bu Məcəllənin 16.1.6-cı və 16.1.7-ci maddələrində nəzərdə tutulmuş hallarda əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasına gəlişinə 5 il müddətinə qadağa qoyulur."
+      ],
+      "pos_scores": [97.4],
+      "neg_scores": [86.8, 88.1, 90.7],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Hansı şəxslər barəsində kənara çıxarma haqqında qərar qəbul edilmir?",
+      "pos": [
+        "79.3. Qaçqın statusu verilmiş, habelə Azərbaycan Respublikası tərəfindən siyasi sığınacaq verilmiş əcnəbilər və vətəndaşlığı olmayan şəxslər barəsində kənara çıxarma haqqında qərar qəbul edilmir."
+      ],
+      "neg": [
+        "79.4. İnsan alverindən zərər çəkmiş hesab olunan əcnəbilər və vətəndaşlığı olmayan şəxslər barəsində 1 il müddətində, cinayət təqibi orqanlarına yardım göstərən əcnəbilər və vətəndaşlığı olmayan şəxslər barəsində isə cinayət təqibi başa çatanadək kənara çıxarma haqqında qərar qəbul edilmir.",
+        "78.1.1. cinayət törədildiyinə görə Azərbaycan Respublikasının hüdudlarından kənara məcburi çıxarma cəzası təyin edildikdə;",
+        "80.9. Azərbaycan Respublikasının ərazisindən çıxarılan əcnəbilərin və vətəndaşlığı olmayan şəxslərin çıxarılmasına görə xərclər onların öz üzərinə düşür."
+      ],
+      "pos_scores": [98.0],
+      "neg_scores": [91.5, 87.9, 86.3],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Azərbaycan Respublikasının hüdudlarından kənara çıxarılma hansı istiqamətlərdə həyata keçirilir?",
+      "pos": [
+        "81.1. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılması aşağıdakı istiqamətlərdə həyata keçirilir:\n81.1.1. əcnəbi vətəndaşı olduğu ölkəyə, bu mümkün olmadığı halda isə Azərbaycan Respublikasına birbaşa gəldiyi ölkəyə;\n81.1.2. vətəndaşlığı olmayan şəxs bundan əvvəl daimi yaşadığı ölkəyə, Azərbaycan Respublikasına birbaşa gəldiyi ölkəyə, onu qəbul etmək istəyi olan və bu barədə vəsatət qaldıran ölkəyə;"
+      ],
+      "neg": [
+        "80.8. Əcnəbilərin və ya vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılması barədə müvafiq icra hakimiyyəti orqanı tərəfindən əvvəlcədən müvafiq icra hakimiyyəti orqanına yazılı məlumatlar göndərilir.",
+        "80.2. Əcnəbilər və ya vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının ərazisini tərk etməkdən boyun qaçırdıqda... onlar... qanunsuz miqrantların saxlanılması mərkəzlərinə yerləşdirilirlər.",
+        "Maddə 78. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılmasının əsasları"
+      ],
+      "pos_scores": [97.7],
+      "neg_scores": [88.4, 87.2, 85.8],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Qanunsuz miqrantların saxlanılması mərkəzlərində əcnəbilər hansı müddətə məcburi yerləşdirilə bilərlər?",
+      "pos": [
+        "82.2. Aşağıdakı hallarda və müddətlərdə əcnəbilər və vətəndaşlığı olmayan şəxslər Mərkəzdə məcburi yerləşdirilirlər:\n82.2.1. müvafiq icra hakimiyyəti orqanının inzibati qaydada tutma barədə qərarı olduqda - 24 saatadək;\n82.2.2. məhkəmənin inzibati qaydada tutma barədə qərarı olduqda - üç günədək;\n82.2.3. bu Məcəllənin 80.2-ci və 80.3-cü maddələrində nəzərdə tutulmuş hallarda məhkəmənin müvafiq qərarı olduqda - qərarda göstərilən, lakin 6 aydan artıq olmayan müddətə."
+      ],
+      "neg": [
+        "82.1. Aşağıdakı hallarda və müddətlərdə əcnəbilər və vətəndaşlığı olmayan şəxslər qanunsuz miqrantların saxlanılması mərkəzlərində (bundan sonra - Mərkəz) könüllü yerləşdirilirlər:",
+        "83.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər Mərkəzdə könüllü yerləşdirilmələri üçün ərizə ilə müvafiq icra hakimiyyəti orqanına müraciət edirlər.",
+        "84.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər Mərkəzdə daxili intizam qaydalarında nəzərdə tutulmuş tələblər nəzərə alınmaqla 2, 6 və daha çox nəfərlik xüsusi yaşayış otaqlarında saxlanılırlar."
+      ],
+      "pos_scores": [98.1],
+      "neg_scores": [90.9, 88.3, 87.6],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    },
+    {
+      "query": "Miqrasiya qanunvericiliyinin pozulmasına görə fiziki və hüquqi şəxslər məsuliyyət daşıyırlarmı?",
+      "pos": [
+        "95.1. Azərbaycan Respublikasına gəlməyin və Azərbaycan Respublikasından getməyin, əcnəbilərin VƏ vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisində müvəqqəti olmasının, müvəqqəti və ya daimi yaşamasının və əmək fəaliyyəti ilə məşğul olmasının, habelə Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəldilməsinin bu Məcəllə ilə müəyyən edilmiş qaydalarını pozmuş fiziki və hüquqi şəxslər qanunla nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar."
+      ],
+      "neg": [
+        "95.2. Bu Məcəllənin tələblərini pozmuş dövlət orqanlarının vəzifəli şəxsləri qanunla nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.",
+        "95.3. Əcnəbilərin və ya vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisinə qanunsuz gəlməsinin... təşkil edilməsində təqsirkar şəxslər qanunla nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.",
+        "74.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasında olarkən... Azərbaycan Respublikasının vətəndaşları ilə bərabər bütün hüquqlardan istifadə edə bilərlər."
+      ],
+      "pos_scores": [97.8],
+      "neg_scores": [89.6, 88.0, 86.5],
+      "prompt": "Veb axtarış sorğusu verildikdə, sorğuya cavab verən müvafiq keçidləri tapın."
+    }
+  ]
