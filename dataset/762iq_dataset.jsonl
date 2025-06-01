@@ -1,0 +1,235 @@
+{
+  "query": "Notarius olmaq üçün hansı tələblər mövcuddur?",
+  "pos": [
+    "Ali hüquq təhsilli, hüquqşünas ixtisası üzrə 3 ildən az olmayaraq iş stajına, mənəvi keyfiyyətlərə və peşə biliklərinə malik Azərbaycan Respublikasının vətəndaşı notarius ola bilər[cite: 5]."
+  ],
+  "neg": [
+    "İkili vətəndaşlığı, digər dövlətlər qarşısında öhdəlikləri olan, şəxs, din xadimi, vəzifəsinin icrası ilə bağlı əvvəllər qanunvericiliyin tələblərini pozduğuna görə işdən azad edilmiş, qanunla müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan və ya məhdud fəaliyyət qabiliyyətli hesab olunan, əvvəllər cinayət törətmiş və buna görə məhkum olunmuş, barəsində notariat fəaliyyəti ilə məşğul olmasının məhdudlaşdırılması və ya tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi haqqında qanuni qüvvəyə minmiş məhkəmə qərarı çıxarılmış, habelə bəraətverici əsaslar olmadan cinayətin törədilməsi üzrə cinayət işinin xitam olunması haqqında qanuni qüvvəyə minmiş istintaq orqanı və ya məhkəmənin qərarı olan, tibbi rəyə əsasən fiziki və əqli pozuntularına görə notarius işləməyə qadir olmayan, 65 yaşına çatmış şəxs notarius ola bilməz[cite: 6]." ,
+    "Yuxarıda göstərilən tələblərə cavab verən və notarius olmaq istəyən şəxs notariat fəaliyyəti ilə məşğul olmaq üçün şəhadətnamə (bundan sonra şəhadətnamə) almalıdır[cite: 7]."
+  ],
+  "pos_scores": [98.5],
+  "neg_scores": [85.0, 88.0],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Notariusa hansı fəaliyyətlərlə məşğul olmaq qadağandır?",
+  "pos": [
+    "Elmi, pedaqoji və yaradıcılıq fəaliyyəti istisna olmaqla, notariusa sahibkarlıq fəaliyyəti ilə məşğul olmaq və digər haqqı ödənilən işləri yerinə yetirmək qadağandır[cite: 8]."
+  ],
+  "neg": [
+    "Notarius işlədiyi dövrdə hər hansı siyasi partiyada öz fəaliyyətini dayandırmalıdır[cite: 9].",
+    "Notarius Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən Notariusun etik davranış kodeksinin tələblərinə və müvafiq icra hakimiyyəti orqanının metodiki tövsiyələrinə riayət etməlidir[cite: 11]."
+  ],
+  "pos_scores": [97.8],
+  "neg_scores": [89.2, 86.5],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Notariat hərəkətləri aparılarkən hansı qanunvericilik aktları rəhbər tutulur?",
+  "pos": [
+    "Notariat hərəkətlərinin aparılması zamanı Azərbaycan Respublikasının Konstitusiyası, bu Qanun, Azərbaycan Respublikasının digər qanunları, habelə bu Qanuna zidd olmayan müvafiq icra hakimiyyəti orqanlarının öz səlahiyyətləri daxilində qəbul etdikləri normativ aktlar rəhbər tutulur[cite: 3]."
+  ],
+  "neg": [
+    "Azərbaycan Respublikasında notariat dedikdə bu Qanunla nəzərdə tutulmuş hüquqi hərəkətləri (bundan sonra notariat hərəkətləri) aparmağa müvəkkil edilmiş şəxslər birlikdə başa düşülür[cite: 1].",
+    "Azərbaycan Respublikasında rəsmi və doğru sənədlərin tərtibi üçün hüquqların, hüquqi əhəmiyyətli faktların təsdiqi va digər notariat hərəkətlərinin aparılması notariat fəaliyyətinə məxsusdur[cite: 2]."
+  ],
+  "pos_scores": [99.1],
+  "neg_scores": [87.7, 85.1],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Xüsusi notariusun peşə məsuliyyəti necə sığortalanır?",
+  "pos": [
+    "Xüsusi qaydada notariat fəaliyyətinin həyata keçirilməsi zamanı vurula biləcək ziyanın ödənilməsini təmin etmək məqsədilə belə fəaliyyətlə məşğul olmaq istəyən şəxs öz məsuliyyətini sığortalamalıdır[cite: 122]."
+  ],
+  "neg": [
+    "Notarius baş vermiş sığorta hadisəsi barədə 10 gün müddətində müvafiq icra hakimiyyəti orqanına məlumat verməlidir[cite: 123].",
+    "Xüsusi notariusların müştərilər qarşısındakı məsuliyyətinə zəmanət vermək məqsədi ilə zəmanət kassası yaradılır[cite: 124]."
+  ],
+  "pos_scores": [97.5],
+  "neg_scores": [88.8, 86.2],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Hansı hallarda notariat hərəkətləri aparmaqdan imtina edilir?",
+  "pos": [
+    "Notarius və notariat hərəkətlərini aparan digər vəzifəli şəxslər aşağıdakı hallarda notariat hərəkətlərini aparmaqdan imtina etməlidirlər: 1) hərəkətin aparılması qanuna zidd olduqda[cite: 263]; 2) hərəkəti başqa notarius və ya digər vəzifəli şəxs aparmalı olduqda[cite: 264]; 3) hərəkətin aparılması barədə fəaliyyət qabiliyyəti olmayan şəxs VƏ ya lazımi səlahiyyəti olmayan nümayəndə müraciət etdikdə[cite: 265]; 4) hüquqi şəxsin adından bağlanan əqd onun nizamnamə və ya əsasnaməsində göstərilən məqsədlərə zidd olduqda[cite: 266]; 5) qanunun tələblərinə uyğun olmayan əqd bağlandıqda[cite: 267]; 6) notariat hərəkətinin aparılması üçün təqdim olunan sənədlər qanunvericiliyin tələblərinə zidd olduqda və ya həmin sənədlərdə ayrı-ayrı şəxslərin şərəf və ləyaqətini ləkələyən məlumatlar olduqda[cite: 267]; 7) əqdin məzmunu tərəflərin həqiqi niyyətinə uyğun olmadıqda[cite: 268]."
+  ],
+  "neg": [
+    "Notariuslar və notariat hərəkətini aparan digər vəzifəli şəxslər hərəkətin aparılmasına rədd cavabı almış şəxsin xahişi ilə üç gün müddətində imtina barədə əsaslandırılmış qərar çıxarmalı və ondan şikayət verilməsi qaydasını izah etməlidirlər[cite: 268].",
+    "Aparılmış notariat hərəkətlərindən və ya notariat hərəkətlərini aparmaqdan imtina edilməsindən maraqlı şəxs ... məhkəməsinə şikayət verə bilər[cite: 271]."
+  ],
+  "pos_scores": [99.5],
+  "neg_scores": [89.0, 87.5],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Notariat sirrinin saxlanılması qaydaları necədir?",
+  "pos": [
+    "Notariuslar, notariat hərəkətləri aparan digər vəzifəli şəxslər və xidməti vəzifələrini yerinə yetirmələri ilə əlaqədar notariat hərəkətlərindən xəbərdar olan şəxslər bu hərəkətlərin sirrini saxlamağa borcludurlar[cite: 214, 215]."
+  ],
+  "neg": [
+    "Notariat hərəkətləri barədə arayışlar və sənədlər yalnız notariat hərəkətlərinin aparılmasını tapşırmış və ya barəsində notariat hərəkətləri aparılmış fiziki və hüquqi şəxslərə verilməlidir[cite: 210].",
+    "Notariat hərəkətləri ilə bağlı sənədlər məhkəmə, istintaq və təhqiqat orqanlarının icraatında olan konkret cinayət və ya mülki işlərlə əlaqədar bu orqanların qərarı əsasında onlara verilir[cite: 211]."
+  ],
+  "pos_scores": [98.1],
+  "neg_scores": [90.0, 88.3],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Xüsusi notariusun andının mətni nədir?",
+  "pos": [
+    "\"Azərbaycan Respublikasının Konstitusiyasına və qanunlarına dönmədən əməl edəcəyimə, dövlət tərəfindən mənə verilən hüquqları və üzərimə qoyulan vəzifələri vicdanla, qanunauyğun və insanların mənafeyi naminə, qərəzsiz həyata keçirəcəyimə, notariat sirrini qoruyacağıma and içirəm\"[cite: 66]."
+  ],
+  "neg": [
+    "Andiçmə bir dəfə olur[cite: 67].",
+    "Andın xüsusi notarius tərəfindən imzalanmış mətni onun şəxsi işində saxlanılır[cite: 67]."
+  ],
+  "pos_scores": [99.0],
+  "neg_scores": [85.5, 86.0],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Notariusun əsas vəzifələri hansılardır?",
+  "pos": [
+    "Notarius öz vəzifələrini yerinə yetirərkən: 1) fiziki və hüquqi şəxslərə aparılan notariat hərəkətləri ilə bağlı onların hüquq və vəzifələrini izah etməli, bu hüquqların həyata keçirilməsi VƏ qanuni mənafelərinin qorunması üçün köməklik göstərməlidir[cite: 56, 57]; 2) hüquqi məlumatsızlığın onlara vura biləcəyi ziyanın qarşısını almaq üçün notariat hərəkətlərinin aparılması nəticələri barədə onlara xəbərdarlıq etməlidir[cite: 57]; 3) bu Qanuna və Azərbaycan Respublikasının digər qanunvericilik aktlarına əməl etməli, peşə fəaliyyətinin həyata keçirilməsi ilə əlaqədar ona məlum olan məlumatları gizli saxlamalıdır[cite: 58]; 4) Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulan hallarda vərəsəlik və ya bağışlama qaydasında ayrı ayrı şəxslərin mülkiyyətinə keçən əmlakdan vergi hesablamaq məqsədi ilə əmlakın dəyəri barədə müvafiq icra hakimiyyəti orqanlarına arayış təqdim etməlidir[cite: 59]."
+  ],
+  "neg": [
+    "Notarius bu Qanunda nəzərdə tutulan hərəkətləri apara bilər, əqdlərin, ərizələrin və digər sənədlərin layihələrini tərtib edə bilər, sənədlərin surətlərini VƏ onlardan çıxarışları hazırlaya bilər, notariat hərəkətlərinin aparılması ilə əlaqədar məsləhətlər verə bilər, fiziki və hüquqi şəxslərdən həmin hərəkətlərin aparılması üçün sənədləri və məlumatları tələb edə bilər[cite: 55].",
+    "Azərbaycan Respublikasının qanunvericiliyi ilə notariusa digər hüquqlar da verilə bilər[cite: 56]."
+  ],
+  "pos_scores": [97.2],
+  "neg_scores": [87.8, 84.5],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Dövlət notariat arxivi hansı funksiyanı yerinə yetirir və kim tərəfindən idarə olunur?",
+  "pos": [
+    "Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının yanında 75 ilə qədər notariat sənədlərinin saxlanması üçün dövlət notariat arxivi fəaliyyət göstərir[cite: 117].",
+    "Dövlət notariat arxivi hüquqi şəxsdir. Onun fəaliyyətinə rəhbərliyi Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən təyin (azad) edilən müdir həyata keçirir[cite: 118]."
+  ],
+  "neg": [
+    "Dövlət notariat arxivinin müdiri (onu əvəz edən vəzifəli şəxs) bu arxivdə saxlanılan sənədlərdən dublikatlar verir, onlardan surət və çıxarışların düzgünlüyünü təsdiq edir[cite: 119].",
+    "Dövlət notariat arxivi şəhadətnamənin verilməsinə və dövlət notariusları tərəfindən notariat hərəkətləri ilə əlaqədar göstərilən xidmətə görə alınan ... haqq, habelə Azərbaycan Respublikasının dövlət büdcəsi hesabına maliyyələşdirilir[cite: 121]."
+  ],
+  "pos_scores": [98.0, 97.5],
+  "neg_scores": [89.5, 85.0],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Xüsusi notarius hansı hallarda vəzifə səlahiyyətlərinin icrasından kənarlaşdırılır?",
+  "pos": [
+    "Müvafiq icra hakimiyyəti orqanının qərarı ilə aşağıdakı hallarda xüsusi notarius vəzifə səlahiyyətlərinin icrasından kənarlaşdırılır: 1) qəsdən cinayət törətməyə görə təqsirləndirilən şəxs qismində cəlb edildikdə[cite: 50]; 2) notarius 6 ayadək müddətdə əmək qabiliyyətini fasiləsiz olaraq itirdikdə[cite: 51]; 3) notarius sahibkarlıq fəaliyyəti ilə məşğul olduqda[cite: 51]; 4) notarius siyasi partiyada öz fəaliyyətini dayandırmadıqda[cite: 52]."
+  ],
+  "neg": [
+    "Vəzifə səlahiyyətlərinin icrasından kənarlaşdırılmış xüsusi notarius notariat fəaliyyətinin icrasına buraxılmır[cite: 52].",
+    "Xüsusi notariusun vəzifə səlahiyyətlərinin icrasından kənarlaşdırılması üçün mövcud olan əsaslar aradan qalxdıqda, müvafiq icra hakimiyyəti orqanı tərəfindən xüsusi notarius vəzifələrinin icrasına buraxılır[cite: 54]."
+  ],
+  "pos_scores": [98.8],
+  "neg_scores": [88.0, 86.3],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Notariat hərəkəti üçün təqdim edilən sənədlərə hansı tələblər qoyulur?",
+  "pos": [
+    "Pozuntu və qaralaması olan, təsdiq edilməmiş əlavələri olan sənədlərin, zədələndiyinə görə mətninin oxunması mümkün olmayan, yaxud karandaşla yazılmış sənədlərin notariat hərəkətlərinin aparılması üçün qəbul edilməsi qadağandır[cite: 250]. Notariat qaydasında təsdiq edilən əqdlərin və sənədlərin mətnləri aydın və dürüst yazılmalı, sənədin mətninə aid olan tarixlər və müddətlər heç olmasa bir dəfə sözlərlə, hüquqi şəxslərin adları isə onların orqanlarının ünvanını göstərməklə ixtisarsız yazılmalıdır[cite: 251]. Fiziki şəxslərin adı, soyadı və atasının adı tam yazılmalı, onların yaşayış yeri göstərilməlidir[cite: 252]. İki və daha artıq ayrıca vərəqdən ibarət olan sənədlər tikilməli, nömrələnməli və möhürlə təsdiq edilməlidir[cite: 253]."
+  ],
+  "neg": [
+    "Əqdlər təsdiq edilərkən, sənədlərdən surətlərin və çıxarışların düzgünlüyü, sənədlərdə imzanın həqiqiliyi, sənədlərin bir dildən başqa dilə tərcüməsinin düzgünlüyü, sənədin təqdim olunduğu vaxt təsdiq edilərkən notarius və ya notariat hərəkətləri aparan digər vəzifəli şəxs həmin sənədlərdə möhür vurmaqla təsdiq qeydi aparılmalıdır[cite: 254].",
+    "Notariuslar və notariat hərəkətləri aparan digər vəzifəli şəxslər hər bir halda müvafiq notariat hərəkətləri apararkən bunun üçün müraciət etmiş şəxslərin, onların nümayəndələrinin və ya idarələrin, müəssisələrin və təşkilatların nümayəndələrinin şəxsiyyətini müəyyən etməlidirlər[cite: 236]."
+  ],
+  "pos_scores": [97.6],
+  "neg_scores": [89.5, 87.1],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Notariat qaydasında təsdiq edilmiş sənədlərlə hansı sənədlər bərabər tutulur?",
+  "pos": [
+    "Notariat qaydasında təsdiq edilmiş sənədlərə bərabər tutulan sənədlərə Azərbaycan Respublikası Mülki Məcəlləsinin 362-ci maddəsində nəzərdə tutulan etibarnamələr və 1181-ci maddəsində nəzərdə tutulan vəsiyyətnamələr aiddir[cite: 256]."
+  ],
+  "neg": [
+    "Bu maddədə göstərilən sənədləri təsdiq edən vəzifəli şəxslər vəsiyyətnamə VƏ etibarnamələri qüvvədə olan qanunvericiliyin tələblərinə əməl etməklə, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada təsdiq edirlər[cite: 257].",
+    "Bu maddədə sadalanan sənədləri təsdiq edən vəzifəli şəxslər təsdiq etdikləri vəsiyyətnamələrin bir nüsxəsini saxlamaq üçün dərhal dövlət notariat arxivinə və ya vəsiyyətçinin daimi yaşayış yerindəki notariusa verməyə borcludurlar[cite: 258]."
+  ],
+  "pos_scores": [98.3],
+  "neg_scores": [86.9, 85.4],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Vərəsəlik hüququ haqqında şəhadətnamənin verilməsi qaydası necədir?",
+  "pos": [
+    "Vərəsəlik hüququ haqqında şəhadətnamə mülki qanunvericiliklə müəyyən edilmiş qaydada mirası qəbul etmiş vərəsələrin yazılı ərizəsi ilə bütün vərəsələrə və ya onların arzusundan asılı olaraq hər birinə ayrılıqda verilir[cite: 325]. Mirasın qəbulu müddətini ötürmüş vərəsələr mirası qəbul etmiş bütün digər vərəsələrin yazılı razılığı ilə vərəsəlik hüququ haqqında şəhadətnaməyə daxil edilə bilərlər[cite: 326]."
+  ],
+  "neg": [
+    "Razılıq notarius tərəfindən vərəsəlik hüququ haqqında şəhadətnamə verilənədək təqdim olunmalıdır[cite: 327].",
+    "Miras əmlak dövlətə keçdikdə şəhadətnamə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına verilməlidir[cite: 328]."
+  ],
+  "pos_scores": [97.4],
+  "neg_scores": [88.1, 86.6],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Sənədlərin tərcüməsinin düzgünlüyü notarius tərəfindən necə təsdiq edilir?",
+  "pos": [
+    "Notarius müvafiq dilləri bilirsə, sənədlərin bir dildən başqa dilə tərcüməsinin düzgünlüyünü təsdiq edə bilər[cite: 355]. Notarius müvafiq dilləri bilmədiyi halda, sənədləri tərcüməçi tərcümə etməli, onun imzasının həqiqiliyini isə notarius təsdiq etməlidir[cite: 356]."
+  ],
+  "neg": [
+    "Notarius tərcüməçi tərəfindən gücləndirilmiş elektron imza ilə təsdiq edilmiş tərcümənin düzgünlüyünü elektron qaydada təsdiq edə bilər[cite: 357].",
+    "Bu halda notarius tərcümənin mətninə görə məsuliyyət daşımır[cite: 358]."
+  ],
+  "pos_scores": [98.0],
+  "neg_scores": [89.8, 87.3],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Şəxsin sağ olması faktı hansı hallarda və kimin xahişi ilə təsdiq edilir?",
+  "pos": [
+    "Notarius şəxsin xahişinə əsasən onun sağ olması faktını təsdiq etməli və maraqlı şəxslərə bu halı təsdiq edən şəhadətnamə verməlidir[cite: 359]. Yetkinlik yaşına çatmamışın sağ olması faktı onun qanuni nümayəndələrinin (valideynlərin, övladlığa götürənlərin, qəyyumların və ya himayəçilərin) xahişi ilə təsdiq edilir[cite: 360]."
+  ],
+  "neg": [
+    "Notarius şəxsin xahişi ilə onun müəyyən yerdə olması faktını təsdiq etməli və maraqlı şəxslərə bu halı təsdiq edən şəhadətnamə verməlidir[cite: 361].",
+    "Notarius şəxsin xahişinə əsasən onun təqdim olunan fotoşəkildəki şəxslə eyniliyinə şübhə etmirsə, həmin halı təsdiq etməlidir[cite: 363]."
+  ],
+  "pos_scores": [97.7],
+  "neg_scores": [85.2, 84.8],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Borcların icra qeydləri əsasında mübahisəsiz qaydada alınmasına əsas olan sənədlərin siyahısını kim müəyyən edir?",
+  "pos": [
+    "Borcların icra qeydləri əsasında mübahisəsiz qaydada alınmasına əsas olan sənədlərin siyahısını Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı müəyyən edir[cite: 399]."
+  ],
+  "neg": [
+    "Borcludan pul məbləğlərini tutmaq və ya əmlakı tələb edib almaq üçün borclunun olduğu yer üzrə notarius borcu müəyyən edən sənədlərdə icra qeydləri aparmalıdır[cite: 387].",
+    "İcra qeydi aparılmış tələb borclu tərəfindən məhkəmə qaydasında mübahisələndirilə bilər[cite: 398]."
+  ],
+  "pos_scores": [99.3],
+  "neg_scores": [89.1, 87.9],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Çeklərin ödənilməməsi necə təsdiq olunur?",
+  "pos": [
+    "Çek ödənilmədikdə notarius çek üzərində müəyyən olunmuş formada qeyd aparmaqla çekin ödənilmədiyini təsdiq edir VƏ bunu reyestrdə qeyd edir[cite: 410]."
+  ],
+  "neg": [
+    "Notarius çek üzərində qeyd aparmaqla yanaşı, çek verənə onun çekinin bank tərəfindən ödənilmədiyini və çek üzərində qeyd yazıldığı barədə xəbərdarlıq məktubu göndərir[cite: 411].",
+    "Çekin ödənilmədiyi hallarda notarius çek saxlayanın xahişi ilə icra qeydi aparır[cite: 412]."
+  ],
+  "pos_scores": [98.4],
+  "neg_scores": [86.4, 85.9],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Notariat fəaliyyətində sübutların təmin edilməsi nə üçün və hansı hallarda həyata keçirilir?",
+  "pos": [
+    "Notarius məhkəmədə, istintaq və ya təhqiqat orqanlarında iş başlanarkən zəruri olacaq sübutları həmin sübutların təqdim edilməsinin sonralar qeyri-mümkün və ya çətin olacağını güman etməyə əsaslar olduqda, maraqlı şəxslərin xahişi ilə təmin edir[cite: 424]."
+  ],
+  "neg": [
+    "Notarius maraqlı şəxslərin ona müraciət etdikləri zaman məhkəmənin, istintaq və ya təhqiqat orqanının icraatında olan işlər üzrə sübutları təmin etmir[cite: 425].",
+    "Notarius sübutların təmin olunması qaydasında şahidləri dindirir, yazılı və maddi sübutları müayinə edir, ekspertiza təyin edir[cite: 426]."
+  ],
+  "pos_scores": [97.0],
+  "neg_scores": [88.5, 90.1],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}

@@ -1,0 +1,250 @@
+{
+  "query": "Mülki Məcəllənin məqsədi nədir?",
+  "pos": [
+    "Bu Məcəllənin məqsədi üçüncü şəxslərin hüquqlarına xələl gətirmədən mülki dövriyyənin azadlığını onun iştirakçılarının bərabərliyi əsasında təmin etməkdir."
+  ],
+  "neg": [
+    "Azərbaycan Respublikasının mülki qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasına əsaslanır və bu Məcəllədən, digər qanunlardan və onların əsasında qəbul edilən, mülki hüquq normalarını müəyyənləşdirən başqa normativ hüquqi aktlardan ibarətdir.",
+    "Əmlak və ya qeyri-əmlak dəyəri olan, qanunvericiliklə mülki dövriyyədən çıxarılmamış maddi və ya qeyri-maddi nemətlər mülki hüquq münasibətlərinin obyektləri ola bilərlər.",
+    "İstər sahibkarlıq fəaliyyəti ilə məşğul olan, istərsə də məşğul olmayan hər hansı fiziki və ya hüquqi şəxslər mülki hüquq münasibətlərinin subyektləri ola bilərlər.",
+    "Mülki qanunvericiliyin prinsipləri aşağıdakılardır: 6.1.1. mülki hüquq subyektlərinin bərabərliyi; 6.1.2. mülki hüquq subyektlərinin iradə sərbəstliyi;",
+    "Mülki qanunvericilik Azərbaycan Respublikasının istisnasız olaraq bütün ərazisində qüvvədədir."
+  ],
+  "pos_scores": [
+    97.8125
+  ],
+  "neg_scores": [
+    91.625,
+    88.5,
+    89.125,
+    90.375,
+    87.75
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Mülki hüquq münasibətlərinin obyektləri nə ola bilər?",
+  "pos": [
+    "Əmlak və ya qeyri-əmlak dəyəri olan, qanunvericiliklə mülki dövriyyədən çıxarılmamış maddi və ya qeyri-maddi nemətlər mülki hüquq münasibətlərinin obyektləri ola bilərlər."
+  ],
+  "neg": [
+    "Bu Məcəllənin məqsədi üçüncü şəxslərin hüquqlarına xələl gətirmədən mülki dövriyyənin azadlığını onun iştirakçılarının bərabərliyi əsasında təmin etməkdir.",
+    "İstər sahibkarlıq fəaliyyəti ilə məşğul olan, istərsə də məşğul olmayan hər hansı fiziki və ya hüquqi şəxslər mülki hüquq münasibətlərinin subyektləri ola bilərlər.",
+    "Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının digər şəxslərlə mülki hüquq münasibətləri, qanunda ayrı qayda nəzərdə tutulmayıbsa, mülki qanunvericiliklə tənzimlənir.",
+    "Mülki hüquq münasibətlərinin subyektləri öz hüquq və vəzifələrini vicdanla həyata keçirməyə borcludurlar.",
+    "Sahibkarlıq fəaliyyəti şəxsin müstəqil surətdə həyata keçirdiyi, əsas məqsədi əmlak istifadəsindən, malların istehsalından və (və ya) satışından, işlər görülməsindən və ya xidmətlər göstərilməsindən mənfəət (fərdi sahibkarlar tərəfindən gəlir) götürülməsi olan fəaliyyətdir."
+  ],
+  "pos_scores": [
+    98.125
+  ],
+  "neg_scores": [
+    90.125,
+    92.5,
+    89.75,
+    88.0,
+    86.25
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Sahibkarlıq fəaliyyəti nədir?",
+  "pos": [
+    "Sahibkarlıq fəaliyyəti şəxsin müstəqil surətdə həyata keçirdiyi, əsas məqsədi əmlak istifadəsindən, malların istehsalından və (və ya) satışından, işlər görülməsindən və ya xidmətlər göstərilməsindən mənfəət (fərdi sahibkarlar tərəfindən gəlir) götürülməsi olan fəaliyyətdir."
+  ],
+  "neg": [
+    "Bu Məcəllənin məqsədi üçüncü şəxslərin hüquqlarına xələl gətirmədən mülki dövriyyənin azadlığını onun iştirakçılarının bərabərliyi əsasında təmin etməkdir.",
+    "İstər sahibkarlıq fəaliyyəti ilə məşğul olan, istərsə də məşğul olmayan hər hansı fiziki və ya hüquqi şəxslər mülki hüquq münasibətlərinin subyektləri ola bilərlər.",
+    "Sahibkarlıq fəaliyyətinin hər hansı sahəsində təşəkkül tapan və geniş tətbiq edilən, qanunvericilikdə nəzərdə tutulmayan davranış qaydası, hansısa aktda qeyd edilib- edilmədiyindən asılı olmayaraq, işgüzar adət sayılır.",
+    "Qanunvericilikdə nəzərdə tutulmuş müqavilələr (əmək müqavilələri istisna olmaqla) və başqa əqdlər, habelə qanunvericilikdə nəzərdə tutulmasa da, ona zidd olmayan müqavilələr və başqa əqdlər.",
+    "Onlar müqavilə əsasında öz hüquq və vəzifələrini müəyyənləşdirməkdə və qanunvericiliyə zidd olmayan hər hansı müqavilə şərtləri qoymaqda sərbəstdirlər."
+  ],
+  "pos_scores": [
+    99.375
+  ],
+  "neg_scores": [
+    88.875,
+    91.25,
+    90.0,
+    87.125,
+    89.5
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Fiziki şəxsin mülki hüquq qabiliyyəti nə vaxt yaranır və nə vaxt xitam edilir?",
+  "pos": [
+    "Fiziki şəxsin hüquq qabiliyyəti onun doğulduğu an əmələ gəlir və ölümü ilə xətm edilir."
+  ],
+  "neg": [
+    "Fiziki şəxsin mülki hüquq qabiliyyəti insanın mülki hüquqlara malik olmaq və mülki hüquq vəzifələri daşımaq qabiliyyətidir.",
+    "Bütün fiziki şəxslərin mülki hüquq qabiliyyəti eyni dərəcədə tanınır.",
+    "Vərəsə olmaq hüququ maya bağlandığı andan əmələ gəlir, bu hüququn həyata keçirilməsi isə yalnız doğumdan sonra mümkündür.",
+    "Fiziki şəxs hüquq qabiliyyətindən məhrum edilə bilməz.",
+    "Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti şəxsin öz hərəkətləri ilə mülki hüquqlar əldə etmək və həyata keçirmək, özü üçün mülki vəzifələr yaratmaq və icra etmək qabiliyyətidir."
+  ],
+  "pos_scores": [
+    98.6875
+  ],
+  "neg_scores": [
+    89.3125,
+    87.5,
+    90.625,
+    88.25,
+    91.0
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Fiziki şəxsin tam fəaliyyət qabiliyyəti nə vaxt əmələ gəlir?",
+  "pos": [
+    "Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti, o, yetkinlik yaşına, yəni on səkkiz yaşına çatdıqda tam həcmdə əmələ gəlir."
+  ],
+  "neg": [
+    "Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti şəxsin öz hərəkətləri ilə mülki hüquqlar əldə etmək və həyata keçirmək, özü üçün mülki vəzifələr yaratmaq və icra etmək qabiliyyətidir.",
+    "7 yaşınadək olan yetkinlik yaşına çatmayanların (azyaşlılar) fəaliyyət qabiliyyəti yoxdur.",
+    "7 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanların məhdud fəaliyyət qabiliyyəti vardır.",
+    "On altı yaşı tamam olmuş yetkinlik yaşına çatmayan əmək müqaviləsi üzrə işləyirsə və ya valideynlərinin, övladlığa götürənlərin və ya himayəçinin razılığı ilə sahibkarlıq fəaliyyəti ilə məşğul olursa, tam fəaliyyət qabiliyyətli sayıla bilər.",
+    "On səkkiz yaşına çatanadək nikaha girməyə qanunun yol verdiyi halda, on səkkiz yaşına çatmamış fiziki şəxs nikaha girdiyi vaxtdan tam həcmdə fəaliyyət qabiliyyəti əldə edir."
+  ],
+  "pos_scores": [
+    97.5
+  ],
+  "neg_scores": [
+    90.875,
+    89.0,
+    92.375,
+    91.75,
+    91.125
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Kimlər fəaliyyət qabiliyyəti olmayan sayıla bilər?",
+  "pos": [
+    "Ağıl zəifliyi və ya ruhi xəstəlik nəticəsində öz hərəkətlərinin mənasını başa düşməyən və ya öz hərəkətlərinə rəhbərlik edə bilməyən şəxslər də məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan sayıla bilər."
+  ],
+  "neg": [
+    "7 yaşınadək olan yetkinlik yaşına çatmayanların (azyaşlılar) fəaliyyət qabiliyyəti yoxdur.",
+    "Onlar üzərində qəyyumluq müəyyənləşdirilir.",
+    "Fəaliyyət qabiliyyəti olmayan sayılmış fiziki şəxsin adından əqdləri onun qəyyumu bağlayır.",
+    "Fəaliyyət qabiliyyəti olmayan sayılmış şəxsin sağaldığı VƏ ya sağlamlıq vəziyyətinin xeyli yaxşılaşdığı halda məhkəmə onu fəaliyyət qabiliyyətli sayır.",
+    "Fiziki şəxsin mülki hüquq fəaliyyət qabiliyyəti şəxsin öz hərəkətləri ilə mülki hüquqlar əldə etmək və həyata keçirmək, özü üçün mülki vəzifələr yaratmaq və icra etmək qabiliyyətidir."
+  ],
+  "pos_scores": [
+    96.9375
+  ],
+  "neg_scores": [
+    90.25,
+    88.625,
+    89.875,
+    91.5,
+    87.0
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Məhkəmə fiziki şəxsin fəaliyyət qabiliyyətini hansı hallarda məhdudlaşdıra bilər?",
+  "pos": [
+    "Spirtli içkilərdən, narkotik vasitələrdən və ya psixotrop maddələrdən sui-istifadə etməsi, habelə qumara qurşanması nəticəsində öz ailəsini ağır maddi vəziyyətə salan fiziki şəxsin fəaliyyət qabiliyyəti məhkəmə tərəfindən məhdudlaşdırıla bilər."
+  ],
+  "neg": [
+    "Belə şəxsin üzərində himayəçilik təyin edilir.",
+    "Onun xırda məişət əqdləri bağlamaq ixtiyarı vardır.",
+    ", yalnız himayəçisinin razılığı ilə başqa əqdlər bağlaya bilər, habelə qazanc, pensiya və digər gəlirlər götürə bilər və bunlar barəsində sərəncam verə bilər.",
+    "Lakin bu cür fiziki şəxs bağladığı əqdlər üzrə və vurduğu ziyan üçün müstəqil surətdə əmlak məsuliyyəti daşıyır.",
+    "Fiziki şəxsin fəaliyyət qabiliyyətinin məhdudlaşdırılmasına səbəb olan əsaslar aradan qalxdıqda məhkəmə onun fəaliyyət qabiliyyətinin məhdudlaşdırılmasını ləğv edir."
+  ],
+  "pos_scores": [
+    98.3125
+  ],
+  "neg_scores": [
+    88.1875,
+    89.4375,
+    90.75,
+    87.875,
+    91.0625
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Hüquqi şəxs nədir?",
+  "pos": [
+    "Hüquqi şəxs qanunla müəyyənləşdirilən qaydada dövlət qeydiyyatından keçmiş, xüsusi yaradılmış elə bir qurumdur ki, mülkiyyətində ayrıca əmlakı vardır, öz öhdəlikləri üçün bu əmlakla cavabdehdir, öz adından əmlak və şəxsi qeyri-əmlak hüquqları əldə etmək və həyata keçirmək, vəzifələr daşımaq, məhkəmədə iddiaçı və ya cavabdeh olmaq hüququna malikdir."
+  ],
+  "neg": [
+    "Hüquqi şəxsin müstəqil balansı olmalıdır.",
+    "Hüquqi şəxslər bir fiziki və ya hüquqi şəxs tərəfindən, yaxud fiziki və hüquqi şəxslərin toplusu tərəfindən yaradıla bilər, üzvlüyə əsaslana bilər, üzvlərin olmasından asılı ola və ya asılı olmaya bilər, sahibkarlıq fəaliyyəti ilə məşğul ola və ya məşğul olmaya bilər.",
+    "Hüquqi şəxslər fəaliyyətinin əsas məqsədi mənfəət götürməkdən ibarət olan (kommersiya hüquqi şəxsləri) və ya əsas məqsədi mənfəət götürməkdən ibarət olmayan və götürülən mənfəəti iştirakçıları arasında bölüşdürməyən (qeyri-kommersiya hüquqi şəxsləri), habelə ümumdövlət və (və ya) ictimai əhəmiyyət daşıyan fəaliyyətlə məşğul olan (publik hüquqi şəxslər) qurumlar ola bilər.",
+    "Hüquqi şəxs dövlət qeydiyyatına alındığı andan mülki hüquqlara malikdir və mülki vəzifələr daşıyır.",
+    "Hüquqi şəxsin hüquq qabiliyyətinə onun ləğvinin başa çatdığı an xitam verilir."
+  ],
+  "pos_scores": [
+    97.9375
+  ],
+  "neg_scores": [
+    89.6875,
+    91.875,
+    90.5625,
+    88.4375,
+    87.3125
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Hüquqi şəxsin filialı nədir?",
+  "pos": [
+    "Hüquqi şəxsin olduğu yerdən kənarda yerləşən və onun funksiyalarının hamısını və ya bir hissəsini, o cümlədən nümayəndəlik funksiyalarını həyata keçirən ayrıca bölməsi filial sayılır."
+  ],
+  "neg": [
+    "Hüquqi şəxsin olduğu yerdən kənarda yerləşən və hüquqi şəxsin mənafelərini təmsil və müdafiə edən ayrıca bölməsi nümayəndəlik sayılır.",
+    "Nümayəndəliklər və filiallar hüquqi şəxs deyildirlər və hüquqi şəxsin təsdiq etdiyi əsasnamələr üzrə fəaliyyət göstərirlər.",
+    "Nümayəndəliklərin və filialların rəhbərləri hüquqi şəxs tərəfindən təyin edilir və onun etibarnaməsi əsasında fəaliyyət göstərirlər.",
+    "Təsisçilərinin əcnəbilər və ya xarici hüquqi səxslər olduğu qeyri-hökumət təşkilatlarının filial və ya nümayəndəliklərinin rəhbərlərinin müavinləri Azərbaycan Respublikasının vətəndaşları olmalıdır.",
+    "Hüquqi şəxsin idarəetmə, sosial-mədəni və ya digər qeyri-kommersiya xarakterli funksiyaların həyata keçirilməsi üçün yaratdığı təşkilat idarə sayılır."
+  ],
+  "pos_scores": [
+    98.875
+  ],
+  "neg_scores": [
+    92.125,
+    90.4375,
+    89.0625,
+    86.5,
+    88.75
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
+{
+  "query": "Hüquqi şəxsin ləğvi nə deməkdir?",
+  "pos": [
+    "Hüquqi şəxsin ləğvi onun mövcudluğuna və fəaliyyətinə hüquq və vəzifələri hüquq varisliyi qaydasında başqa şəxslərə keçmədən xitam verilməsi deməkdir."
+  ],
+  "neg": [
+    "Hüquqi şəxsin yenidən təşkili (birləşmə, qoşulma, bölünmə, ayrılma, çevrilmə) onun təsisçilərinin (iştirakçılarının) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanının qərarı ilə həyata keçirilə bilər.",
+    "Hüquqi şəxsin yenidən təşkili haqqında qərar qəbul etmiş hüquqi şəxsin təsisçiləri (iştirakçılarının) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanı hüquqi şəxsin yenidən təşkili barəsində onun kreditorlarına yazılı bildiriş göndərməyə borcludurlar.",
+    "Hüquqi şəxs aşağıdakı hallarda ləğv edilə bilər: [...]",
+    "Ləğvetmə komissiyası (təsviyəçi, ləğvedici) təyin olunduğu gündən sonra 10 gün müddətində Azərbaycan Respublikasında hüquqi şəxslərin dövlət qeydiyyatı haqqında məlumatın dərc edildiyi mətbu nəşrdə hüquqi şəxsin ləğv edilməsi və kreditorlarının tələblərinin bildirilməsi qaydası və müddəti haqqında ilk məlumatı dərc etdirir.",
+    "Hüquqi şəxsin ləğvi bu barədə qeydin hüquqi şəxslərin dövlət reyestrinə daxil edildiyi andan başa çatmış, hüquqi şəxs isə mövcudluğuna son qoymuş sayılır."
+  ],
+  "pos_scores": [
+    97.25
+  ],
+  "neg_scores": [
+    90.9375,
+    89.5625,
+    92.8125,
+    88.375,
+    91.625
+  ],
+  "prompt": "Veb axtarış sorğusunu nəzərə alaraq, sorğuya cavab verən müvafiq mətnləri tapın.",
+  "type": "normal"
+}
