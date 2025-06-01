@@ -71,3 +71,17 @@ From that point we can conclude:
 * Created `report.pdf` document that reports 3 outcomes of 3 different models with 3 different queries;
 
 * `retrieval.ipynb` script was corrupted in the previous commit. I have re-written and re-commited it.
+
+## Notes 01.06.2025
+* Dataset files were in *.json* which was lists of dictionaries, but in documentation it has been written that training data should be just dictionaries, not list of them. I have fixed it, converted them to **.jsonl** files. 
+
+* Some dataset files contained English prompts, I converted them to Azerbaijani propmpts
+
+* Modified the overall structure of the project. Divided the overall project into 2 main folders: `data/` which contains dataset files, results and other documents, whereas `src/` folder contains source codes. 
+
+### TODO:
+* Should I create 2 datasets: validation data and training data for finetuning; or should I combine all dataset files into just 1 training data? *I should clarify this point.*
+
+* Is it better to add `FlagEmbedding` directory to the main project directory? Should clarify this.
+
+* Should make training process on 1, or maximum 2 days. Should create a training script. 
