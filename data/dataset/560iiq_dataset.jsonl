@@ -1,0 +1,208 @@
+{
+  "query": "“Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Qanunun əsas təyinatı nədir?",
+  "pos": [
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılmasının hüquqi və təşkilati əsaslarını müəyyən edir."
+  ],
+  "neg": [
+    "Hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş qurumdur;",
+    "Xarici hüquqi şəxs Azərbaycan Respublikasının hüdudlarından kənarda yaradılmış hüquqi şəxsdir;"
+  ],
+  "pos_scores": [98.0],
+  "neg_scores": [87.5, 85.0],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Bu Qanuna əsasən “hüquqi şəxs” anlayışı necə tərif edilir?",
+  "pos": [
+    "2.0.1. hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş qurumdur;"
+  ],
+  "neg": [
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılmasının hüquqi və təşkilati əsaslarını müəyyən edir.",
+    "2.0.2. xarici hüquqi şəxs Azərbaycan Respublikasının hüdudlarından kənarda yaradılmış hüquqi şəxsdir;"
+  ],
+  "pos_scores": [97.8],
+  "neg_scores": [88.1, 86.3],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "“Xarici hüquqi şəxs” dedikdə nə başa düşülür?",
+  "pos": [
+    "2.0.2. xarici hüquqi şəxs Azərbaycan Respublikasının hüdudlarından kənarda yaradılmış hüquqi şəxsdir;"
+  ],
+  "neg": [
+    "2.0.1. hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş qurumdur;",
+    "2.0.3. hüquqi şəxs statusu almaq istəyən qurum hüquqi şəxs kimi dövlət qeydiyyatına alınması və dövlət reyestrinə daxil edilməsi üçün qanunvericiliklə müəyyən edilmiş qaydada Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına müraciət edən şəxs və ya şəxslər qrupudur;"
+  ],
+  "pos_scores": [98.5],
+  "neg_scores": [89.0, 87.2],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Qanuna görə, hüquqi şəxs statusu əldə etmək istəyən qurum kimdir?",
+  "pos": [
+    "2.0.3. hüquqi şəxs statusu almaq istəyən qurum hüquqi şəxs kimi dövlət qeydiyyatına alınması və dövlət reyestrinə daxil edilməsi üçün qanunvericiliklə müəyyən edilmiş qaydada Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına müraciət edən şəxs və ya şəxslər qrupudur;"
+  ],
+  "neg": [
+    "2.0.4. nümayəndəlik Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş q...",
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılmasının hüquqi və təşkilati əsaslarını müəyyən edir."
+  ],
+  "pos_scores": [97.2],
+  "neg_scores": [86.5, 88.3],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Nümayəndəlik və ya filial ləğv edildikdə və ya reyestrdəki yazılar ləğv olunduqda, səlahiyyətli orqanlara nə qədər vaxt ərzində xəbər verilməlidir?",
+  "pos": [
+    "...ayəndəlik və ya filialı ləğv edildikdə və ya dövlət reyestrindəki yazılar ləğv edildikdə, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarına bir gün müddətində bu barədə məlumat verilir."
+  ],
+  "neg": [
+    "12 iyun 2012-ci il tarixli 382-IVQD nömrəli Azərbaycan Respublikasının Qanunu (\"Respublika\" qəzeti, 11 iyul 2012-ci il,  151...)",
+    "18.1-ci maddənin birinci cümləsində \"hər\" sözü \"Kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla, hər\" sözləri ilə əvəz edilmişdir."
+  ],
+  "pos_scores": [98.1],
+  "neg_scores": [90.1, 87.7],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "“Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Qanunun 18.1-ci maddəsinin birinci cümləsindəki “hər” sözü hansı ifadə ilə əvəz olunub?",
+  "pos": [
+    "18.1-ci maddənin birinci cümləsində \"hər\" sözü \"Kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla, hər\" sözləri ilə əvəz edilmişdir."
+  ],
+  "neg": [
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılmasının hüquqi və təşkilati əsaslarını müəyyən edir.",
+    "Nümayəndəlik və ya filialı ləğv edildikdə ... bir gün müddətində bu barədə məlumat verilir."
+  ],
+  "pos_scores": [97.5],
+  "neg_scores": [88.5, 86.0],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Qanunun 18.1-ci maddəsində edilmiş dəyişiklik hansı tarixli və nömrəli qanunla təsdiq edilib?",
+  "pos": [
+    "12 iyun 2012-ci il tarixli 382-IVQD nömrəli Azərbaycan Respublikasının Qanunu (...) ilə 18.1-ci maddənin birinci cümləsində \"hər\" sözü ... əvəz edilmişdir."
+  ],
+  "neg": [
+    "\"Respublika\" qəzeti, 11 iyul 2012-ci il,  151, \"Azərbaycan\" qəzeti 15 iyul 2012-ci il,  155",
+    "Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il,  07, maddə 651)"
+  ],
+  "pos_scores": [98.3],
+  "neg_scores": [89.2, 87.4],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "382-IVQD nömrəli Azərbaycan Respublikası Qanunu hansı tarixdə qəbul olunmuşdur?",
+  "pos": [
+    "12 iyun 2012-ci il tarixli 382-IVQD nömrəli Azərbaycan Respublikasının Qanunu..."
+  ],
+  "neg": [
+    "11 iyul 2012-ci il,  151 (\"Respublika\" qəzeti)",
+    "15 iyul 2012-ci il,  155 (\"Azərbaycan\" qəzeti)"
+  ],
+  "pos_scores": [97.0],
+  "neg_scores": [88.0, 86.8],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "12 iyun 2012-ci il tarixli 382-IVQD nömrəli Qanun hansı kütləvi informasiya vasitələrində dərc olunmuşdur?",
+  "pos": [
+    "12 iyun 2012-ci il tarixli 382-IVQD nömrəli Azərbaycan Respublikasının Qanunu (\"Respublika\" qəzeti, 11 iyul 2012-ci il,  151, \"Azərbaycan\" qəzeti 15 iyul 2012-ci il,  155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il,  07, maddə 651)..."
+  ],
+  "neg": [
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının hüquqi əsaslarını müəyyən edir.",
+    "Hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qurumdur."
+  ],
+  "pos_scores": [98.7],
+  "neg_scores": [87.0, 85.5],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "“Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Qanunun birinci fəslinin adı nədir?",
+  "pos": [
+    "I fəsil ÜMUMİ MÜDDƏALAR"
+  ],
+  "neg": [
+    "Maddə 1. Qanunun təyinatı",
+    "Maddə 2. Əsas anlayışlar"
+  ],
+  "pos_scores": [99.0],
+  "neg_scores": [90.5, 89.3],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Qanuna görə, hüquqi şəxs statusu əldə etmək üçün qurumlar hansı dövlət orqanına müraciət etməlidirlər?",
+  "pos": [
+    "...hüquqi şəxs kimi dövlət qeydiyyatına alınması və dövlət reyestrinə daxil edilməsi üçün qanunvericiliklə müəyyən edilmiş qaydada Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına müraciət edən şəxs və ya şəxslər qrupudur;"
+  ],
+  "neg": [
+    "Hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş qurumdur.",
+    "Xarici hüquqi şəxs Azərbaycan Respublikasının hüdudlarından kənarda yaradılmış hüquqi şəxsdir."
+  ],
+  "pos_scores": [97.6],
+  "neg_scores": [88.2, 86.7],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "“Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Qanun Azərbaycan Respublikasının bütün ərazisindəmi qüvvədədir?",
+  "pos": [
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılmasının hüquqi və təşkilati əsaslarını müəyyən edir."
+  ],
+  "neg": [
+    "Xarici hüquqi şəxs Azərbaycan Respublikasının hüdudlarından kənarda yaradılmış hüquqi şəxsdir.",
+    "12 iyun 2012-ci il tarixli 382-IVQD nömrəli Azərbaycan Respublikasının Qanunu..."
+  ],
+  "pos_scores": [96.9],
+  "neg_scores": [87.9, 85.2],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "382-IVQD nömrəli Qanun Azərbaycan Respublikasının Qanunvericilik Toplusunun 2012-ci il üçün olan nəşrinin hansı maddəsində yer alır?",
+  "pos": [
+    "12 iyun 2012-ci il tarixli 382-IVQD nömrəli Azərbaycan Respublikasının Qanunu (... Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il,  07, maddə 651)..."
+  ],
+  "neg": [
+    "\"Respublika\" qəzeti, 11 iyul 2012-ci il,  151",
+    "\"Azərbaycan\" qəzeti 15 iyul 2012-ci il,  155"
+  ],
+  "pos_scores": [98.4],
+  "neg_scores": [90.0, 88.8],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Qanunun 18.1-ci maddəsinə edilmiş dəyişikliyə əsasən, kommersiya hüquqi şəxslərinin təsisçiləri və nizamnamə kapitalındakı payları barədə məlumatlar istisna sayılırmı?",
+  "pos": [
+    "...18.1-ci maddənin birinci cümləsində \"hər\" sözü \"Kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla, hər\" sözləri ilə əvəz edilmişdir."
+  ],
+  "neg": [
+    "Hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş qurumdur.",
+    "Nümayəndəlik və ya filialı ləğv edildikdə ... bir gün müddətində bu barədə məlumat verilir."
+  ],
+  "pos_scores": [97.7],
+  "neg_scores": [86.2, 85.1],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "“Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Qanun hansı fəaliyyətlərin hüquqi və təşkilati əsaslarını müəyyənləşdirir?",
+  "pos": [
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılmasının hüquqi və təşkilati əsaslarını müəyyən edir."
+  ],
+  "neg": [
+    "Maddə 2. Əsas anlayışlar",
+    "2.0.1. hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş qurumdur;"
+  ],
+  "pos_scores": [98.2],
+  "neg_scores": [88.7, 87.3],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
+{
+  "query": "Azərbaycan Respublikasının Mülki Məcəlləsinə istinadən “hüquqi şəxs” necə təyin olunur?",
+  "pos": [
+    "2.0.1. hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə bu cür müəyyən edilmiş qurumdur;"
+  ],
+  "neg": [
+    "2.0.2. xarici hüquqi şəxs Azərbaycan Respublikasının hüdudlarından kənarda yaradılmış hüquqi şəxsdir;",
+    "Bu Qanun Azərbaycan Respublikasının ərazisində hüquqi şəxslərin dövlət qeydiyyatının ... əsaslarını müəyyən edir."
+  ],
+  "pos_scores": [97.9],
+  "neg_scores": [89.5, 86.9],
+  "prompt": "Veb axtarış sorğusuna əsasən, sorğuya cavab verən müvafiq keçidləri tapın."
+}
