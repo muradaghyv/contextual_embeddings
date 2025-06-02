@@ -85,3 +85,11 @@ From that point we can conclude:
 * Is it better to add `FlagEmbedding` directory to the main project directory? Should clarify this.
 
 * Should make training process on 1, or maximum 2 days. Should create a training script. 
+
+## Notes 02.06.2025
+* Decided to use hard negatives for increasing the number of hard negatives for making model more robust and strong. However, miner script (`FlagEmbedding/scripts/hh_miner.py`) didn't work with my dataset, because format was not correct.
+* The correct format of the dataset is so that each line consists of 1 full query: query, its positive and negative answers, scores, prompts and so on. All information about a query should be in 1 line not on separate lines. Therefore, I changed the structure of some dataset files. Most of them should be modified also. 
+
+* Note that: **595iiq_dataset.jsonl** and **817_dataset.jsonl** files couldn't generate hard negatives. Should investigate it.
+
+* The `_minedHN.jsonl` ending files are hard mined negatives.
