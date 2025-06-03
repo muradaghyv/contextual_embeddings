@@ -93,3 +93,12 @@ From that point we can conclude:
 * Note that: **595iiq_dataset.jsonl** and **817_dataset.jsonl** files couldn't generate hard negatives. Should investigate it.
 
 * The `_minedHN.jsonl` ending files are hard mined negatives.
+
+## Notes 03.06.2025
+* Modified all dataset files (*.jsonl* files) so that each line consists of 1 full query: query itself, positive and negative answers and prompt, **removed** _pos_scores and neg_scores_ , because distillation knowledge is not used.
+
+* applied mining of hard negatives to all datasets and saved them in the directory of `data/mined_HN`.
+
+* I tried to run training script of BGE-M3 model, but it was giving so much errors. I fixed all of them, but 1 of them remained problematic.
+
+* **CUDA Out-Of-Memory** problem. It says that 5.5 GiB of GPU storage is used and 2.12 more GoB is needed for storing optimizer states, however, there is no such an available memory on GPU. I have to analyze this script from the very beginning and understand what is the problem. It looks like that tis is a significant problem and I need to address ASAP. 
