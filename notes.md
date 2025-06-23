@@ -102,3 +102,19 @@ From that point we can conclude:
 * I tried to run training script of BGE-M3 model, but it was giving so much errors. I fixed all of them, but 1 of them remained problematic.
 
 * **CUDA Out-Of-Memory** problem. It says that 5.5 GiB of GPU storage is used and 2.12 more GoB is needed for storing optimizer states, however, there is no such an available memory on GPU. I have to analyze this script from the very beginning and understand what is the problem. It looks like that tis is a significant problem and I need to address ASAP. 
+
+## Notes 23.06.2025
+* BGE-M3 Model couldn't be trained on my local machine (work computer) because of memory constraints. The model is too large to be trained on GPU with VRAM of 8 GB. 
+
+* I had to train BGE-M3 model on AWS Server. There were some problems that made training procedure to lag, but it was trained finally. 
+
+* The training has been done for **10** epochs with batch_size **2** per device. Maximum sequence length for query is **256**, whereas maximum sequence length for a passage was also **256**. Train group size was **4**. 
+
+### TODO:
+* Some training parameters for example (*train_group_size*) remained unclear to me. I have to look through and understand what each parameter does in the training. 
+
+* Trained model is on the server. I copied it using `scp` command to my local folder (but in home computer). I uploaded this to Google drive for accessing on my work computer (I cannot connect to AWS Server at work due to restrictions). However, when I downloaded the files from Google Drive, the downloaded file's structure is different from the original. **I have to observe carefully what there is inside the orignial trained model file**.
+
+* Training has been done and the next stage is **evaluation**. Actually, `FlagEmbedding` directory contains very good documentation for evaluating the fine-tuned model. I have to perform actions according to ``Custom Dataset`` heading on `FlagEmbedding.examples.evaluation`. 
+
+* **According to the documentation I have to create an evaluation dataset for evaluating the model. This is the most important process. I have to do it ASAP**.
