@@ -1,0 +1,41 @@
+torchrun 
+--nproc_per_node 1
+-m FlagEmbedding.finetune.embedder.encoder_only.m3
+--model_name_or_path BAAI/bge-m3
+--cache_dir ./cache/model
+--train_data /home/ubuntu/contextual_embeddings/data/mined_HN/6t_dataset_minedHN.jsonl
+--cache_path ./cache/data
+--train_group_size 4
+--query_max_len 512
+--passage_max_len 512
+--same_dataset_within_batch True 
+--small_threshold 0 
+--drop_threshold 0 
+--output_dir ./test_encoder_only_m3_bge-m3_sd 
+--overwrite_output_dir 
+--learning_rate 1e-5 
+--fp16 
+--num_train_epochs 1 
+--per_device_train_batch_size 2 
+--dataloader_drop_last True 
+--warmup_ratio 0.1 
+--gradient_checkpointing 
+--deepspeed /home/ubuntu/contextual_embeddings/FlagEmbedding/examples/finetune/ds_stage0.json 
+--logging_steps 1 
+--save_steps 1000 
+--negatives_cross_device 
+--temperature 0.02 
+--sentence_pooling_method cls 
+--normalize_embeddings True 
+--unified_finetuning True 
+--use_self_distill True
+--fix_encoder False 
+--self_distill_start_step 0
+
+torchrun --nproc_per_node 1 -m FlagEmbedding.finetune.embedder.encoder_only.m3 --model_name_or_path BAAI/bge-m3 --cache_dir ./cache/model --train_data /home/ubuntu/contextual_embeddings/data/mined_HN/ --cache_path ./cache/data --train_group_size 4 --query_max_len 256 --passage_max_len 256 --same_dataset_within_batch True --small_threshold 0 --drop_threshold 0 --output_dir ./test_encoder_only_m3_bge-m3_sd --overwrite_output_dir --learning_rate 1e-5 --fp16 --num_train_epochs 10 --per_device_train_batch_size 2 --dataloader_drop_last True --warmup_ratio 0.1 --gradient_checkpointing --deepspeed /home/ubuntu/contextual_embeddings/FlagEmbedding/examples/finetune/ds_stage0.json --logging_steps 1 --save_steps 1000 --negatives_cross_device --temperature 0.02 --sentence_pooling_method cls --normalize_embeddings True --unified_finetuning True --use_self_distill True --fix_encoder False --self_distill_start_step 0 
+
+
+
+
+
+
