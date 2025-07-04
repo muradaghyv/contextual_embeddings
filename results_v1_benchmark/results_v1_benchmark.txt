@@ -1,0 +1,5 @@
+Final Results (Average NDCG@10):
+                    model  average_NDCG@10
+1             BAAI/bge-m3        70.315941
+0  ../finetuned_bge_m3_v1        60.333542
+2     LocalDoc/TEmA-small        53.320366
