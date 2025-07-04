@@ -1,0 +1,5 @@
+model,average_NDCG@10
+BAAI/bge-m3,64.040704247554
+../finetuned_bge_m3_v2,50.92665898389569
+../finetuned_bge_m3_v1,49.859629140820914
+LocalDoc/TEmA-small,45.484119201142484
