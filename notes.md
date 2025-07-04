@@ -118,3 +118,15 @@ From that point we can conclude:
 * Training has been done and the next stage is **evaluation**. Actually, `FlagEmbedding` directory contains very good documentation for evaluating the fine-tuned model. I have to perform actions according to ``Custom Dataset`` heading on `FlagEmbedding.examples.evaluation`. 
 
 * **According to the documentation I have to create an evaluation dataset for evaluating the model. This is the most important process. I have to do it ASAP**.
+
+## Notes 04.07.2025
+
+* I have finetuned 2 models, the first one was just trial and the second one was the main finetuned model.
+
+* I had to evaluate them according to **custom dataset** depicted on documentation, but I have found benchmark for evaluating only **retrieval** process, and I evaluated with this benchmark (`RAG-Retrieval-Benchmark-Azerbaijani`).
+
+* The results are not so good, model shows approximately **60%** average accuracy on datasets for this benchmark.
+
+* As because I have finetuned *only embedder* model, I think I have to evaluate the model performance according to the documentation depicted on FlagEmbedding repo. The difficult part of this is that I have to create a dataset for evaluating the model performance. And I think my train data which contains about 320 queries are not enough. I have to search it that whether I should increase the size of the data or not. 
+
+* My initial plan: scrape very long number of documents from e-qanun => create training dataset => create evalution dataset => finetune the model => evaluate the model.
