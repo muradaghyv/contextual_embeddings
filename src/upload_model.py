@@ -1,9 +1,9 @@
 from huggingface_hub import HfApi
 import os
 
-local_model_path = "../test_encoder_only_m3_bge-m3_sd"
+local_model_path = "../finetuned_bge_m3_v2"
 
-repo_id = "muradaghyv/finetuned_bge_m3_v1"
+repo_id = "muradaghyv/finetuned_bge_m3_v2"
 
 all_files = [os.path.join(dirpath, filename) for dirpath, _, filenames in os.walk(local_model_path) for filename in filenames]
 api = HfApi()
