@@ -15,7 +15,6 @@ class Preprocessor():
         and splitting it into chunks, saving chunks and their embeddings in the vector database.
         """
         self.filepath = filepath
-        self.reader = pypdf.PdfReader(self.filepath)
     
     def read_text(self):
         """
@@ -25,6 +24,8 @@ class Preprocessor():
             all_text: string contains the full text on PDF.
         """
         try:
+            self.reader = pypdf.PdfReader(self.filepath)
+
             reader = self.reader
 
             all_text = ""
