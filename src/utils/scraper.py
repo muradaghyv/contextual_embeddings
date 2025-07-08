@@ -2,6 +2,25 @@ from playwright.sync_api import sync_playwright
 from playwright.async_api import async_playwright
 from pydantic import BaseModel
 from typing import Optional
+import time
+import os
+import argparse
+
+parser = argparse.ArgumentParser(description="Arguments for scraping")
+
+parser.add_argument("--max_docs", type=int, default=None,
+                    help="Number of maximum documents for scraping. Set it None for manual stopping.")
+
+parser.add_argument("--start_id", type=int, default=int,
+                    help="Starting point of the scraping.")
+
+parser.add_argument("--base_url", type=str, default="https://e-qanun.az/framework/",
+                    help="Base url for scraping.")
+
+parser.add_argument("--save_dir", type=str, default="../../data/scraped_docs/", 
+                    help="The path for saving scraped documents.")
+
+args = parser.parse_args()
 
 class ScrapingResult(BaseModel):
     success: bool = False
@@ -159,9 +178,56 @@ async def async_scrape(
 
     return result
 
-if __name__ == "__main__":
-    result = scrape("https://e-qanun.az/framework/46944")
-    
+def is_valid(result):
+    return result.success and result.text_content and len(result.text_content.strip()) > 100
 
-    with open("scraped_sample_46944.txt", "w") as f:
-        f.write(result.text_content)
+def main(max_docs: int, start_id: int,
+         base_url: str, save_dir: str,
+         wait_seconds: int=5):
+    """
+    Scraping E-Qanun.az automatically. Scraping is done until the specified number of documents or KeyboardInterrupt.
+
+    Args: 
+        max_docs: maximum number of documents for scraping. Set None for manual stopping.
+        base_url: Base scraping url
+        start_id: Documents are stored in the combination of this value with base url.
+        save_dir: The path for saving scraped documents.
+        wait_seconds: waiting time for requesting to E-qanun.az
+    """
+    print("Starting scraper... Press Ctrl+C to stop.")
+    count = 0
+    current_id = start_id
+
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
+
+    try:
+        while True:
+            url = f"{base_url}{current_id}"
+            print(f"[{count}] Scraping: {url}")
+
+            result = scrape(url)
+
+            if is_valid(result):
+                filename = os.path.join(save_dir, f"doc_{current_id}.txt")
+                with open(filename, "w", encoding="utf-8") as f:
+                    f.write(result.text_content)
+                count += 1
+                print(f"Saved → {filename}")
+            else:
+                print("Skipped (invalid or not found).")
+
+            current_id += 1
+
+            if max_docs and count >= max_docs:
+                print(f"Reached max_docs={max_docs}")
+                break
+
+            time.sleep(wait_seconds)  # be polite
+
+    except KeyboardInterrupt:
+        print("Scraping interrupted manually. Exiting...")
+
+if __name__ == "__main__":
+    main(max_docs=args.max_docs, start_id=args.start_id,
+         base_url=args.base_url, save_dir=args.save_dir)
