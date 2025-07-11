@@ -4,6 +4,10 @@ import jsonlines
 from dotenv import load_dotenv
 import openai
 
+import ast
+import re
+import time
+
 if load_dotenv("../.env"):
     openai_api_key = os.getenv("openai_api_key")
 
@@ -36,7 +40,16 @@ def generate_query(chunk_file, sample):
         ]
     )
 
-    return response['choices'][0]['message']['content'].strip()
+    content = response['choices'][0]['message']['content'].strip()
+
+    content = re.sub(r"^```json\n?|```$", "", content.strip(), flags=re.MULTILINE)
+    content = re.sub(r"^```python\n?|```$", "", content.strip(), flags=re.MULTILINE)
+
+    try:
+        return ast.literal_eval(content)
+    except Exception as e:
+        print("Failed to parse content:", content)
+        raise e
 
 def create_dataset_samples(FOLDER_DIR="../../data/scraped_docs/", SAVE_DIR="../../data/openai_results/"):
     """
@@ -52,28 +65,41 @@ def create_dataset_samples(FOLDER_DIR="../../data/scraped_docs/", SAVE_DIR="../.
         os.makedirs(SAVE_DIR)
 
     for filename in os.listdir(FOLDER_DIR):
-        queries = []
+        json_filename = filename.split(".")[0]
 
-        print(f"Reading document: {filename}")
+        if not os.path.exists(os.path.join(SAVE_DIR, f"{json_filename}.jsonl")):
+            queries = []
 
-        filepath = os.path.join(FOLDER_DIR, filename)
-        preprocessor = Preprocessor(filepath=filepath)
-        with open(filepath, "r") as f:
-            txt = f.read()
+            print(f"Reading document: {filename}")
 
-        clean_text = preprocessor.clean_text(text=txt)
+            filepath = os.path.join(FOLDER_DIR, filename)
+            preprocessor = Preprocessor(filepath=filepath)
+            with open(filepath, "r") as f:
+                txt = f.read()
 
-        chunks = preprocessor.split_into_chunks(text=clean_text, max_chunk_size=300)
-        
-        for chunk in chunks:
-            query = generate_query(chunk_file=chunk,
-                        sample=sample)
-            print(query)
+            clean_text = preprocessor.clean_text(text=txt)
+
+            chunks = preprocessor.split_into_chunks(text=clean_text, max_chunk_size=8192)
             
-            queries.append(query)
+            for chunk in chunks:
+                try:
+                    query = generate_query(chunk_file=chunk,
+                                sample=sample)
+                except openai.error.RateLimitError as rate_error:
+                    print(f"Rate Limit error: {str(rate_error)}")
+                    time.sleep(3)
+                    continue
+                
+                queries.append(query)
+
+            with jsonlines.open(f"{os.path.join(SAVE_DIR, json_filename)}.jsonl", mode="w") as writer:
+                writer.write_all(queries)
         
-        with jsonlines.open(f"{os.path.join(SAVE_DIR, filename)}.jsonl", mode="w") as writer:
-            writer.write_all(queries)
+        else:
+            print(f"{json_filename} exists!")
+            pass
+
+        time.sleep(3)
 
 if __name__=="__main__":
     create_dataset_samples()
