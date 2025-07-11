@@ -130,3 +130,17 @@ From that point we can conclude:
 * As because I have finetuned *only embedder* model, I think I have to evaluate the model performance according to the documentation depicted on FlagEmbedding repo. The difficult part of this is that I have to create a dataset for evaluating the model performance. And I think my train data which contains about 320 queries are not enough. I have to search it that whether I should increase the size of the data or not. 
 
 * My initial plan: scrape very long number of documents from e-qanun => create training dataset => create evalution dataset => finetune the model => evaluate the model.
+
+## Notes 11.07.2025
+
+* I have modified `src/utils/scraper.py` so that:
+    * You can scrape as much documents from *e-qanun.az* as you want (**max_docs**);
+    * As because all documents are under `e-qanun.az/framework/`, I am just defining **start id** and it starts scrape from `e-qanun.az/framework/start_id`.
+
+* `src/utils/dataset_preparation.py` script is created: 
+    * Opens and reads all scraped documents;
+    * Cleans and creates chunks from it;
+    * OpenAI client generates a query according to the sample query from each chunk;
+    * Each generated query (synthetic dataset example in the format of: *query - pos - neg - prompt - type*) from each chunk are combined in a single `.jsonl` file and saved in the directory;
+    * Correct formatting of generated query is done automatically for neater and cleaner `.jsonl` files;
+    * Try/Except blocks have been provided for unexpected errors and timeouts. 
