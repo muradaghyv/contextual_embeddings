@@ -1,0 +1,609 @@
+Mətn
+Şəkil
+Rekvizitlər
+Versiyalar
+Əlaqəli Sənədlər
+
+“Azərbaycan Respublikasının ərazisində DVB-T rəqəmli televiziya yayım sisteminin tətbiqi və inkişafı Proqramı”nın təsdiq edilməsi haqqında
+
+ 
+
+AZƏRBAYCAN RESPUBLİKASI NAZİRLƏR KABİNETİNİN QƏRARI
+
+ 
+
+Azərbaycan Respublikası Nazirlər Kabinetinin 2006-cı il 13 sentyabr tarixli 274 s nömrəli sərəncamına uyğun olaraq, respublikanın ərazisində radio-televiziya yayımının təkmilləşdirilməsi və rəqəmli radio-televiziya yayımına keçidin təmin edilməsi məqsədi ilə Azərbaycan Respublikasının Nazirlər Kabineti qərara alır:
+
+1. "Azərbaycan Respublikasının ərazisində DVB-T rəqəmli televiziya yayım sisteminin tətbiqi və inkişafı Proqramı" təsdiq edilsin (əlavə olunur).
+
+2. Bu qərarın 1-ci bəndi ilə təsdiq edilmiş Proqramın əlaqələndirici orqanı Azərbaycan Respublikasının Rabitə və İnformasiya Texnologiyaları Nazirliyi müəyyən edilsin.
+
+3. Bu qərar imzalandığı gündən qüvvəyə minir.
+
+ 
+
+Azərbaycan Respublikasının Baş naziri   A.RASİZADƏ
+
+ 
+
+Bakı şəhəri, 10 fevral 2011-ci il
+
+№ 26
+
+ 
+
+Azərbaycan Respublikası Nazirlər Kabinetinin
+
+2011-ci il 10 fevral tarixli 26 nömrəli qərarı ilə
+
+TƏSDİQ EDİLMİŞDİR
+
+ 
+
+ Azərbaycan Respublikasının ərazisində DVB-T rəqəmli televiziya yayım sisteminin tətbiqi və inkişafı
+
+ 
+
+PROQRAMI
+
+ 
+
+1. Giriş
+
+ 
+
+Bir əsrlik tarixi olan televiziya yarandığı gündən hal-hazıradək sürətlə inkişaf etməkdədir. Analoq televiziya yeni yarandığı vaxtlarda təsvirə görə ağ-qara, tezlik diapazonuna görə metrlik dalğada yayımlanmışdır. Sonra isə yayım rəngli və desimetrlik diapazonda həyata keçirməyə başlanmışdır.
+
+Respublikada televiziya yayımının başlanmasından keçən 55 il ərzində televiziya yayımının keyfiyyətli təşkili və əhali tərəfindən televiziya proqramlarının normal qəbul edilməsinin təmin olunması üçün dünya standartlarına cavab verən texniki baza yaradılmışdır.
+
+XX əsrin 80-ci illərindən başlayaraq bütün inkişaf etmiş ölkələrdə aparılmış elmi araşdırmaların nəticələri və analoq televiziya yayımında meydana gələn bir sıra problemlər televiziya spektrinin sıxılmasından əldə olunan mütərəqqi rəqəmli televiziya yayımına keçilməsinə zəmin yaratdı.
+
+Eyni zamanda televiziya yayımında keyfiyyətə olan tələbat, əlavə xidmətlərin göstərilməsi, məhdud tezlik resurslarından səmərəli istifadə edilməsi və mobil televiziyaya olan ehtiyac rəqəmli televiziyanın yaranmasını zəruri etmişdir.
+
+Beynəlxalq Telekommunikasiya İttifaqının bu sahə üzrə apardığı araşdırmaların nəticəsi olaraq, 2006-cı ilin may ayında İsveçrənin Cenevrə şəhərində keçirilmiş Regional Radiorabitə Konfransında (RRK-06) rəqəmli televiziya yayımına keçidlə bağlı müvafiq qərarlar qəbul edilmiş və 2015-ci ilədək bu keçidin başa çatdırılması barədə region ölkələri arasında razılıq əldə olunmuşdur.
+
+Respublikada informasiya texnologiyalarının sürətlə inkişaf etdiyini nəzərə alaraq, Azərbaycanda da digər ölkələrdə olduğu kimi rəqəmli televiziya yayım sisteminin tətbiqi dövlət əhəmiyyətli məsələ kimi müvafiq Proqramın hazırlanmasını zəruri etmişdir.
+
+Hazırkı Proqram Azərbaycan Respublikası Nazirlər Kabinetinin 2006-cı il 13 sentyabr tarixli 274s nömrəli sərəncamına uyğun olaraq hazırlanmışdır. Bu sərəncama əsasən respublikada rəqəmli televiziya yayımı üçün DVB-T sistemi tətbiq olunacaqdır.
+
+ 
+
+2. Azərbaycan Respublikasında radio-televiziya yayımının mövcud vəziyyəti
+
+ 
+
+Azərbaycan Respublikasının ərazisində hal-hazırda 30-a yaxın dövlət, ictimai, özəl və xarici teleradio şirkətlərinin radio-televiziya proqramları yayımlanır.
+
+Respublika ərazisində yayımlanan radio-televiziya proqramları yayım zonalarına görə ümumölkə və regional proqramlara bölünür. Teleradio şirkətlərinin mülkiyyət formasından asılı olaraq, respublikada dövlət, ictimai və özəl radio-televiziya proqramları mövcuddur.
+
+2010-cu ilin sonuna olan məlumata görə respublika əhalisinin televiziya yayımı ilə əhatəsi aşağıdakı kimidir:
+
+- bir proqramla - 99.9 faiz;
+
+- iki proqramla - 99.4 faiz;
+
+- üç proqramla - 96 faiz;
+
+- dörd proqramla - 90 faiz.
+
+Hazırda respublikada yerüstü və peykdən yayımlanan 10 ümumölkə (dövlət və özəl), 14 regional (özəl) televiziya, 13 ümumölkə (özəl) FM radio proqramları yayımlanır.
+
+Eyni zamanda, hazırda Bakı şəhərində üç rəqəmli efir-kabel televiziya şəbəkəsi fəaliyyətdədir və bu şəbəkələr vasitəsilə ödənişli əsaslarla 100-ə yaxın televiziya proqramı göstərilir.
+
+Ölkənin 9 televiziya proqramı - AzTV, İctimai, Lider, Space, Xəzər, ANS, ATV, İdman Azərbaycan və ATV İNT yerüstü TV yayımı ilə yanaşı müxtəlif peyklər vasitəsilə də yayımlanır.
+
+Respublikada radio-televiziya proqramlarının yayımı üçün Rabitə və İnformasiya Texnologiyaları Nazirliyinin "Teleradio" İstehsalat Birliyinə və özəl şirkətlərə məxsus 310-a yaxın müxtəlifgüclü radio-televiziya stansiyaları fəaliyyət göstərir.
+
+Radio-televiziya yayımında proqramların ötürülməsi şəbəkəsi ümumistifadəli telekommunikasiya şəbəkəsinin tərkib hissələrindən biridir və televiziya proqramlarının ötürülməsində radiorele xəttindən, kabel və peyk şəbəkələrindən istifadə olunur.
+
+ 
+
+3. Proqramın məqsədi
+
+ 
+
+Proqramın əsas məqsədi Azərbaycan Respublikasının ərazisində analoq televiziya və radio yayımından rəqəmli televiziya və radio yayımına keçid üçün lazımi şəraitin yaradılmasıdır.
+
+Belə bir keçid ölkə əhalisinin televiziya yayım şəbəkəsi vasitəsilə keyfiyyətli video, audio və data (verilənlər) şəklində lazımi məlumatları ala bilməsinə imkan verəcəkdir.
+
+Bu halda verilişin keyfiyyəti kifayət qədər yüksək olacaqdır. Əhalinin böyük əksəriyyətinin ilk mərhələdən başlayaraq, çoxproqramlı televiziya yayımı ilə əhatə olunması isə bu Proqramın məqsədlərindən biri sayılır.
+
+Proqramda qoyulmuş məqsədlərə çatmaq üçün aşağıdakı məsələlərin həlli nəzərdə tutulur:
+
+- respublikada radio-televiziya yayımının infrastrukturunun inkişaf etdirilməsi;
+
+- rəqəmli radio-televiziya yayım xidmətlərinin daha cəlbedici olması;
+
+- efir məkanında milli və informasiya təhlükəsizliyinin təmin olunması və gücləndirilməsi;
+
+- vahid texnoloji standart əsasında teleradio yayımının təmin edilməsi;
+
+- bir televiziya kanalında 10-dan artıq proqramın verilməsi ilə interaktivliyin təmin olunması;
+
+- əhalinin studiya ilə birbaşa əlaqə imkanının yaradılması;
+
+- radio-televiziya yayımında keyfiyyətli mobil qəbulu üçün daha münbit şəraitin yaradılması;
+
+- radio-televiziya proqramlarının qəbulu ilə yanaşı, əlavə sorğu-məlumat və internet xidmətlərinin təşkilinə imkan yaradılması;
+
+- rəqəmli radio-televiziya yayımının təşkilində peyk resurslarından daha səmərəli istifadə olunması;
+
+- regional radio-televiziya proqramlarının digər ərazilərə çatdırılması imkanının yaradılması;
+
+- proqram kontentlərindən istifadənin avtomatlaşdırılması və arxivləşdirilməsi;
+
+- şəbəkə üzrə teletekstin təşkilinin, kompüter oyunlarına daxilolmanın və abunəçi qəbuledicisinin fərdi kodlaşma sisteminin tətbiqinin mümkünlüyü;
+
+- müasir inkişaf tələblərinə uyğun olaraq, sahə üzrə normativ hüquqi bazanın təkmilləşdirilməsi.
+
+ 
+
+4. Rəqəmli radio-televiziya yayımının tətbiqi
+
+ 
+
+Rəqəmli televiziya yayımına keçidlə bağlı dünya ölkələri tərəfindən bu günə qədər müxtəlif metodlar işlənib hazırlanmışdır. Bu metodlardan ən geniş yayılanı - ilkin mərhələdə analoq və rəqəmli yayımın paralel təşkil edilməsidir. Respublikada da bu istiqamətdə müvafiq tədbirlərin görülməsi nəzərdə tutulur.
+
+Respublikada rəqəmli televiziya yayımına keçidlə bağlı yerüstü rəqəmli televiziya yayım vericilərindən istifadə etməklə, rəqəmli televiziya yayım şəbəkəsinin yaradılması metodunun tətbiq edilməsi məqsədəuyğun hesab olunur. Bu metod rəqəmli televiziya yayımına keçid dövründə mövcud radio-televiziya yayım stansiyalarında (RTYS) analoq vericilər saxlanılmaqla, rəqəmli televiziya vericilərinin quraşdırılmasını özündə əks etdirir.
+
+Respublikada rəqəmli televiziya yayımına keçidin 2 mərhələdən ibarət olması və bu mərhələlərdə rəqəmli televiziya yayımının analoq televiziya yayımı ilə paralel həyata keçirilməsi nəzərdə tutulur.
+
+Analoq və rəqəmli televiziya yayımının paralel aparılması qısa müddətdə rəqəmli televiziya yayımının üstünlüklərinin hiss olunmasına şərait yaradacaqdır. Bu halda həm də əhalini televiziya proqramları ilə əhatə etmək nöqteyi-nəzərindən effektiv olmayan televiziya stansiyalarından imtina etmək imkanı yaranır. Bu metodun tətbiqi zamanı qarşıya çıxa biləcək əsas çətinliklərdən biri keçid dövründə sərhədyanı bölgələrdə (xüsusən İranla sərhəddə) tezlik çatışmazlığının yaranmasıdır. Bununla belə, analoq televiziya stansiyalarının fəaliyyəti tam dayandırıldıqdan sonra bu çatışmazlıq aradan qaldırılacaq, həm də hər bir analoq televiziya kanalında 8-12 televiziya proqramının yayımlanmasına şərait yaranacaqdır. Bu isə ölkə ərazisində yeni televiziya proqramlarının təşkilinə imkan verəcəkdir. Həmçinin, rəqəmli televiziya yayımına tam keçid başa çatdıqdan sonra tezlik resurslarından istifadə imkanları genişlənəcəyindən, hazırda sərhədyanı bölgələrdə qonşu ölkələr tərəfindən mövcud analoq televiziya yayımlarına olan maneələr də aradan qaldırılacaqdır.
+
+Ölkənin böyük şəhərlərində rəqəmli televiziya yayımına keçid dövründə tezlik çatışmazlığı səbəbindən televiziya yayımı ilə əhatə olunmayan ərazilərdə kollektiv qəbul sisteminin imkanlarından istifadə edilməsi nəzərdə tutulur. Belə ki, ilkin mərhələdə bəzi çoxmərtəbəli binalarda kollektiv antenlər qoyulmaqla bir və ya bir neçə binanın rəqəmli televiziya yayımı ilə əhatə edilməsi mümkün olacaqdır.
+
+Qeyd olunanlardan əlavə, rəqəmli televiziya yayımına keçid dövründə fərdi peyk qəbul avadanlıqlarından və kabel-televiziya yayımından da istifadə edilə bilər.
+
+Rəqəmli yayıma keçidin uğurla həyata keçirilməsində əsas amillərdən biri əhalinin rəqəmli televizorlar və çevirici qurğularla təmin olunmasıdır. Bu məqsədlə rəqəmli paketdə əhalini maraqlandıran kütləvi televiziya proqramlarının yayımlanması və əlavə informasiyaların verilməsinin həyata keçirilməsi nəzərdə tutulur. Bununla yanaşı, analoq televiziya yayımının nəzərdə tutulan müddətdə dayandırılmasına nail olmaq üçün 2011-ci ildən başlayaraq, rəqəmli çevirici qurğusu olmayan analoq televizorların ölkəyə gətirilməsi və satışının məhdudlaşdırılması üçün müvafiq tədbirlərin həyata keçirilməsi gözlənilir. Rəqəmli radio yayıma keçid zamanı yeni rəqəmli radioqəbuledicilərdən istifadə ediləcəkdir.
+
+Azərbaycan Respublikası Nazirlər Kabinetinin 2006-cı il 13 sentyabr tarixli 274s nömrəli sərəncamı ilə respublikada rəqəmli radio-televiziya yayımının tətbiqi üçün standartlaşdırma ilə əlaqədar məsələlərin həlli Azərbaycan Respublikası Rabitə və İnformasiya Texnologiyaları Nazirliyinin təklifləri əsasında Azərbaycan Respublikasının Standartlaşdırma, Metrologiya və Patent üzrə Dövlət Komitəsinə tapşırılmışdır.
+
+Televiziya yayımının normal təşkili üçün texniki baza ilə yanaşı, televiziya kanallarının (televiziya yayımı üçün radiotezlik zolaqlarının) düzgün seçilməsi və ötürücülərin optimal yerlərdə quraşdırılaraq bir-birinə qarşı, eləcə də qonşu dövlətlərin televiziya kanalları tərəfindən maneə təsirinə məruz qalmaması mühüm əhəmiyyət kəsb edir.
+
+Rəqəmli televiziya yayımı kimi rəqəmli radio yayımı da dünyada müxtəlif texnologiya və standartlar tətbiq edilməklə həyata keçirilir. Rəqəmli radioyayım qısa, orta, FM, TV və aşağı tezlik zolağı (L-bənd 950-2150MHs) diapazonlarında tətbiq edilir.
+
+Orta və qısa dalğalarda rəqəmli radio yayımı (DRM) əsasən ərazisi böyük olan ölkələrdə bir neçə radioverici quraşdırılmaqla tətbiq olunur. Bu, bütün ölkənin radioyayımla əhatə edilməsi və xaricə radio proqramlarının yayımlanması üçün də istifadə edilir. Bir tezlik kanalında bir neçə dildə radioproqramların yayımının həyata keçirilməsi mümkündür və radioproqramla yanaşı, uzaq məsafələrə data, foto və digər məlumatlar ötürülə bilər. Hazırda DRM sisteminin ultraqısa dalğa diapazonunda, xüsusən də FM diapazonunda da tətbiqi ilə bağlı sınaqlar həyata keçirilməkdədir. DRM sisteminin üstün cəhəti onun analoq yayıma nisbətən aşağı güclə uzaq məsafəyə yayım imkanlarının olması, az vəsaitlə mövcud analoq vericilərin rekonstruksiya edilməsi, elektrik enerjisinə qənaət olunmasıdır. Bu standartın çatışmayan cəhəti isə ondan ibarətdir ki, FM-ə nisbətən yayım keyfiyyəti aşağıdır və qəbuledici avadanlıqların qiyməti böyükdür.
+
+Dünyada rəqəmli radioyayıma keçidlə bağlı görülən işlər nəzərə alınaraq, Azərbaycanda rəqəmli radioyayıma keçid üçün aşağıdakıların yerinə yetirilməsi nəzərdə tutulur:
+
+- "Xaricə yayım" radioproqramı üçün ölkə ərazisində DRM sistemində yeni orta dalğa radiovericilərinin quraşdırılması;
+
+- respublikada DVB-T televiziya yayımı üzərindən radioproqramların rəqəmli yayımının təşkil edilməsi;
+
+- FM diapazonunda tezlik çatışmazlığı yaranan şəhər və rayonlarda FM radioyayımı ilə paralel olaraq rəqəmli radioyayıma keçilməsi.
+
+ 
+
+5. Proqramın həyata keçirilməsi mərhələləri
+
+ 
+
+Azərbaycanda rəqəmli radio-televiziya yayımına keçid üzrə dünya ölkələrinin təcrübəsinə əsaslanaraq, bu Proqramda keçid dövrünün tədricən həyata keçirilməsi nəzərdə tutulur.
+
+Respublikada rəqəmli radio-televiziya yayımına keçid 2 mərhələdən ibarət olacaqdır. Birinci mərhələ 2011-2012-ci illəri əhatə edir. Bu mərhələdə ən azı bir açıq paket (8-12 proqramdan ibarət) olmaqla Bakı, Gəncə, Naxçıvan və respublikanın sərhəd bölgələrində rəqəmli televiziya yayımının təşkili nəzərdə tutulur. Proqramların regionlara çatdırılması üçün mövcud analoq RRX şəbəkəsinin də rəqəmli şəbəkə ilə əvəz olunması planlaşdırılır. Bu mərhələdə normativ hüquqi aktların, normativ-texniki sənədlərin, lisenziya qaydalarının və tariflərin işlənib hazırlanması nəzərdə tutulur. Bu mərhələnin əsas məqsədi ölkənin televiziya yayım şəbəkəsinin rəqəmləşdirilməsinə və bu yayım növünə keçid üçün DVB-T qəbuledicilərinin və çevirici qurğuların tətbiqinə başlanmasıdır.
+
+Birinci mərhələnin sonuna respublikanın əhalisinin təqribən 60-70 faizini təmin edə biləcək rəqəmli televiziya yayım şəbəkəsinin qurulması planlaşdırılır. Eyni zamanda, yuxarıda qeyd olunan bölgələrdə birinci mərhələdə rəqəmli radioyayımın tətbiqi də təşkil ediləcəkdir. İstifadədə olan mövcud analoq televiziya stansiyalarında analoji gücə malik rəqəmli televiziya vericiləri quraşdırılarsa, onların əhatə dairəsi mövcud analoq vericilərin yayım zonasından dəfələrlə artıq olacaqdır ki, bu da ölkə daxilində televiziya yayımları arasında interferensiyaların yaranmasına səbəb ola bilər. Hesablamalar göstərir ki, gücü 1,2 kVt olan rəqəmli televiziya vericisi quraşdırılarsa, gücü 5 kVt olan analoq televiziya vericisinin yayım zonasını əhatə etmək mümkündür. Bu isə o deməkdir ki, vericilərin gücünə görə rəqəmli televiziya yayımının tətbiqi analoq yayıma nisbətən 4 dəfə effektiv olacaqdır.
+
+Güclü RTYS-lərdə rəqəmli televiziya vericiləri quraşdırıldıqdan sonra, əhatə olunmayan ətraf ərazilərdə və yayımın qəbulu zəif olan yaşayış məntəqələrində azgüclü rəqəmli televiziya vericiləri quraşdırılacaqdır.
+
+İkinci mərhələ 2013-cü ili əhatə edəcəkdir. Bu mərhələdə digər güclü radio-televiziya stansiyalarında optimal yayımın tələblərini təmin etməklə iki, üç və daha artıq paketdən (hər birində 8-12 proqram) ibarət rəqəmli televiziya vericilərinin quraşdırılması nəzərdə tutulur. Təşkil ediləcək paketlərə dövlət, ictimai, özəl və regional televiziya proqramları ilə yanaşı, əhalinin marağına səbəb olan digər televiziya proqramları da daxil edilə bilər. Mərhələnin sonunda ölkə ərazisi əsasən rəqəmli televiziya yayımı ilə təmin olunacaqdır. Eyni zamanda, respublika ərazisində fəaliyyət göstərən analoq RRX şəbəkəsi rəqəmli şəbəkəyə keçirilməklə yanaşı, əlavə tələb olunan stansiyalar arasında proqramların rəqəmli ötürülməsi təmin olunacaqdır. Nəticədə bütün proqramların eyni nöqtədən idarə olunması, keyfiyyətin daha da artırılması və peyk üzərindən ötürülməyə alternativliyin yaradılması təmin ediləcəkdir.
+
+Birinci mərhələnin sonunda bəzi güclü radio-televiziya yayımı stansiyalarında, ikinci mərhələnin sonunda isə respublika ərazisində analoq yayımın tam dayandırılması nəzərdə tutulur.
+
+Rəqəmli radio-televiziya yayımına keçid zamanı özəl və regional teleradio yayımçıları tərəfindən aşağıdakıların yerinə yetirilməsi zəruri hesab edilir:
+
+- yayımçıların Rabitə və İnformasiya Texnologiyaları Nazirliyinin "Teleradio" İstehsalat Birliyinin və ya lisenziya almış digər teleradio operatorlarının yayım xidmətlərindən, yəni DVB-T yayım avadanlıqlarından istifadə etməsi;
+
+- özəl radio-televiziya yayımçılarının hər bir rəqəmli proqram üçün müvafiq tariflərə uyğun operatorla müqavilə bağlaması;
+
+- yayımçılar onlara məxsus avadanlıqlarla rəqəmli yayıma başladıqları halda özəl yayımçıların DVB-T yayımı ilə bağlı lisenziya alması;
+
+- özəl yayımçıların tezliklərin istismarı ilə əlaqədar yeni tariflərə əsasən müvafiq qurumla müqavilə bağlaması;
+
+- ayrılan tezliklərdən səmərəli istifadə olunması məqsədi ilə hər bir yayımçı bir rəqəmli televiziya kanalında MPEG-4 sistemində ən azı 8 və ya 10 proqramlı yayımı təmin etməsi;
+
+- respublikada analoq radio-televiziya yayımının 2013-cü ilin sonunda tam dayandırılacağı nəzərə alınmaqla bütün şəbəkə, studiya və s. avadanlıqların rəqəmli avadanlıqlarla əvəz edilməsi.
+
+ 
+
+6. Proqramın maliyyə mənbələri
+
+ 
+
+Proqramın maliyyə mənbələri aşağıdakılardır:
+
+- daxili və xarici investisiyalar;
+
+- beynəlxalq və xarici ölkə təşkilatlarının texniki və maliyyə yardımları, qrantlar;
+
+- qanunvericiliyə zidd olmayan digər mənbələrin vəsaitləri.
+
+ 
+
+7. Gözlənilən nəticələr
+
+ 
+
+Analoq televiziya yayımından yerüstü rəqəmli televiziya yayımına keçilməsi ölkənin inkişafı üçün yeni texnikanın tətbiqi kimi qəbul edilir. İnformasiya şəbəkəsinin genişləndirilməsi, informasiyanın verilmə sürətinin artırılması, beynəlxalq aləmlə informasiya mübadiləsinin gələcək perspektivlərinin təmin edilməsi, televiziya şirkətlərinin bazar iqtisadiyyatı şəraitində sürətli inkişafına imkanların açılması və nəhayət, geniş tamaşaçı kütləsinin daha keyfiyyətli və çoxfunksiyalı televiziya yayımı ilə təmin edilməsi bu Proqramın həyata keçirilməsinin nəticəsi olacaqdır.
+
+Bu Proqramın həyata keçirilməsi ilə aşağıdakı məsələlərin həll olunması təmin ediləcəkdir:
+
+- qlobal informasiya məkanına daxil olmaqla "rəqəmli uçurum"un aradan qaldırılması;
+
+- dövlət tərəfindən həyata keçirilən sosialyönümlü (mədəniyyət, təhsil, maarifləndirmə və s.) tədbirlərin inkişaf etdirilməsi;
+
+- radio və televiziya yayım şəbəkəsinin yenidən qurulması və onun daim inkişaf edən və yüksək potensiala malik iqtisadi sahəyə çevrilməsi;
+
+- ölkə əhalisinin çoxproqramlı radio və televiziya yayımı ilə əhatə olunmasında qeyri-bərabərliyin aradan qaldırılması və bütün əhalinin informasiya resurslarından bərabərhüquqlu yararlanmaq imkanının təmin olunması;
+
+- tezlik zolağından səmərəli istifadə edilməsi, radio və televiziya proqramlarının sayının artırılması, interaktiv yayımın təmin edilməsi və əhaliyə əlavə rabitə xidmətlərinin göstərilməsi;
+
+- qonşu ölkələrdən olan maneə siqnallarının qarşısının alınması üçün etibarlılığın artırılması;
+
+- televiziya yayımında yüksək keyfiyyətin təmin olunması və analoq sistemi ilə müqayisədə azgüclü vericilərdən istifadə edilməsi;
+
+- azgüclü vericilərdən istifadə olunduğu üçün elektrik enerjisinə qənaət edilməsi;
+
+- vahid sıxlaşdırılmış rəqəmli axında televiziya proqramlarından başqa, əhaliyə həmçinin əlavə məlumatların çatdırılması (mədəni-ictimai tədbirlər, nəqliyyatın hərəkət cədvəli , reklamlar, tele-şopinq və s.);
+
+- bu sahəyə investisiya qoyuluşunun və büdcəyə vergi ödənişlərinin artırılması.
+
+ 
+
+8. Proqramın həyata keçirilməsi üçün
+
+ 
+
+TƏDBİRLƏR PLANI
+
+ 
+
+Sıra №-si
+
+	
+
+Tədbirin adı
+
+	
+
+İcra müddəti
+
+(illər üzrə)
+
+	
+
+İcraçı təşkilatlar
+
+	
+
+Qeyd
+
+
+
+
+1
+
+	
+
+2
+
+	
+
+3
+
+	
+
+4
+
+	
+
+5
+
+
+
+
+1.
+
+	
+
+Rəqəmli radio-televiziya yayımının tətbiqi və inkişafı üzrə tezlik planının hazırlanması
+
+	
+
+2011
+
+	
+
+RTDK,
+
+RİTN, MTRŞ
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Açıq və qapalı yayımlanan televiziya proqramlarının siyahısının hazırlanması və rəqəmli yayım paketində proqramların müəyyən edilməsi
+
+	
+
+2011
+
+	
+
+MTRŞ, RİTN
+
+	
+
+ 
+
+
+
+
+3.
+
+	
+
+Müvafiq qanunlara və digər normativ hüquqi aktlara əlavə və dəyişikliklər edilməsi üçün təkliflərin hazırlanması
+
+	
+
+2011
+
+	
+
+RİTN, MTRŞ, ƏN
+
+	
+
+ 
+
+
+
+
+4.
+
+	
+
+Rəqəmli radio-televiziya yayımı üçün lisenziyaların verilməsi qaydalarının hazırlanması
+
+	
+
+2011
+
+	
+
+MTRŞ, RİTN
+
+	
+
+ 
+
+
+
+
+5.
+
+	
+
+Rəqəmli radio-televiziya yayımının tətbiqi üçün standartların müəyyən edilməsi
+
+	
+
+2011
+
+	
+
+RİTN, SMPDK
+
+	
+
+ 
+
+
+
+
+6.
+
+	
+
+Rəqəmli yayımın istismarı və tələb olunan avadanlıqların istehsalı ilə bağlı aidiyyəti sahələr üzrə mütəxəssislərin hazırlanması
+
+	
+
+2011-2013
+
+	
+
+RİTN, TN, MTRŞ, MSN, teleradio yayımçıları
+
+	
+
+ 
+
+
+
+
+7.
+
+	
+
+Rəqəmli radio-televiziya ötürücü və qəbuledici, çevirici avadanlıqlarının ölkədə istehsalı üçün təkliflərin hazırlanması və həyata keçirilməsi
+
+	
+
+2011
+
+	
+
+MSN, İİN, RİTN
+
+	
+
+ 
+
+
+
+
+8.
+
+	
+
+Radio-televiziya proqramlarının studiyalarının, kontentlərinin və digər zəruri avadanlıqlarının rəqəmləşdirilməsi
+
+	
+
+2011-2013
+
+	
+
+MTRŞ,
+
+RİTN,
+
+teleradio yayımçıları
+
+	
+
+ 
+
+
+
+
+9.
+
+	
+
+Tezlik zolağının konversiyası üçün təkliflərin hazırlanması
+
+	
+
+2011-2012
+
+	
+
+RİTN, MTRŞ, RTDK
+
+	
+
+ 
+
+
+
+
+10.
+
+	
+
+Rəqəmli radio-televiziya və RRX şəbəkəsinin yaradılması
+
+	
+
+2011-2013
+
+	
+
+RİTN, teleradio yayımçıları
+
+	
+
+ 
+
+
+
+
+11.
+
+	
+
+Analoq TV yayımının dayandırılması
+
+	
+
+2013
+
+	
+
+RİTN, MTRŞ
+
+teleradio yayımçıları
+
+	
+
+ 
+
+ 
+
+ 
+
+ 
+
+Akronimlər
+
+ 
+
+ATSC - Amerikada yerüstü rəqəmli televiziya yayımı standartı;
+
+ATSİ - Avropa Telekommunikasiya Standartları İnstitutu;
+
+BTİ - Beynəlxalq Telekommunikasiya İttifaqı;
+
+DMD - desimetrlik dalğa;
+
+DVB-T - Avropada yerüstü rəqəmli televiziya yayımı standartı;
+
+FM- tezlik modulyasiyası;
+
+interaktiv TV xidməti - istifadəçinin müraciəti ilə operator tərəfindən ona göstərilən televiziya yayımı xidməti;
+
+interferensiya - dalğaların üst-üstə düşməsi nəticəsində onların qarşılıqlı təsiri;
+
+İSDB - T -Yaponiyada yerüstü rəqəmli televiziya yayımı standartı;
+
+MD - metrlik dalğa;
+
+MPEG - hərəkətdə olan təsvirlər üzrə tədqiqat qrupu;
+
+RMS - rəqəmli TV vericilərdə orta kvadratik güc;
+
+RTYS - radio-televiziya yayım stansiyası;
+
+T-DAB - yerüstü rəqəmli radio-televiziya yayımı;
+
+teleradio yayımçısı - Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada reyestrdən keçən, teleradio proqramları (verilişləri) istehsal etmək və yayımlamaq səlahiyyəti olan, yaxud yayımın retranslyasiya siqnallarının kodlarını açan qurğu və vasitələrin köməyi ilə həyata keçirilməsini təmin edən fiziki və ya hüquqi şəxs;
+
+TVK - televiziya kanalı;
+
+ƏN - Ədliyyə Nazirliyi;
+
+RİTN - Rabitə və İnformasiya Texnologiyaları Nazirliyi;
+
+İİN - İqtisadi İnkişaf Nazirliyi;
+
+RTDK - Radiotezliklər üzrə Dövlət Komissiyası;
+
+MSN - Müdafiə Sənayesi Nazirliyi;
+
+SMPDK - Standartlaşdırma, Metrologiya və Patent üzrə Dövlət
+
+Komitəsi;
+
+MTRŞ - Milli Televiziya və Radio Şurası;
+
+TN - Təhsil Nazirliyi.
+
+ 
+
+Qüvvədədir
+YÜKLƏ
+Məcəllələr
+© 2025 | e-qanun.az | Bütün Haqqlar Qorunur
+Ədliyyə Nazirliyinin İnformasiya - kommunikasiya Texnologiyaları İdarəsi CROCUSOFT
+
+E-QANUN

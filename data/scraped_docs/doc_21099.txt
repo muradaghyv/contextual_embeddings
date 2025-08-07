@@ -1,0 +1,256 @@
+Mətn
+Şəkil
+Rekvizitlər
+Versiyalar
+Əlaqəli Sənədlər
+
+“Dövlət qeydiyyatına alınmışdır”
+
+	
+
+“Təsdiq edilmişdir”
+
+
+
+
+Azərbaycan Respublikasının
+
+	
+
+Azərbaycan Respublikasının
+
+
+
+
+Ədliyyə Nazirliyi
+
+	
+
+Maliyyə Nazirliyi
+
+
+
+
+Qeydiyyat № 4081
+
+	
+
+Əmr № İ-211
+
+
+
+
+17 dekabr 2010-cu il
+
+	
+
+15 dekabr 2010-cu il
+
+
+
+
+Nazir müavini ________ Toğrul Musayev
+
+	
+
+Nazirin birinci müavini _____ İ.Fəti-zadə
+
+ 
+
+İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta ilə bağlı annuitet haqqının məbləğinin hesablanması
+
+ 
+
+Q A Y D A L A R I
+
+ 
+
+1. Ümumi müddəalar
+
+ 
+
+1.1. Bu Qaydalar “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətini itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikası Qanununun 15-ci maddəsinə uyğun olaraq hazırlanmışdır və həmin Qanunun məqsədləri üçün annuitet haqqının hesablanması qaydalarını, habelə bununla bağlı qanunvericilikdə nəzərdə tutulmuş digər məsələləri tənzimləyir.
+
+1.2. Bu Qaydaların məqsədləri üçün aşağıdakı anlayışlardan istifadə edilir:
+
+1.2.1. aktuar prinsipləri - sığorta tariflərinin, sığorta ehtiyatlarının və sığorta ödənişlərinin hesablanması zamanı aktuari tərəfindən tətbiq edilən iqtisadi-riyazi hesablama metodlarına əsaslanan prinsiplər;
+
+1.2.2. gətirilmiş gözlənilən dəyər - faiz dərəcəsi və faydalanan şəxsin (şəxslərin) yaşı (yaşları) nəzərə alınmaqla hesablanan (diskontlaşdırılan) gələcək tarixlərə aid məbləğlərin birdəfəlik ödəniş tarixinə gətirilən gözlənilən (ehtimal olunan) dəyəri;
+
+1.2.3. annuitet - müəyyən müddət ərzində dövri ödənişlərin həyata keçirilməsini nəzərdə tutan mexanizm;
+
+1.2.4. prenumerando annuitet - ödənişləri dövrün əvvəlində həyata keçirilən annuitet.
+
+ 
+
+2. Xalis annuitet haqqı
+
+ 
+
+2.1. Xalis annuitet haqqının hesablanması zamanı sığortaçı annuitet sığortası sinfi üzrə formalaşdırdığı sığorta ehtiyatlarının təmin olunması üçün qəbul edilmiş aktivlərin investisiya portfeli üzrə gəlirliliyinin proqnozlaşdırılan səviyyəsinə bərabər olan illik faiz dərəcəsindən istifadə etməlidir.
+
+2.2. Sığorta ödənişləri bərabər olan annuitet üçün xalis annuitet haqqı aşağıdakı düsturla hesablanır:
+
+2.2.1. müddətli annuitet üçün
+
+ 
+
+XAH = m x P x ä
+
+	
+
+(m)
+
+
+
+
+x:t|
+
+Burada
+
+XAH - xalis annuitet haqqı,
+
+x - sığorta olunanın yaşı,
+
+P - sığorta olunanın alacağı hər bir ödənişin məbləği,
+
+m - bir il ərzində nəzərdə tutulan annuitet ödənişlərinin sayı;
+
+ - yaşı x olan şəxs üçün ildə dövri olaraq m dəfə həyata keçirilən hər bir ödənişi 1/m, müddəti isə t olan prenumerando annuitetin gətirilmiş gözlənilən dəyəridir.
+
+ 
+
+2.2.2. müddətsiz annuitet üçün
+
+ 
+
+XAH = m x P x ä
+
+	
+
+(m)
+
+
+
+
+x
+
+ 
+
+Burada
+
+XAH - xalis annuitet haqqı,
+
+x - sığorta olunanın yaşı,
+
+P -sığorta olunanın alacağı hər ödənişin məbləği,
+
+m - bir il ərzində nəzərdə tutulan annuitet ödənişlərinin sayı;
+
+- yaşı x olan şəxs üçün ildə dövri olaraq m dəfə həyata keçirilən hər bir ödənişi 1/m olan müddətsiz prenumerando annuitetin gətirilmiş gözlənilən dəyəridir.
+
+2.3. Qeyri bərabər ödəniş sxemlərinə malik annuitetlər üçün xalis annuitet haqqı aktuar prinsiplərindən istifadə etməklə hesablanır.
+
+ 
+
+3. Annuitet haqqı
+
+ 
+
+Annuitet haqqı AH x 90% ≤ XAH şərti ödənilməklə hesablanmalıdır.
+
+Burada
+
+AH - annuitet haqqı,
+
+XAH - xalis annuitet haqqıdır.
+
+ 
+
+Misal:
+
+ 
+
+Sığortaçı: ABC sığorta şirkəti
+
+Sığortalının adı: Əhmədov Elşad
+
+Sığortalının yaşı: 60
+
+ 
+
+Sığorta məhsulu: Ömrün axırına qədər hər ayın əvvəlində məbləği 500 manat olan sığorta ödənişləri seriyası.
+
+ 
+
+Annuitet haqqının hesablanması:
+
+Baxılan misal üçün xalis annuitet haqqı aşağıdakı düsturla hesablanır:
+
+ 
+
+XAH = m x P x ä
+
+	
+
+(m)
+
+
+
+
+x
+
+ 
+
+Sığorta olunanın yaşı x = 60;
+
+Sığorta olunanın alacağı hər bir ödənişin məbləği P = 500;
+
+Bir il ərzində nəzərdə tutulan annuitet ödənişlərinin sayı m = 12;
+
+ 
+
+Proqnazalaşdırılmış investisiya faiz göstəricisi isə 12% götürülür.
+
+ 
+
+Yaşı 60 olan şəxs üçün ildə dövri olaraq 12 dəfə həyata keçirilən hər bir ödənişi 1/12, müddəti isə müddətsiz olan prenumerando annuitetin gətirilmiş gözlənilən dəyəri
+
+ 
+
+ä
+
+	
+
+(12)
+
+	
+
+= 6,8995
+
+
+
+
+60
+
+kimi hesablanır.
+
+ 
+
+XAH = 12 x 500 x 6,8995 = 41397 manat
+
+ 
+
+Annuitet haqqı AH x 90% ≤ XAH şərti ödənilməklə hesablanmalıdır. Bu da aşağıdakı intervalla müəyyən olunur:
+
+ 
+
+41 397,00 ≤ AH ≤ 45 996,66
+
+Qüvvədədir
+YÜKLƏ
+Məcəllələr
+© 2025 | e-qanun.az | Bütün Haqqlar Qorunur
+Ədliyyə Nazirliyinin İnformasiya - kommunikasiya Texnologiyaları İdarəsi CROCUSOFT
+
+E-QANUN
