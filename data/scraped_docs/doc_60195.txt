@@ -1,0 +1,733 @@
+Mətn
+Şəkil
+Rekvizitlər
+Versiyalar
+Əlaqəli Sənədlər
+
+AZƏRBAYCAN RESPUBLİKASI
+
+DÖVLƏT ŞƏHƏRSALMA VƏ ARXİTEKTURA KOMİTƏSİNİN
+
+KOLLEGİYASI
+
+ 
+
+QƏRAR № 3-35/3-2-6/2025
+
+ 
+
+Bakı şəhəri                                                                                          11 iyul 2025-ci il
+
+ 
+
+“İsitmə, ventilyasiya və havanın kondisiyalaşdırılması. Layihələndirmə normaları” və “Qazanxana qurğuları. Layihələndirmə normaları”nın təsdiq edilməsi haqqında” 2017-ci il 21 avqust tarixli 06 nömrəli və “Binaların daxili su təchizatı və kanalizasiyası. Layihələndirmə normaları”nın, “Anbar binaları. Layihələndirmə normaları”nın, “Fərdi yaşayış evləri. Layihələndirmə normaları”nın və “Damüstü günəş enerjisi sistemlərinin quraşdırılması üzrə tələblər”in təsdiq edilməsi haqqında” 2023-cü il 23 noyabr tarixli 3-35/3-2-6/2023 nömrəli Azərbaycan Respublikası Dövlət Şəhərsalma və Arxitektura Komitəsinin Kollegiya Qərarlarında dəyişiklik edilməsi haqqında
+
+ 
+
+“Binalar üçün minimum enerji effektivliyi Normaları”nın təsdiq edilməsi haqqında” Azərbaycan Respublikası Nazirlər Kabinetinin 2023-cü il 26 avqust tarixli 287 nömrəli Qərarının 2-ci hissəsinin icrasını təmin etmək məqsədilə və Azərbaycan Respublikası Prezidentinin 2007-ci il 9 noyabr tarixli 647 nömrəli Fərmanı ilə təsdiq edilmiş “Azərbaycan Respublikasının Dövlət Şəhərsalma və Arxitektura Komitəsi haqqında Əsasnamə”nin 17-1.6-cı bəndini rəhbər tutaraq Azərbaycan Respublikası Dövlət Şəhərsalma və Arxitektura Komitəsinin Kollegiyası qərara alır:
+
+1. Aşağıda qeyd olunan texniki normativ hüquqi aktlarda dəyişiklik təsdiq edilsin:
+
+1.1. Azərbaycan Respublikası Dövlət Şəhərsalma və Arxitektura Komitəsinin 2017-ci il 21 avqust tarixli 06 nömrəli Kollegiya Qərarı ilə təsdiq edilmiş “İsitmə, ventilyasiya və havanın kondisiyalaşdırılması. Layihələndirmə normaları”nda dəyişiklik (əlavə olunur).
+
+1.2. Azərbaycan Respublikası Dövlət Şəhərsalma və Arxitektura Komitəsinin 2023-cü il 23 noyabr tarixli 3-35/3-2-6/2023 nömrəli Kollegiya Qərarı ilə təsdiq edilmiş “Binaların daxili su təchizatı və kanalizasiyası. Layihələndirmə normaları”nda dəyişiklik (əlavə olunur).
+
+2. Ümumi işlər və ictimaiyyətlə əlaqələr şöbəsinə (G.Əliyeva) və Hüquq şöbəsinə (N.Mehtiyev) tapşırılsın ki, bu Qərarın qəbul edildiyi gündən 3 (üç) gün müddətində Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil edilməsi üçün Azərbaycan Respublikasının Ədliyyə Nazirliyinə göndərilməsini təmin etsin.
+
+3. Bu Qərarın icrasına nəzarət Komitənin sədr müavini D.Dövlətxanova həvalə edilsin.
+
+ 
+
+Kollegiyanın sədri
+
+	
+
+Anar Quliyev
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Kollegiyanın katibi
+
+	
+
+Sümbül Turabova
+
+ 
+
+
+
+
+ 
+
+ 
+
+	
+
+Azərbaycan Respublikası
+
+Dövlət Şəhərsalma və Arxitektura
+
+Komitəsinin Kollegiyasının
+
+11 iyul 2025-ci il tarixli 3-35/3-2-6/2025 №-li
+
+qərarı ilə təsdiq edilmişdir.
+
+ 
+
+AzDTN 2.12-2 “İsitmə, ventilyasiya və havanın kondisiyalaşdırılması. Layihələndirmə normaları”na dəyişiklik
+
+ 
+
+1. “Normativ istinadlar” hissəsinə dördüncü abzasdan sonra aşağıdakı məzmunda yeni abzaslar əlavə edilsin və həmin hissənin on altıncı abzası ləğv edilsin:
+
+“- AzDTN 2.12-4 “Binaların istilik mühafizəsi. Layihələndirmə normaları”;
+
+- AzDTN 2.12-6 “Avadanlıqların və boru kəmərlərinin istilik izolyasiyası. Layihələndirmə normaları”;
+
+- AzDTN 1.6-2* “Tikintinin təşkili”;
+
+- DÜİST 21.602-2003 “İsitmə, ventilyasiya və havanın kondisiyalaşdırılması sistemlərinin layihə sənədlərinin yerinə yetirilməsi qaydaları”;
+
+- TNvəQ 3.05.01-85 “Binaların daxili sanitar-texniki sistemləri;”.
+
+2. Mətn üzrə “МСН” sözü “DTN” sözü ilə, “СНиП” sözü “TN və Q” sözü ilə, “ОНТП” sözü “TLÜN” sözü ilə, “ПУЭ” sözü “EQQQ” sözü ilə, “ГОСТ” sözü “DÜİST” sözü ilə əvəz edilsin.
+
+3. 6.1-ci bəndə aşağıdakı məzmunda yeni abzas əlavə edilsin:
+
+- “İsitmə və ventilyasiya sistemləri üzrə istilik yüklərin hesablanmasının Əlavə 26-ya uyğun yerinə yetirilməsi tövsiyə edilir.”
+
+4. 11-ci hissə aşağıdakı redaksiyada verilsin:
+
+“11. Enerji effektivlik və digər tələblər.
+
+11.1. Enerjieffektivliyi üzrə tələblər və təbii resurslardan səmərəli istifadə edilməsi
+
+11.1.1. Bina və qurğuların istismarı müddətində enerji resurslarının qeyri-səmərəli istifadəsini istisna edən enerji effektivliyin yüksəldilməsi üzrə tələblərə yeni tikilən, yenidən qurulan, əsaslı təmir edilən yaşayış və ictimai binaların layihələndirilməsi, ekspertizası, tikintisi və istismara qəbulu mərhələlərində riayət edilməlidir.
+
+Tikinti layihələrində bina və qurğuların sərf edilən enerji resurslarının uçotunu aparan cihazlarla təchiz edilməsi nəzərdə tutulmalıdır.
+
+Bina və qurğuların daxili istilik-soyuqluq, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin enerji effektivliyi tələblərinə uyğunluğu tikinti layihələrində optimal mühəndis-texniki həllərin seçilməsi yolu ilə təmin edilməlidir.
+
+11.1.2. Binaların isitmə və ventilyasiyasına istilik enerjisi tələbatının qiymətləndirilməsi AzDTN 2.12-4-ə əsasən müəyyən edilir.
+
+11.1.3. Bina və qurğuların daxili istilik-soyuqluq, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin enerji effektivliyi qabaqcıl texnoloji avadanlığın seçilməsi, enerji səmərəli sxem həllərin qəbulu və sistemlərin idarəedilməsinin optimallaşdırılması vasitəsi ilə təmin edilməlidir, o cümlədən:
+
+- yüksək enerji effektivli ventilyasiya və soyuducu avadanlığın tətbiqi;
+
+- istilik enerjisinin istehsalı üçün kondensat qazanlarından istifadə edilməsi (isitmə sistemlərində istilikdaşıyıcısının maksimal temperaturunun 80 oC qədər aşağı salınmasına yol verildikdə);
+
+- yaşayış binalarında fərdi tənzimləmə və istilik enerjisinin uçotu təmin edilməklə ikiborulu isitmə sistemlərinin tətbiq edilməsi;
+
+- dik borulu isitmə sistemləri üçün isitmə cihazlarında termostatların və istilik sərfölçənlərin quraşdırılması;
+
+- kənarlaşdırılan havanın istiliyinin utilizasiyası və hava mübadiləsinin fərdi tənzimlənməsi təmin edilən mexaniki vurucu-sorucu ventilyasiya sistemlərinin (rekuperasiyanın) tətbiq edilməsi;
+
+- avtonom və mərkəzləşdirilmiş istilik təchizatı olan binalarda istilik təchizatı məqsədilə günəş enerjisindən (günəş kollektorlarından) istifadə etməklə kombinasiyalı sistem və sxem həllərinin tətbiq edilməsi;
+
+İctimai və sənaye binalarında elektrik enerjisi istehlakının, o cümlədən istiliyin, soyuğun və havanın istilik-nəm emalına elektrik enerjisi sərfinin azaldılması aşağıdakıların tətbiqi ilə təmin edilməlidir:
+
+- müxtəlif funksional təyinatlı yerləşgələr üçün ayrıca sistemlərin və müxtəlif iş rejimlərin;
+
+- hava sərfi dəyişən tənzimlənən ventilyasiya sistemlərinin (uyğunlaşan və fərdi ventilyasiya);
+
+- havanın ikipilləli və dolayı buxarlanma ilə soyudulması sxeminin, otaqlardan kənarlaşdırılan havanın istiliyinin və soyuğunun utilizasiyası aparatlarının tətbiqi sxemləri daxil olmaqla, havanın istilik-nəm emalının enerji effektiv sxemlərinin;
+
+- pik yüklərinin azaldılması üçün istilik nasosların, o cümlədən istilik və soyuqluq akkumulyatorlarının;
+
+- nasos, ventilyator və kompressorların elektrik mühərriki ötürücülərinin elektrik sərfinin azaldılması üçün qurğuların;
+
+- tam və ya qismən isidilməmiş havanı istifadə edən enerji qənaətli isti-hava pərdələrin;
+
+- aktiv enerjiqoruyucu kompleks sistemlərin.
+
+11.1.4. Ventilyatorlar elə seçilməlidir ki, iş rejimində onun xarakteristikaları maksimal faydalı əmsalın 0,8 həddində olsun.
+
+11.1.5. Binaların daxili istilik-soyuqluq, isitmə, havalandırma və kondisiyalaşdırma sistemlərində bərpa olunan enerji mənbələrindən və təkrar enerji resurslarından istifadə edilməsi tövsiyə edilir, o cümlədən:
+
+a) dövrü su təchizatı sistemlərinin və mərkəzləşdirilmiş istilik təchizatı sistemlərində qazana qayıdan suyun, eləcə də istilik nasoslarının və kanalizasiya axıntılarının istiliyinin;
+
+b) təkrar enerji resursları:
+
+- ümumi mübadilə ventilyasiya və yerli sorucu sistemləri ilə kənarlaşdırılan havanın istiliyinin rekuperasiyası (mümkün olduqda);
+
+- soyuducu maşınların kondensatorlarından yayılan istiliyin rekuperasiyası (tam və ya qismən);
+
+- daimi və ya iş gününün ən azı 50% müddətində işləyən qurğulardan və texnoloji proseslərdən yayılan istiliyinin rekuperasiyası;
+
+c) bərpa olunan enerji mənbələri:
+
+- ətraf havanın istiliyinin;
+
+- qrunt üzərində və daha dərin qatlardakı istiliyin;
+
+- qrunt və geotermal suların istiliyinin;
+
+- su hövzələrin və təbii su axınların istiliyinin;
+
+- günəş enerjisinin;
+
+- külək enerjisinin və sair.
+
+İsitmə, ventilyasiya və havanın kondisiyalaşdırılması üçün yuxarıda göstərilən mənbələrin uyğun kombinasiyalarda istifadəsi istilik utilizasiya avadanlığının, istiliyin (soyuğun) utilizasiya sxemlərinin, istilik-nasos qurğularının və s. seçimi müxtəlif mənbələrdən istiliyin (soyuğun) daxil olmasının, həmçinin sistemlərdə istiliyin (soyuğun) istehlak qrafiklərinin qeyri-müntəzəmliyi nəzərə alınaraq tətbiq edilməlidir.
+
+11.1.6. Təkrar enerji resurslarının istiliyindən istifadə edildikdə vurucu havada zərərli maddələrin qatılığı bu Normaların 5.11-ci bəndinə uyğun yol verilən hədlərdən çox olmamalıdır.
+
+11.1.7. Təbii resurslardan səmərəli istifadə üzrə texniki həllər texniki-iqtisadi təkliflərin uyğun variantlarının işlənməsi, texniki və təşkilati tədbirlərin görülməsi yolu ilə layihələndirmə mərhələsində qəbul edilməlidir, o cümlədən:
+
+- enerji ehtiyatlarına nəzərat metodlarının və uçotunun təkmilləşdirilməsi;
+
+- yaşayış binalarında mənzillərin və daxilində qurulmuş yerləşgələrin uçot cihazları ilə təmin edilməsi və bu cihazların göstəricilərinə əsasən hesablaşmaların aparılması;
+
+- elektrik və istilik enerji istehlakının uçotu üçün avtomatlaşdırılmış sistemin hazırlanması və tətbiqi;
+
+- enerji resursları (istilik, elektrik) istehlakının aşağı salınması məqsədilə istilik məntəqələri avadanlığının optimal iş rejiminin təmin edilməsi;
+
+- istilik məntəqələrində su təzyiqinin (basqısının) normallaşdırılması və nəzarəti üzrə işlərin aparılması;
+
+- istilik təchizatı şəbəkəsinin binalara girişində təzyiq düşküsünün optimallaşdırılması üzrə tədbirlərin görülməsi;
+
+- ümumi istifadə yerlərində icazəsiz müdaxilələrdən qorunan armaturun quraşdırılması;
+
+- enerji auditin keçirilməsi zamanı aşkar edilmiş istilik və elektrik enerjisinin qeyri-səmərəli istifadəsinin aşağı salınması;
+
+- daxili istilik təchizatı, isitmə, ventilyasiya və kondisiyalaşdırma sistemlərində qabaqcıl texnologiyaların və avadanlığın işlənməsi və tətbiqi.
+
+11.2. İstifadə zamanı təhlükəsizlik və əlçatanlıq tələbləri. Uzunömürlülük və təmir üçün yararlılığı
+
+11.2.1. Bina və qurğuların daxili istilik-soyuqluq, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin layihələndirilməsi, tikintisi, quraşdırılması, sazlanması, istismarı proseslərinin təhlükəsizliyi binaların və ya qurğuların həyatı dövründə müvafiq təhlükəsizlik tələblərinə cavab verən sistemlərin parametrlərinin və keyfiyyət xarakteristikalarının layihə göstəricilərinin təyin edilməsi, bu göstəricilərin və xarakteristikaların tikinti, yenidənqurma, əsaslı təmir prosesində reallaşdırılması və istismar prosesində vəziyyətinin tələb olunan səviyyədə saxlanılması yolu ilə təmin edilir.
+
+11.2.2. Binaların isitmə, havalandırma və kondisiyalaşdırma sistemlərinin layihələrində daxili istilik təchizatı, isitmə, havalandırma və havanın kondisiyalaşdırılması sistemlərinin, o cümlədən binaların tikintisi və istismarı prosesində onların təhlükəsizliyinə təsir edən materialların, məmulatların və qurğuların parametrlərinin faktiki qiymətlərinin və digər xarakteristikalarının müəyyən edilməsi və təmiri üçün yararlığını təmin edən texniki həllər nəzərdə tutulmalıdır.
+
+11.2.3. İstehsalat binalarında daxili istilik təchizatı sistemləri üçün istilik daşıyıcısının temperaturu otaqda yerləşən maddələrin öz-özünə alışma temperaturundan ən azı 20 oC aşağı və avadanlığın, armaturun və boru kəmərinin texniki xarakteristikalarına uyğun Əlavə 11-də göstərilən maksimal temperaturdan yuxarı olmayaraq qəbul edilməlidir.
+
+11.2.4. İsitmə cihazların, havaqızdırıcıların, həmçinin daxili istilik təchizatı sistemlərin boru kəmərlərinin əlçatan hissələrinin səthinin temperaturu yaşayış, ictimai və inzibati binalarında onların yerləşdiyi otaqların təyinatından və ya istehsalat yerləşgələrin kateqoriyasından asılı olaraq Əlavə 11-də göstərilən maksimal yolverilən temperaturdan yuxarı olmamalıdır.
+
+Məktəbəqədər təhsil müəssisələrində, pilləkən qəfəslərində və vestibüllərdə yerləşən isitmə cihazlarında qoruyucu sipər və boru xətlərində istilik izolyasiya nəzərdə tutulmalıdır.
+
+11.2.5. İsitmə sistemlərin boru xətlərinin çəkilməsi üsulu təmir zamanı onların rahat dəyişdirilməsini təmin etməlidir. İzolyasiya edilmiş boru xətlərinin daxili divarların oyuqlarında çəkilməsinə yol verilir.
+
+İsitmə sistemlərin boru xətlərinin xarici qoroyucu konstruksiyaların daxilinə yerləşdirməklə çəkilməsinə yol verilmir.
+
+Binaların istismar müddəti 20 ildən az və boruların hesabi xidmət müddəti 40 il və daha çox olduqda qoruyucu örtük olmadan boru xətlərinin inşaat konstruksiyalarının daxilində (xarici divarlar istisna olmaqla) çəkilməsinə yol verilir.
+
+İsitmə və daxili istilik təchizatı sistemlərin magistral və paylayıcı boru xətlərinin yaşayış mənzillərin otaqlarından çəkilməsinə, o cümlədən ümumi bina sistemlərin armaturunun və boşaltma qurğularının yerləşdirilməsinə yol verilmir.
+
+11.2.6. Polimer borulardan xətlər gizli çəkilməlidir: döşəmə əsasında (istilik izolyasiya örtüyündə və ya büzmə boruda), ekran və döşəmə yaşmağının arxasında, şaxtalarda, kanallarda, ştrabalarda.
+
+Boru xətləri gizli çəkildikdə söküləbilən birləşmələrin və armaturun yerləşdiyi yerlər əlçatan olmalıdır.
+
+Polimer boru xətlərinin açıq çəkilişinə boruların mexaniki və termiki zədələnməsi və ultrabənövşəyi şüaların təsiri istisna edilən yerlərdə yol verilir.
+
+Döşəmə isitməsi üçün polimer borular büzmə borusuz çəkilməlidir.
+
+Polimer borulu sistemlərdə bir istehsalçıya aid birləşdirici detallar və fitinqlər tətbiq edilməlidir.
+
+11.2.7. Mexaniki zədələnmə ehtimalı olan yerlərdə (qapının kandarı altında, örtük tavalarının calaqlarında, örtüklər, daxili divarlar və arakəsmələr kəsişən yerlərdə) polimer borular yanmayan materialdan olan futlyarda çəkilməlidir.
+
+Q kateqoriyalı və istilik mənbəyinin temperaturu 150 oC-dən çox olan yerləşgələrdə polimer boru xətlərinin çəkilməsinə yol verilmir.
+
+11.2.8. Boru xətlərinin qoruyucu konstruksiyalarla kəsişdiyi yerlərdə dəliklərin və aralıqların kipləşdirilməsi yanmayan materiallarla, kəsişən konstruksiyaların normalaşdırılan odadavamlılıq həddi təmin edilməklə nəzərdə tutulmalıdır.
+
+11.2.9. İstilik daşıyıcısının temperaturu 100 oC-dən çox olan boru xətlərinin, qızdırıcı cihazların və havaqızdırıcıların səthindən yanan materiallardan olan konstruksiyaların səthinə qədər məsafə 100 mm-dən az olmayaraq qəbul edilməlidir. Məsafə daha az olduqda konstruksiya səthinin yanmayan materiallarla istilik izolyasiyası nəzərdə tutulmalıdır.
+
+11.2.10. Aşağıdakıların təmin edilməsi məqsədilə isitmə-ventilyasiya avadanlığın, daxili istilik-soyuqluq təchizatı sistemlərin boru xətlərinin, havakəmərlərinin, tüstü borularının və bacaların istilik izolyasiyası nəzərdə tutulmalıdır:
+
+- yanıqların qarşısının alınması;
+
+- istilik (soyuqluq) itkilərinin yol verilən həddinin təmin edilməsi;
+
+- nəmliyin kondensasiyasının qarşısının alınması;
+
+- isidilməyən və ya süni soyudulan otaqlarda istilik daşıyıcısının boru xətlərində donmasının qarşısının alınması;
+
+- partlayış-yanğın təhlükəsizliyinin təmin edilməsi.
+
+İstilik izolyasiya səthinin temperaturu 40 oC-dən çox olmamalıdır.
+
+Binadaxili yeraltı avtomobil qarajlarından çəkilən daxili istilik-soyuqluq təchizatı, isitmə sistemlərinin boru kəmərləri HQ (yanmayan) və Q1 sinfinə aid istilikizolyasiya materialları ilə izolyasiya olunmalıdır.
+
+11.2.11. Otaqlarda yerləşdirilən və qaz, buxar, aerozol və tozların alovlanma təhlükəsini yaradan isitmə-ventilyasiya avadanlığının, boru kəmərlərinin, hava kəmərlərinin, tüstü borularının və bacaların isti səthləri, istilik izolyasiya konstruksiyanın səthində bu Normaların 11.2.3-cü bəndinə uyğun olaraq temperatur nəzərdə tutulmaqla izolyasiya edilməlidir.
+
+İstilik izolyasiyası temperaturunun qeyd edilən həddə qədar azaldılması üçün texniki imkanlar olmadıqda isitmə-ventilyasiya avadanlığı, boru kəmərləri və havakəmərləri həmin otaqlarda yerləşdirilməməlidir.
+
+11.2.12. İstilikizolyasiya konstruksiyaları AzDTN 2.12-6-ya uyğun nəzərdə tutulmalıdır.
+
+İzolyasiyanın konstruksiyası təmin etməlidir:
+
+- daxili sətlərində kondensatın yaranmamasını;
+
+- izolyasiyanın zədələnmədən qorunmasını;
+
+- havakəmərlərinin təmizlənməsinin mümkünlüyünü;
+
+- istehsalatın və əvəz olunan hissələrin ətraf mühitə zərərli təsirinin minimuma endirilməsini.
+
+Xarici havanın vurucu və resirkulyasiya hava kəmərlərində daxili izolyasiyanın istifadəsinə yol verilmir.
+
+11.2.13. Korroziya mühiti olan yerləşgələrdə, eləcə də korroziya mühiti olan havanın kənarlaşdırılması üçün nəzərdə tutulan isitmə-ventilyasiya avadanlığı, havakəmərləri və boru xətləri korroziyaya qarşı dayanıqlı materiallardan və ya korroziyaya qarşı mühafizə örtüklərlə nəzərdə tutulmalıdır. Havakəmərlərinin korroziyaya qarşı mühafizəsi üçün (odadavamlılıq həddi normalaşdırılan havakəmərləri istisna olmaqla) qalınlığı 0,2 mm-dən çox olmayaraq yanan materiallardan olan boyaların tətbiq edilməsinə yol verilir.
+
+11.2.14. Çoxmənzilli yaşayış, ictimai, inzibati-məişət və istehsalat binaları üçün istilik cihazların və avadanlığın xidmət müddəti 25 ildən az olmamalıdır.
+
+Xidmət müddətləri nəzərə alınmaqla avadanlığın planlı şəkildə dəyişdirilməsinə yol verilir.
+
+11.2.15. İsitmə cihazlarının önündə dekorativ sipər (şəbəkə) istifadə edildikdə isitmə cihazlarının təmizlənməsi üçün əlverişli şərait təmin edilməlidir.
+
+11.2.16. İsitmə elementlərinin birqatlı xarici və ya daxili divar və arakəsmələrin içində yerləşdirilməsinə yol verilmir.
+
+Su və elektrik isitməsinin konstruksiyadaxili isitmə elementlərinin çoxqatlı xarici divarlarda, o cümlədən mərtəbəarası örtüklərdə və döşəmələrdə nəzərdə tutulmasına yol verilir.
+
+11.2.17. Hesablama şərtlərinə uyğun isitmə elementləri yerləşən tikinti konstruksiyalarının səthlərinin orta temperaturu aşağıda göstəriləndən çox olmayaraq qəbul edilməlidir, oC:
+
+40 - divarlar üçün;
+
+29 - insanların daimi olduğu otaqların döşəmələri üçün;
+
+23 - məktəbəqədər təhsil müəssisələrinin döşəmələri üçün;
+
+31 - insanların müvəqqəti olduğu otaqların, o cümlədən örtülü üzgüçülük hovuzlarının hərəkət döşəmə örtükləri və skamyaları üçün;
+
+hesablamaya əsasən - tavanlar üçün.
+
+Məktəbəqədər təhsil müəssisələri, yaşayış binaları və üzgüçülük hovuzlarında isitmə elementinin oxu üzrə döşəmə səthinin temperaturu 35 oC-dən çox olmamalıdır.
+
+Döşəmə səthinin temperaturunun məhdudlaşdırılması isitmə sisteminin döşəmədə və ya mərtəbəarası örtükdə qurulmuş tək-tək borularına aid edilmir.
+
+Xarici qoruyucu konstruksiyalar boyunca eni 1 m-ə və temperaturu 35 oC-yə qədər olmaqla sərhəd zonalarının (insanların daimi olduğu zonalardan kənarda) formalaşdırılmasına yol verilir.
+
+11.2.18. Hava ilə hava və qaz ilə hava istilik utilizatorlarında havakəmərləri birləşdirilən yerlərdə vurucu havanın təzyiqinin kənarlaşdırılan havanın və ya qazın təzyiqindən çox olması təmin edilməlidir. Hava ilə hava və ya qaz ilə hava istilik utilizatorlarında aparatın konstruksiya xüsusiyyətləri hesabına zərərli maddələrin daşına bilməsi nəzərə alınmalıdır.
+
+11.2.19. Çökən toz və aerozollar olan ventilyasiya havasının istiliyindən (soyuğundan) istifadə edildikdə istilik utilizasiya avadanlığı üçün yol verilən qatılığa qədər havanın təmizlənməsi, o cümlədən istilik mübadilə səthlərinin çirkdən təmizlənməsi nəzərdə tutulmalıdır.
+
+11.2.20. Təkrar enerji resursların istiliyinin utilizasiyası sistemlərində aralıq istilikdaşıyıcısının donmadan və istilik utilizatorun istilik mübadilə səthinin buzlaşmadan qorunması üçün tədbirlər nəzərdə tutulmalıdır.
+
+11.2.21. Flans birləşmələrinin sıxlaşdırma düyünləri, odadavamlıq həddi normalaşdırılan qoruyucu tikinti konstruksiyalarla kəsişmə düyünləri, o cümlədən asma, dayaq və digər düyünlər daxil olmaqla odadavamlıq həddi normalaşdırılan havakəmərləri yanğın təhlükəsizliyi normalarının tələblərinə cavab verməlidir.
+
+11.2.22. Daxili istilik təchizatı və isitmə kəmərlərində istilikdən uzanmanın kompensasiyası nəzərdə tutulmalıdır.
+
+Boru xətlərinin öz-özünü kompensasiyasının istifadə edilməsi mümkün olmadıqda, quraşdırıldığı yerlərdə boruların yana hərəkətini istisna edən istiqamətləndirici dayaqlarla əlaqələndirilmiş silfon kompensatorların nəzərdə tutulması tövsiyə edilir.
+
+Ümumi istifadə yerlərlərində metal boru xətlərində quraşdırılan silfon kompensatorlar xarici qoruyucu örtüklə təmin edilməlidir. Qoruyucu örtüyün kompensatorun qısa borularına birləşdirilən yerlərində kondensatın kənarlaşdırılması üçün dəliklər nəzərdə tutulmalıdır.
+
+Kompensatorlar qapalı şaxtalarda quraşdırıldıqda onlara baxmaq və ya dəyişdirmək üçün baxış lyukları nəzərdə tutulmalıdır.
+
+Birqatlı və silfonunun stabilizatoru olmayan kompensatorların istifadə edilməsinə yol verilmir.
+
+Metal boru xətlərində silfon kompensatorların minimal quraşdırılma temperaturu mənfi 10 oC-dən az olmamalıdır. Akkreditasiya laboratoriyaları təqsdiq etdikdə boruların, fitinqlərin və kompensatorların istehsalçılarının tövsiyələri əsasında quraşdırma işlərinin daha aşağı temperaturlarda yerinə yetirilməsi mümkündür.
+
+Sıxılma zamanı kompensatorun ox üzrə hərəkəti kompensasiya olunan sahənin maksimal istilik uzanmasından çox olmalıdır.
+
+Sıxılmada kompensatorun ox üzrə hərəkətinin müntəzəmliyi etimalı 5 000 işə düşmə dövrünə uyğun olmalıdır və akkreditasiya laboratoriyalarında sınaqların protokolları ilə təsdiq olunmalıdır.
+
+11.2.23. Boru xətləri örtüklərlə kəsişən yerlərdə yanmayan materiallardan olan qilizlərlə çəkilməlidir. Qilizlərin kənarları tavanların səthi ilə bir səviyyədə və təmiz döşəmənin səthindən ən azı 30 mm hündür olmalıdır.
+
+Yanğınaqarşı örtüklərdən keçən polimer borulu drenaj xətləri yanğın əleyhinə öz-özünə genişlənən manjetlər (muftalar) istifadə edilməklə çəkilməlidir.
+
+Boruların çəkildiyi yerlərdə aralıqlar və dəliklərin hörülməsi kəsişən konstruksiyaların normalaşdırılan odadavamlılıq həddi təmin edilməklə yanmayan materiallarla nəzərdə tutulmalıdır.
+
+11.2.24. Zavod şəraitində sınaqlar və yoxlamalar keçirilmədən və hazır məmulatlara müvafiq sənədlər verilmədən, vacib düyünlərin və avadanlığın (təzyiq saxlama stansiyaları, nasos stansiyaları, soyuducu maşınlar və s.) tərkib hissələrdən və elementlərdən yığılmasına yol verilmir.
+
+11.3. İsitmə, ventilyasiya və havanın kondisiyalaşdırılması sistemlərinin istismarı qaydaları
+
+11.3.1. Bina və ya qurğu və onun tərkibindəki daxili istilik-soyuqluq təchizatı, isitmə, havalandırma və kondisiyalaşdırma sistemləri elə layihələndirilib quraşdırılmalıdır ki, binanın və ya qurğunun istismarı prosesində insanların yaşaması üçün və orada olduğu müddətdə aşağıdakı göstəricilər üzrə təhlükəsiz şərait təmin edilsin:
+
+- binaların və qurğuların yaşayış, ictimai və digər yerləşgələrində, o cümlədən istehsalat binalarının və qurğuların işçi zonalarında havanın keyfiyyəti;
+
+- binaların və qurğuların yaşayış və ictimai yerləşgələrində, o cümlədən istehsalat binalarının və qurğuların işçi zonalarında səs-küydən mühafizə;
+
+- yerləşgələrin mikroiqlimi;
+
+- binaların və qurğuların yaşayış və ictimai yerləşgələrində səs-küyün və vibrasiyanın səviyyəsi, o cümlədən istehsalat binalarının və qurğuların işçi zonalarında səs-küyün və texnoloji vibrasiyanın səviyyəsi;
+
+Bina və qurğular elə layihələndirilib tikilməlidir ki, onların istismarı prosesində enerji resurslarının səmərəli istifadəsi təmin edilsin.
+
+11.3.2. Tikinti layihəsində aşağıdakılar nəzərdə tutulmalıdır:
+
+a) layihələndirilən bina və ya qurğuların və onların tərkibindəki daxili istilik-soyuqluq təchizatı, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin təhlükəsiz istismarı imkanının təmin edilməsi, o cümlədən tikinti konstruksiyaların, mühəndis-kommunikasiya təminatı sistemlərin və şəbəkələrin təhlükəsizliyinin pozulması və ya insanların yaşayış mühitinin parametrlərinin pisləşməsi təhlükəsi istisna olmaqla texniki xidmət üzrə tədbirlərin həyata keçirilməsi üsullarına dair tələblər;
+
+b) bina və ya qurğuların daxili istilik-soyuqluq təchizatı, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin vəziyyətinin yoxlanılması, baxışların və müayinələrin həyata keçirilməsi üzrə minimal dövriliyinin və ya bina və qurğuların istismarı prosesində daxili istilik-soyuqluq təchizatı, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin vəziyyətinin və ətraf mühitin komponentlərinin monitorinqinin keçirilməsinin vacibliyinin təyin edilməsi;
+
+с) istismar xidmətləri və istifadəçilər üçün tikinti konstruksiyalarına, mühəndis-kommunikasiya təminatı sistemlərinə və şəbəkələrinə bina və qurğuların istismarı prosesində həddinin aşılmasına yol verilməyən istismar yükləri barədə məlumat;
+
+ç) zədələnməsi nəticəsində insan həyatına və sağlamlığına, fiziki və hüquqi şəxslərin, o cümlədən dövlətin və bələdiyyənin əmlakına, ətraf mühitə, heyvanlara və bitkilərə ziyan vurma təhlükəsi yaradan daxili istilik-soyuqluq təchizatı, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin üstü örtülmüş xətlərinin, boru kəmərlərinin və digər qurğularının yerləşməsi barədə məlumat.
+
+11.3.3. Bina və ya qurğuların həyatı dövrünün bütün mərhələlərində bina və ya qurğuların və onların tərkibindəki mühəndis sistemlərin təhlükəsizliyinin təmin edilməsi ilə bağlı müvafiq qərarların qəbul edilməsi üçün əsas sənəd qismində layihə sənədləri istifadə edilməlidir.
+
+11.4. Binaların daxili istilik-soyuqluq, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin quraşdırılması və istismara verilməsi qaydası
+
+11.4.1. Binaların daxili istilik-soyuqluq, isitmə, havalandırma və kondisiyalaşdırma sistemlərinin quraşdırılması tikinti obyektinin DÜİST 21.602-2003 və AzDTN 1.6-2*-nin tələblərinə əsasən yerinə yetirilən tikinti layihəsi əsasında həyata keçirilməlidir.
+
+11.4.2. Layihə sənədlərində nəzərdə tutulmalıdır:
+
+- layihələndirilən bina və qurğulara dair istismar tələbləri (lazım olduqda);
+
+- TNvəQ 3.05.01-in və AzDTN 1.6-2*-nin tələblərinə əsasən bina və qurğuların təhlükəsizliyinə təsir edən və müayinə aktlarının (üstü örtülən işlər, məsul konstruksiyaların, daxili istilik-soyuqluq, isitmə, havalandırma və kondisiyalaşdırma sistemi sahələrinin) tərtib edilməsi tələb olunan müvafiq işlərin siyahısı.
+
+- 11.4.3. Aktların tərtib olunmasına və formasına dair tələblər 11.4.2-ci yarımbənddə göstərilən normativ sənədlərdə qeyd olunmuşdur.
+
+- 11.4.4. İşəsalma-sazlama işlərinin tərkibi və onların yerinə yetirilməsi proqramı əməyin mühafizəsi və təhlükəsizlik texnikasının, o cümlədən yanğın təhlükəsizliyi tələblərinə uyğun olmalıdır.
+
+- 11.4.5. Sınaq və avadanlığın kompleks yoxlanılması zamanı aşkar edilmiş qüsurlar TNvəQ 3.05.01-in tələblərinə uyğun aradan qaldırılmalıdır.”.
+
+5. aşağıdakı məzmunda Əlavə 26 əlavə edilsin:
+
+“Əlavə 26
+
+(tövsiyə edilən)
+
+İsitmə və ventilyasiya sistemləri üzrə istilik yüklərin hesablanması
+
+1. İsitmə və ventilyasiya ehtiyaclarına ən əlverişsiz şərait üçün istilik sərfi (istilik yükü), Qivh, bu Normaların 5.1-ci bəndi və TNvəQ 2.01.01 nəzərə alınaraq aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+Qivh = Σn (Qtr,n + Qven,n + Qinf,n + Qmnv,n - Qməiş,n)                         (1)
+
+ 
+
+burada Qtr,n - binanın n-ci yerləşgəsinin qoruyucu konstruksiyalarından istilikötürmənin kompensasiyası üçün transmissiya istilik itkiləri, Vt, bu əlavənin 2-ci bəndinə uyğun müəyyən edilir;
+
+Qven,n - binanın n-ci yerləşgəsinin tələbatına uyğun vurulan havanın qızdırılması üçün istilik sərfi, Vt, bu əlavənin 3-cü bəndinə uyğun müəyyən edilir;
+
+Qinf,n - binanın n-ci yerləşgəsinin qoruyucu konstruksiyalarının havakeçirmə xüsusiyyətinə görə yaranan infiltrasiya üzrə istilik itkiləri, Vt, bu əlavənin 5-ci bəndinə uyğun müəyyən edilir;
+
+Qmnv,n - binanın n-ci yerləşgəsinə daxil olan materialların, avadanlığın və nəqliyyat vasitələrinin qızmasına istilik sərfi, Vt, bu əlavənin 6-cı bəndinə uyğun müəyyən edilir;
+
+Qməiş,n - hesabi rejim (ən əlverişsiz şəraitdə) şərtlərinə uyğun, binanın n-ci yerləşgəsinin məişət istilik daxilolmaları, Vt.
+
+Qeyd. Məişət istilik daxilolmaları qismində ancaq hesabi rejimdə mövcud olan istilik daxilolmaları nəzərə alınır: daimi işləyən elektrik cihazlarından, işıqlandırmadan, boru xətlərindən və digər istilik mənbələrindən, o cümlədən hesabi rejimdə həmin yerləşgələrdə olan insanlardan istilik axınları.
+
+2. Binanın n-ci yerləşgəsindən transmissiya istilik itkiləri Qtr,n aşağıdakı düsturlarla müəyyən edilir:
+
+ 
+
+Qtr,n = (td,n - tx) Σi (nt,i Ai Ki)                                                                (2)
+
+Qtr,n = (td,n - tx) [Σi (nt,i Ai Ui) + Σj (nt,j Lj Ψ j) + Σk (nt,k Nk χk)]               (3)
+
+ 
+
+burada td,n - n-ci yerləşgənin daxili havasının hesabi temperaturu, bu normaların 5.1-ci bəndinə uyğun müəyyən edilir;
+
+tx - xarici havanın hesabi temperaturu, oC, TNvəQ 2.01.01-ə uyğun müəyyən edilir;
+
+Ki - i-ninci qoruyucu konstruksiyanın və ya qoruyucu konstruksiyanın fraqmentinin istilikötürmə əmsalı, Vt /(m2 oC), aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+Ki = 1/ Ro,ir                                                           (4)
+
+ 
+
+burada Ro,ir - binanın istilik-mühafizə örtüyünün i-ninci (bundan sonra i-ci) fraqmentinin çevrilmiş istilikötürmə müqaviməti, (m2 oC) /Vt, AzDTN 2.12-4-ün Əlavə 5 üzrə müəyyən edilir;
+
+Ai - yerləşgənin i-ci qoruyucu konstruksiyasının və ya qoruyucu konstruksiya fraqmentinin sahəsi, m2;
+
+nt,i - baxılan qoruyucu konstruksiyanın arxasında yerləşən məkanın temperaturunu nəzərə alan əmsal;
+
+Ui - qoruyucu konstruksiyanın i-ci fraqmentinin bircins hissəsinin istilikötürmə əmsalı, Vt /(m2 oC), AzDTN 2.12-4-ə uyğun müəyyən edilir;
+
+Lj - n-ci yerləşgənin j-ci xətti istilikkeçirici qoşmasının uzunluğu, m;
+
+Nk - n-ci yerləşgənin k-cı nöqtəşəkilli istilikkeçirici qoşmalarının sayı, ədəd;
+
+Ψ j - j növ xətti qeyri bircinslikdən xüsusi istilik itkiləri, AzDTN 2.12-4 və ya temperatur sahələrin hesablanması üzrə müəyyən edilir;
+
+χk - k növ qeyri bircinslikdən xüsusi istilik itkiləri, AzDTN 2.12-4 və ya temperatur sahələrin hesablanması üzrə müəyyən edilir;
+
+Qeyd. 1. Daxili qoruyucu konstruksiyalardan transmissiya istilik itkilərinin hesablanması, yalnız həmin qoruyucu konstruksiyanın böldüyü otaqlarda temperatur fərqi 3 oC-dən çox olduğu halda, aşağıdakı şərtlərə uyğun (2) və (3)-cü düsturlarla yerinə yetirilir:
+
+- daxili konstruksiyalara məxsus istilik-texniki qeyri bircinsliklərin təsirinin nəzərə alınmamasına yol verilir;
+
+- xarici temperaturun əvəzinə baxılan daxili qoruyucu konstruksiyanın arxasındakı otağın temperaturu nəzərə alınır;
+
+- baxılan daxili qoruyucu konstruksiyanın arxasında yerləşən otaq üçün müvafiq transmissiya istilik daxilolmaları hesaba alınır (yəni, baxılan daxili qoruyucu konstruksiyadan keçən transmissiya istilik itkiləri, əks işarə ilə (“-“ və ya “+”) götürülməklə);
+
+2. İstilik itkiləri hesablanarkən daxili və xarici qoruyucu konstruksiyalarının sahələri 0,01 m2-ə qədər dəqiqliklə hesablanır (0,01 m-ə qədər dəqiqliklə konstruksiyaların ölçülərini istifadə etməklə). Xətti istilik-texniki elementlərin uzunluqları 0,1 m-ə qədər dəqiqliklə müəyyən edilir. Nöqtəşəkilli istilik-texniki elementlərin sayı tam vahidə qədər dəqiqliklə müəyyən edilir.
+
+3. Element yanaşması istifadə edildikdə, yəni, xətti və nöqtəşəkilli istilik-texniki qeyri bircisliklər toplusu fərdi qaydada otaqlar üzrə hesaba alındıqda, qoruyucu konstruksiyaların sahələri onların daxili səthləri üzrə müəyyən edilir.
+
+4. Pəncərələrin, vitrajların, balkon qapılarının, bayır qapılarının və fənərlərin sahələri ən kiçik tikinti oyuqları üzrə ölçülür.
+
+5. Qızdırıcı cihazların arxasında yerləşən xarici qoruyucu konstruksiyaların sahələrindən, o cümlədən isidilməyən otqlardan çəkilən boru xətlərində istilik daşıyıcısının soyuması hesabına əlavə istilik itkiləri hesaba alındıqda, onların cəmi binanın isitmə sisteminin istilik axınının 7%-ni üstələməməlidir.
+
+3. n-ci otağın ventilyasiyasına istilik sərfi Qvent,n, Vt, ilin soyuq dövrü üçün vurucu (bayır) havanın tələb olunan sərfinə uyğun aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+Qvent,n = (td,n - tx) Gn c 0,28 = (td,n - tx) Ln ρx c 0,28                      (5)
+
+ 
+
+burada td,n - bu əlavənin 2-ci bəndində olduğu kimidir;
+
+tx - bu əlavənin 2-ci bəndində olduğu kimidir;
+
+Gn - n-ci otağın ventilyasiyası üçün tələb olunan vurucu havanın kütlə üzrə sərfi, kq/st;
+
+c - havanın xüsusi istilik tutumu, 1 kC /kq oC-yə bərabərdir;
+
+0,28 - çevrilmə əmsalı;
+
+Ln - n-ci otağın ventilyasiyası üçün tələb olunan vurucu havanın həcmi üzrə sərfi, bu əlavənin 4-cü bəndi üzrə müəyyən olunur, m3/st;
+
+ρx - hesabi rejimə uyğun temperaturda vurucu havanın sıxlığı, kq/m3, aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+ρx = 353/ 273 + tx                      (6)
+
+ 
+
+4. i-ci otağın ventilyasiyası üçün tələb olunan vurucu havanın sərfi, m3/st, normativ misillərə uyğun, adambaşına verilən havanın normalarına və ya bu Normaların 7.40-cı bəndinə əsasən hesablamaya uyğun müəyyən edilir.
+
+5. i-ci otağa infiltrasiya olunan havanın qızdırılmasına istilik sərfi, Qinf,n, Vt, aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+Qinf,n = (td,n - tx) Ginf,n c 0,28        (7)
+
+ 
+
+burada td,n - bu əlavənin 2-ci bəndində olduğu kimidir;
+
+tx - bu əlavənin 2-ci bəndində olduğu kimidir;
+
+Ginf,n - n-ci otağa infiltrasiya olunan havanın kütlə üzrə hesabi sərfi, kq /st, bu əlavənin 8 düsturu ilə müəyyən edilir;
+
+c - bu əlavənin 5-ci bəndində olduğu kimidir;
+
+0,28 - bu əlavənin 3-cü bəndində olduğu kimidir;
+
+Qeyd. Baxılan otaqlarda mütəşəkkil ventilyasiya sistemləri ilə vurulan hava həcminin sorulandan çox olması hesabına (atmosferdə və ya qonşu otaqlardakı təzyiqlə müqayisədə daha çox izafi təqyiq olduqda) hesabi hava basqısı təmin edildikdə infiltrasiya istilik itkiləri nəzərə alınmır.
+
+Qoruyucu konstruksiyalardan n-ci otağa infiltrasiya olunan havanın miqdarı, Ginf,n, kq/st, aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+Ginf,n = Σ1i (ΔPn / ΔPo)2/3 (A1i/Ru,1i)+ Σ1j (ΔPn / ΔPo)1/2 (A1j/Ru,1j)                  (8)
+
+ 
+
+ΔPn - n-ci otağın qoruyucu konstrusiyalarının xarici və daxili səthlərində hesabi təzyiq fərqi;
+
+ΔPo - qoruyucu konstrusiyaların xarici və daxili səthlərində standart təzyiq (havanüfuzetmə xassələri tədqiq edildikdə 10 Pa) fərqi;
+
+A1i - baxılan otağın 1i-ci işıqkeçirən konstruksiyasının sahəsi, m2;
+
+A1j - baxılan otağın 1j-ci havakeçirən konstruksiyasının sahəsi, m2;
+
+Ru,1i - baxılan otağın 1i-ci növ qoruyucu konstruksiyasının havanüfuzetməyə müqaviməti, m2 st Pa /kq;
+
+Ru,1j - baxılan otağın 1j-ci növ qoruyucu konstruksiyasının havanüfuzetməyə müqaviməti, m2 st Pa /kq;
+
+2/3 və 1/2 - havakeçirən konstruksiyanın filtrasiya rejiminin göstəricisi; pəncərə və işıqkeçirən konstruksiyalar üçün 2/3; binalara giriş qapıları və darvazalar, binadaxili otaqlara giriş qapıları, həmçinin oyuqlar üçün 1/2 qəbul edilir.
+
+Qoruyucu konstrusiyalarının xarici və daxili səthlərində hesabi təzyiq fərqi ΔPn, Pa, aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+ΔPn = (H - hn) (ρn - ρx) g + (ρn v2 /2) (ck -ct) kz(e) - Pd                (9)
+
+ 
+
+burada H - binanın hündürlüyü (birinci mərtəbənin döşəməsi səviyyəsindən sorucu şaxtanın çıxışına qədər), m;
+
+h - birinci mərtəbənin döşəməsi səviyyəsindən baxılan qoruyucu konstruksiyanın mərkəzinə qədər məsafə, m;
+
+g - sərbəstdüşmə təcili, bərabərdir 9,81 m/s2;
+
+ρx - bu əlavənin 3-cü bəndində olduğu kimi;
+
+ρn - xarici havanın sıxlığı, bu əlavənin 6-cı düsturu ilə müəyyən edilir;
+
+v - ilin soyuq dövründə küləyin hesabi sürəti;
+
+ck və ct -binanın müvafiq olaraq küləkdöyən və küləktutmayan səthləri üçün aerodinamik əmsallardır, AzDTN 2.1-1 əsasında qəbul edilir. Düzbucaq formalı binalar üçün ck = 0,8;               ct = minus 0,6 qəbul edilir;
+
+kz(e) - binanın hündürlüyündən asılı olaraq küləyin sürətinin dəyişməsindən yaranan təzyiqi nəzərə alan əmsal, AzDTN 2.1-1 üzrə qəbul edilir;
+
+Pd - otaqda şərti təzyiq, Pa;
+
+Otaqda mütəşəkkil ventilyasiya olmadıqda Pd, aşağıdakı düsturla müəyyən edilir:
+
+ 
+
+Pd = H (ρn - ρx) g /2 + (ρn v2 /4) (ck -ct) kz(e)                          (10)
+
+ 
+
+Otaqlarda balanslaşdırılmış sorucu-vurucu ventilyasiya olduqda Ginf,n göstəricisi nəzərə alınmır.
+
+6. Binanın n-ci yerləşgəsinə daxil olan materialların, avadanlığın və nəqliyyat vasitələrinin qızması hesabına yaranan istilik itkiləri, Vt, aşağıdakı düsturla müəyyən olunur:
+
+ 
+
+Qmnv,n = (td,n - tmnv,n) Hmnv,n = Σm (td,n - tmnv,n) Gmnv,n cmnv,n βm              (11)
+
+ 
+
+burada Qmnv,n - binanın n-ci yerləşgəsinə daxil olan materialların, avadanlığın və nəqliyyat vasitələrinin qızması səbəbindən istilik itkiləri, Vt,
+
+Hmnv,n - binanın n-ci yerləşgəsinə daxil olan materialların, avadanlığın və nəqliyyat vasitələrinin qızması səbəbindən yaranan xüsusi istilik tələbatı, Vt /oC;
+
+td,n - bu əlavənin 2-ci bəndində olduğu kimi;
+
+tmnv,n - baxılan otağa daxil olan m-ci materialın, avadanlığın və ya nəqliyyat vasitəsinin temperaturu, oC;
+
+Nəqliyyat vasitələri və metaldan olan materiallar üçün tmnv,n - nin temperaturu tx-yə bərabər, digər materiallar üçün isə, tmnv,n = tx + 10 oC qəbul edilir, tx - bu əlavənin 2-ci bəndinə uyğun;
+
+Gmnv,n - baxılan otağa gətirilən m-ci materialın, avadanlığın və ya nəqliyyat vasitəsinin kütləsi, kq;
+
+cmnv,n - baxılan otağa gətirilən m-ci materialın, avadanlığın və ya nəqliyyat vasitəsinin xüsusi istilik tutumu, kC/kq oC;
+
+βm - birinci saatda istiliyin udulması intensivliyini nəzərə alan əmsal. Nəqliyyat vasitələri üçün 0,6, qeyri dənəvər materiallar üçün - 0,5, dənəvər materiallar üçün 0,4 qəbul edilir.”.
+
+ 
+
+
+
+
+ 
+
+ 
+
+	
+
+Azərbaycan Respublikası
+
+Dövlət Şəhərsalma və Arxitektura
+
+Komitəsinin Kollegiyasının
+
+11 iyul 2025-ci il tarixli 3-35/3-2-6/2025 №-li
+
+qərarı ilə təsdiq edilmişdir.
+
+ 
+
+AzDTN 2.11-3 “Binaların daxili su təchizatı və kanalizasiyası. Layihələndirmə normaları”na dəyişiklik
+
+ 
+
+1.      10-cu hissə aşağıdakı redaksiyada verilsin:
+
+“10. Daxili su təchizatı və suaxıdıcı sistemlərin enerji effektivliyi tələbləri. Su ehtiyatlarından səmərəli istifadə edilməsinə dair tələblər
+
+10.1. Yeni tikilən və yenidən qurulan müəssisələrin, qurğuların və digər obyektlərin yerləşdirilməsi, layihələndirilməsi, tikintisi və istismara qəbulu, o cümlədən yeni texnoloji proseslərin tətbiq edilməsi zamanı sudan səmərəli istifadə təmin edilməlidir.
+
+10.2. Layihələndirmə dövründə su tələbatının səmərəliliyinin təmin edilməsi üzrə təkliflərin hazırlanması tövsiyə edilir. Təkliflərdə aşağıdakı texniki və təşkilatı tədbirlərin yerinə yetirilməsi yolu ilə sudan səmərəli istifadə edilməsinin zəruriliyi müəyyən edilməlidir:
+
+- su istehlakına nəzarət və uçot üsullarının təkmilləşdirilməsi;
+
+- mənzillərin pilləkən meydançalarında və ya ümumi istifadədə olan digər yerləşgələrdə uçot cihazları ilə təmin edilməsi;
+
+- bütün resursların (su, istilik, elektrik enerjisi) istifadəsinin azaldılması məqsədilə istilik məntəqələrinin avadanlığının optimal iş rejiminin təmin edilməsi;
+
+- ictimai-iaşə müəssisələrində və büdcə təşkilatlarında suqoruyucu və kənar müdaxilədən mühafizə olunan sanitar-texniki armaturun quraşdırılması;
+
+- müəssisələrdə suyun qeyri-səmərəli istifadəsinin azaldılması;
+
+- su sızmalarının aşkar edilməsi üçün innovasiya texnologiyaların işlənməsi və tətbiq edilməsi;
+
+-  məişət (təsərrüfat)-içməli ehtiyacları üçün dövlət standartlarına cavab verən suya ehtiyacı olmayan tələbatçılar üçün içməli suyun təbii və ya qismən təmizlənmiş su (istehsalat məqsədli su) ilə əvəz edilməsi (müvafiq texniki-iqtisadi və sanitariya-gigiyena əsaslandırılmasına uyğun);
+
+10.3. Enerji resurslarından qənaətlə istifadə edilməsi tələbləri “Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” Azərbaycan Respublikasının Qanununa əsasən nəzərdə tutulmalıdır.
+
+10.4. Sanitar-texniki cihazlar qarşısında normativ tələblərə əsasən yol verilən təzyiqlərin təmin olunması, içməli sudan və enerji ehtiyatlarından səmərəli istifadə edilməsi üçün aşağıdakılar nəzərdə tutulmalıdır:
+
+- su təchizatı sistemində təzyiq dəyişməsindən asılı olmayaraq nasoslardan sonra binanın su kəmərindəki tələb olunan hesablama təzyiqin saxlanılmasını təmin etmək üçün intiqalı tənzimlənən (mühərrikinin dövrlər sayı ilə) nasos aqreqatları;
+
+- hündürlüyü 54 m-ə qədər olan yaşayış binalarında mərtəbələr üzrə (mənzillər üzrə) soyuq və isti su təchizatı sistemlərində sanitar-texniki cihazlar qarşısında basqını tənzimləmək üçün mənzil təzyiq tənzimləyicilərini qoymaqla bir zonalı su təchizatı sxemi;
+
+- hündürlüyü 54 m-dən çox olan (54 m daxil olmaqla) yaşayış binalarında zonalı su təchizatı, o cümlədən aşağı mərtəbələrdə mənzil təzyiq tənzimləyicilərini (MTT) qoymaqla;
+
+- içməli su sərfinin azaldılmasını təmin edən müasir suayırıcı və doldurucu armaturların qoyulması (keramik kipləşdiricisi olan suayırıcı armaturun, bir dəstəkli qarışdırıcıların, termostatik qarışdırıcıların, yarımavtomatik və avtomatik armaturun);
+
+- yaşayış binalarının su təchizatı şəbəkəsində təzyiqin tənzimlənməsi üçün balanslaşdırıcı kranların qoyulması və onların buraxılış-sazlama prosesində tənzimlənməsi yolu ilə kompleks tədbirlərin yerinə yetirilməsi;
+
+- binaların su təchizatı üçün istismar xidmətləri və sanitariya nəzarəti orqanları tərəfindən suyun keyfiyyətinə nəzarətin təmin edilməsi şərtilə tənzimləyici həcmlər.
+
+Qeyd. Mənzil təzyiq tənzimləyicilərinin qoyulması bütün mərtəbələr üçün praktiki olaraq optimal hesablama təzyiqi təmin edir, su axınının mərtəbələr üzrə paylanmasını yaxşılaşdırır, maksimal su götürmə saatlarında soyuq və isti suyun yuxarı mərtəbələrə verilməsində çətinliyin yaranma ehtimalını aradan qaldırır.
+
+Su təchizatı sisteminin istismarını yaxşılaşdırmaq üçün bir gövdədə MTT, süzgəc və bağlayıcı armatura malik komplekt məmulatlardan istifadə edilməsi tövsiyə olunur.
+
+10.5. Su təchizatı sistemləri zonalaşdırıldıqda suyun hər bir zonaya verilməsi müstəqil yüksəldici nasos qurğuları ilə təmin edilməlidir.
+
+Hər bir zonanın supaylayıcı dik boruları, yuxarıda yerləşən zonanın istehlakçılarına suyu vermək üçün tranzit hissə olmaqla, mənzillərarası dəhlizlərdəki montaj oyuqlarında çəkilməlidir.
+
+10.6. Yüksək komfortlu yaşayış binalarında yalnız içmək və qida hazırlığına paylanması üçün içməli suyun əlavə təmizlənməsi sisteminin layihələndirilməsinə yol verilir.
+
+10.7. İki zonalı su təchizatı sistemi olan yüksək komfortlu yaşayış binalarındakı mənzillərdə dik boruları bölmə qovşaqlarında birləşdirən (su təchizatı zonaları bölünən yerdə) üfüqi boru kəmərlərinin çəkilməsini aradan qaldırmaq üçün aşağıdakıları yerinə yetirmək lazımdır:
+
+- birinci zonanın sirkulyasiya dik borularını suayırıcı dik boruları ilə yanaşı yerləşdirmək, bu zaman onların bölmə qovşaqlarına birləşdirilməsi döşəməaltı texniki sahədə, zirzəmidə və ya binanın yaşayış və qeyri-yaşayış hissələri arasındakı texniki mərtəbədə yerinə yetirilməlidir;
+
+- ikinci zonanın sirkulyasiya dik boruları birinci zonanın dik boruları ilə yanaşı çəkilir və onlar, birinci zonanın dik borularının qovşaqları olan eyni otaqlarda, qovşaqlara birləşdirilir;
+
+Çardağı olmayan və ya isti su dik borularını mansard otaqlarında birləşdirmək mümkün olmadıqda bir zonalı su təchizatına malik yaşayış binalarında dik boruların bölmə qovşaqları şəklində birləşdirilməsi iki zonalı su təchizatı sistemində olduğu kimi yerinə yetirilməlidir.
+
+Konkret həcm-planlaşdırılma həllərindən asılı olaraq isti su təchizatının digər sxemləri nəzərdə tutula bilər.
+
+10.8. Su kəmərinin yaşayış binaları və mənzillərə girişlərində qoyulan soyuq və isti su sayğacları impulslu çıxışlı nəzərdə tutulmalıdır.
+
+Binadaxili və ya bitişik ictimai təyinatlı otaqlar üçün impulslu çıxışı olan sayğacların quraşdırılması layihə tapşırığına uyğun nəzərdə tutulur.
+
+Ev və mənzil su sayğacları qarşısında mexaniki və ya maqnitli-mexaniki süzgəclər quraşdırılmalıdır.
+
+10.9. Birmənzilli və bloklanmış yaşayış binalarının komfortlu mənzillərində hovuz tikildikdə onun su təchizatının və sukənarlaşdırmasının texnoloji sxemi (düzaxınlı və ya təmizlənmə ilə dövri) su tələbatı və tullantı su həcmlərinə əsasən seçilməlidir.
+
+10.10. Binaların su təchizatı və suaxıdıcı sistemlərində boru kəmərlərinin istilik izolyasiyası üçün tam yığılan və ya komplekt konstruksiyalar, o cümlədən tam zavod hazırlıqlı istilik izolyasiyalı borular istifadə edilməlidir.
+
+Üzərində su buxarının kondensasiyasının olmaması təmin edilən soyuq su təchizatı boru kəmərlərinin istilik izolyasiyası üçün örtüksüz köpüklənmiş polietilen və kauçukdan (diffuziyaya müqavimət əmsalı 3000-dən az olmamaqla) olan içiboş silindr şəkilli məmulatlar  istifadə edilməlidir.
+
+10.11. Müxtəlif təyinatlı boru kəmərləri üçün istilik izolyasiya materialları qismində quru vəziyyətdə istilikkeçirməsi 0,05 Vt/moC-dən (20 oC temperaturda) çox olmayan materiallardan istifadə edilməlidir. Boru kəmərlərinin istilik izolyasiya layının qalınlığı AzDTN 2.12-6-ya əsasən təyin  edilməlidir. Yeni tikilən və yenidən qurulan köhnə binaların layihələndirilməsi zamanı istilik izolyasiya materiallarının səmərəli seçilməsində istilikkeçirmə qabiliyyəti aşağı olan materiallara üstünlük verilməlidir.
+
+10.12. Yeraltı avtomobil qarajlarında yerləşən boru kəmərlərinin istilik izolyasiyası yanma qrupu ən azı Q1 (az yanan) olan materiallardan nəzərdə tutulmalıdır.
+
+Boru kəmərləri yanğın əleyhinə sədləri kəsdikdə həmin konstruksiyanın ölçüsü hədlərində istilik izolyasiya konstruksiyaları yanmayan materiallardan nəzərdə tutulmalıdır.
+
+10.13. Quraşdırma işləri yerinə yetirildikdən sonra çoxfunksiyalı və sənaye təyinatlı böyük binalar, ticarət və ictimai-işgüzar mərkəzləri üçün isti su təchizatı, dövri su təchizatı, ərimiş qar və yağış sularının daxili axıntılarının istifadəsi sistemlərinin və təmizləyici qurğuların istismarına dair yol xəritələri ilə kompleks buraxılış-sazlama işləri yerinə yetirilməlidir.
+
+10.14. Böyük binalarda (ticarət-əyləncə, çoxfunksiyalı, sənaye və s.) içməli su tələbatı balansını ən azı 25% azaltmaq məqsədilə yağış sularının suvarmada və tualetlərdə yuyulmada təkrar istifadəsi üçün daxili suaxıdıcı sistemlərdən toplayıcı rezervuarlara axıdılmasının nəzərdə tutulması tövsiyə olunur. Bununla yanaşı, birinci beş dəqiqəlik axıntı xarici şəbəkəyə, sonraki isə rezervuarın doldurulmasına yönəlməlidir. Rezervuar aşıb-daşmadan, hava tıxacların yaranmasından və palçığın, çirkin içəri düşməsindən qorunmalıdır. Bunun üçün özəklərinin ölçüsü 0,3-1,8 mm olan şəbəkəli mexaniki təmizləmə süzgəcləri istifadə edilməlidir. Yığılan suyun keyfiyyətinə nəzarət və vaxtaşırı rezervuarın təmizlənməsi və dezinfeksiyası işləri yerinə yetirilməlidir.
+
+10.15. İsti su təchizatı üçün günəş kollektorları sistemlərindən istifadə edilməsi hesabına isti su təchizatı üzrə enerji istehlakının azaldılması həlləri nəzərdə tutulmalıdır.
+
+10.16. Layihə həllərində aşağıdakıların tətbiq edilməsi tövsiyə olunur:
+
+- isti su təchizatı sistemləri üzrə istiliyin utilizasiyası üçün istilik nasosu sistemlərinin;
+
+- kanalizasiya axınları istiliyinin utilizasiyası üçün örtük-borulu istilik çevricilərin;
+
+- texniki məqsədlərə (suvarma, avtomobillərin və səkilərin yuyulması və s.) istifadə edilməsi üçün qeyri-məişət tullantı sularının təmizləmə sistemlərinin;
+
+- dövri su təchizatı sistemlərinin;
+
+- sənaye müəssisələrində su təsərrüfatının qapalı sistemlərinin yaradılması;
+
+- sənaye müəssisələrində texnoloji proseslərinin texniki suya keçirilməsi;
+
+- müvafiq texniki-iqtisadi və sanitariya-gigiyena əsaslandırılmasına uyğun olaraq bəzi istehlakçılar üçün içməli suyun texniki su ilə əvəz edilməsi.”
+
+2. “MÜNDƏRİCAT” hissəsi ləğv edilsin.
+
+ 
+
+ 
+
+Qüvvədədir
+YÜKLƏ
+Məcəllələr
+© 2025 | e-qanun.az | Bütün Haqqlar Qorunur
+Ədliyyə Nazirliyinin İnformasiya - kommunikasiya Texnologiyaları İdarəsi CROCUSOFT
+
+E-QANUN

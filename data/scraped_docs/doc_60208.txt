@@ -1,0 +1,423 @@
+Mətn
+Şəkil
+Rekvizitlər
+Versiyalar
+Əlaqəli Sənədlər
+
+“Dövlət İnvestisiya Proqramına daxil edilən investisiya layihələrinin icrasının monitorinqi və nəticələrinin qiymətləndirilməsi Qaydaları”nın təsdiq edilməsi barədə
+
+ 
+
+AZƏRBAYCAN RESPUBLİKASI NAZİRLƏR KABİNETİNİN QƏRARI
+
+ 
+
+“Dövlət investisiya proqramının tərtibi, icrası, monitorinqi və qiymətləndirilməsi sahəsində fəaliyyətin təkmilləşdirilməsi və bununla əlaqədar bəzi məsələlərin tənzimlənməsi haqqında” Azərbaycan Respublikası Prezidentinin 2024-cü il 20 dekabr tarixli 257 nömrəli Fərmanının 2.1-ci bəndinin icrasının təmin edilməsi məqsədilə Azərbaycan Respublikasının Nazirlər Kabineti qərara alır:
+
+1. “Dövlət İnvestisiya Proqramına daxil edilən investisiya layihələrinin icrasının monitorinqi və nəticələrinin qiymətləndirilməsi Qaydaları” təsdiq edilsin (əlavə olunur).
+
+2. Azərbaycan Respublikasının İqtisadiyyat Nazirliyi aidiyyəti dövlət orqanları ilə birlikdə Dövlət İnvestisiyalarının İdarəedilməsi İnformasiya Sisteminin yaradılması və tətbiqi istiqamətində tədbirlər görsün.
+
+ 
+
+Əli ƏSƏDOV
+
+Azərbaycan Respublikasının Baş naziri
+
+ 
+
+Bakı şəhəri, 16 iyul 2025-ci il
+
+                       № 215
+
+ 
+
+
+
+
+ 
+
+ 
+
+	
+
+Azərbaycan Respublikası Nazirlər Kabinetinin
+
+2025-ci il 16 iyul tarixli 215 nömrəli Qərarı ilə
+
+təsdiq edilmişdir.
+
+ 
+
+Dövlət İnvestisiya Proqramına daxil edilən investisiya layihələrinin icrasının monitorinqi və nəticələrinin qiymətləndirilməsi
+
+ 
+
+QAYDALARI
+
+ 
+
+1. Ümumi müddəalar
+
+ 
+
+1.1. Bu Qaydalar Dövlət İnvestisiya Proqramına (bundan sonra - Proqram) daxil edilən layihələr üzrə hesabatlılığı, monitorinq prosedurlarını, nəticələrin qiymətləndirilməsini, eləcə də Dövlət İnvestisiyalarının İdarəedilməsi İnformasiya Sisteminin monitorinq istiqaməti üzrə fəaliyyətlərini müəyyən edir.
+
+1.2. Proqrama daxil edilən investisiya layihələrinin icrasının monitorinqi investisiya layihələrinin icrasına dair hesabatın monitorinqi və investisiya layihələrinin yerində monitorinqi şəklində Azərbaycan Respublikasının İqtisadiyyat Nazirliyi (bundan sonra - Nazirlik) tərəfindən həyata keçirilir.
+
+1.3. Bu Qaydaların məqsədləri üçün aşağıdakı əsas anlayışlardan istifadə olunur:
+
+1.3.1. Dövlət İnvestisiya Proqramı - ortamüddətli dövr üçün dövlət büdcəsinin dövlət əsaslı vəsait qoyuluşu (investisiya xərcləri) və Azərbaycan Respublikası Prezidentinin 2024-cü il 20 dekabr tarixli 257 nömrəli Fərmanı ilə təsdiq edilmiş “Azərbaycan Respublikası Dövlət İnvestisiya Proqramının tərtibi, icrası, monitorinqi və qiymətləndirilməsi Qaydaları”nda nəzərdə tutulan digər mənbələr hesabına investisiya xərclərinin istiqamətlərini, müddətini, həcmini, sifarişçi təşkilatları və sifarişçi təşkilatlar üzrə investisiya layihələrinin adlı siyahısını müəyyən edən sənəd;
+
+1.3.2. investisiya layihəsi - qarşıya qoyulmuş ümumi məqsədə çatmaq üçün yeni aktivlərin yaradılmasına, mövcud aktivlərin əsaslı təmirinə, bərpasına, yenidən qurulmasına, habelə avadanlıq, inventarlar və maşın-mexanizmlərin təchizatına yönəldilmiş və müəyyən edilmiş müddət ərzində görüləcək işlərin təsviri;
+
+1.3.3. investisiya layihəsinin icra planı - layihənin icrası üçün zəruri olan ardıcıl tapşırıqları, məsuliyyəti, resursları və vaxt qrafiklərini əks etdirən strukturlaşdırılmış plan;
+
+1.3.4. sifarişçi təşkilat - investisiya layihəsinin dövlət investisiyaları hesabına maliyyələşdiriləcək layihələr siyahısına daxil edilməsi üçün tələb olunan sənədləri və məlumatları norma və qaydalara uyğun hazırlayaraq təqdim edən, habelə təsdiq edilmiş maliyyə vəsaiti çərçivəsində onun icrasını mövcud qanunvericiliyə uyğun təşkil edən dövlət orqanları, büdcədənkənar dövlət fondları, dövlət adından yaradılan publik hüquqi şəxslər, paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslər və digər dövlət müəssisə və təşkilatları (idarələri);
+
+1.3.5. investisiya layihəsinin icraçısı (podratçısı) - müəyyən edilmiş müddətdə və maliyyə vəsaiti çərçivəsində investisiya layihəsinin həyata keçirilməsi məqsədilə sifarişçi təşkilat tərəfindən normativ hüquqi aktlara uyğun olaraq satınalma yolu ilə cəlb edilmiş hüquqi və ya fiziki şəxs;
+
+1.3.6. investisiya layihəsinin icrasının monitorinqi - investisiya layihəsinin həyata keçirilməsinin yoxlanılması, investisiya obyektinə baxışın keçirilməsi, investisiya layihəsinin icrası barədə məlumatların toplanılması, təhlili və işlərin layihə büdcəsinə və icra qrafikinə uyğunluğunun yoxlanılması, eləcə də təhlil və nəticələrə dair icmal hesabatın hazırlanması prosesi;
+
+1.3.7. layihə portfeli - strateji məqsədlərə nail olunması üçün bir yerdə qruplaşdırılan layihə və proqramlar toplusu;
+
+1.3.8. investisiya portfeli - Dövlət İnvestisiya Proqramına daxil olan, müəyyən dövr üçün mövcud olan və müvafiq büdcə vəsaiti hesabına icra edilən layihələrin məcmusu;
+
+1.3.9. tərəqqi hesabatı - layihə statusuna, layihə çərçivəsində görülmüş və davam edən işlərə, əldə edilmiş nəticələrə, üzləşilən problemlərə və gələcək planlara dair məlumatların əks etdirildiyi dövri olaraq hazırlanan hesabat;
+
+1.3.10. Dövlət İnvestisiyalarının İdarəedilməsi İnformasiya Sistemi (bundan sonra - İnformasiya Sistemi) - layihə təkliflərinin təqdim edilməsi, nəzərdən keçirilməsi və təsdiqi, habelə layihələrin icrası və monitorinqi daxil olmaqla, dövlət investisiyalarının idarə edilməsini dəstəkləyən proqram təminatı;
+
+1.3.11. icra göstəricisi aşağı olan layihələr - hesabat dövründən və vəsaitin ayrılması tarixindən asılı olaraq ayrılmış vəsaitin az istifadə olunduğu (6 ay ərzində 40%, 9 ay ərzində 70% və 12 ay ərzində 95%-dən az) layihələr;
+
+1.3.12. icrasında risk yaranan layihələr - layihə üzrə qarşıya qoyulmuş hədəf və məqsədlərin, nəzərdə tutulan faydaların məlum zaman və büdcə çərçivəsində nail olunmasına təsir edən və icra planlarından əsassız kənarlaşmaların müəyyən olunduğu layihələr.
+
+1.4. Bu Qaydaların heç bir müddəası sifarişçi təşkilatın və ya investisiya layihəsinin icraçısının mənafeyini ağırlaşdıran formada təfsir edilə bilməz.
+
+1.5. Bu Qaydalarda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən edilmiş mənaları ifadə edir.
+
+ 
+
+2. Proqrama daxil edilən investisiya layihələrinin icrasının monitorinqinin məqsədləri
+
+ 
+
+2.1. İnvestisiya layihələrinin icrasının monitorinqinin məqsədləri aşağıdakılardan ibarətdir:
+
+2.1.1. investisiya layihələrinin icra planlarına uyğun tam və vaxtında həyata keçirilməsinə nail olunması;
+
+2.1.2. investisiya layihələrinin icrası zamanı risklərin idarə edilməsi;
+
+2.1.3. investisiya layihələrinin icrasında çevikliyə nail olunması;
+
+2.1.4. investisiya layihələrinin icrası ilə bağlı hesabatlılığın təmin edilməsi;
+
+2.1.5. aidiyyəti dövlət orqanlarının (qurumlarının) investisiya layihələri ilə bağlı zəruri məlumatlarla təmin edilməsi;
+
+2.1.6. aşkar olunmuş nöqsanlarla bağlı tədbir görülməsi üçün aidiyyəti dövlət orqanları (qurumları) qarşısında vəsatət qaldırılması.
+
+ 
+
+3. Proqrama daxil edilən investisiya layihələrinin icra planlarının hazırlanması və təsdiqi
+
+ 
+
+3.1. Sifarişçi təşkilatlar tərəfindən təqdim olunan layihə sənədlərinin tərkib hissəsi olan ilkin icra planlarına Nazirlik tərəfindən 60 (altmış) iş günü müddətində münasibət bildirilir.
+
+3.2. Dövlət büdcəsində dövlət investisiyaları (o cümlədən dövlət əsaslı vəsait qoyuluşu) üzrə vəsaitin bölgüsü təsdiq edildikdən sonra sifarişçi təşkilat icra edəcəyi layihənin icra planını 10 (on) gün müddətində təsdiq edir və Nazirliyə təqdim edir.
+
+3.3. Düzəlişlərin edilməsi tələb olunduqda sifarişçi təşkilat layihənin yenilənmiş icra planını 5 (beş) iş günü müddətində Nazirliyə təqdim etməlidir.
+
+3.4. İnvestisiya layihəsinin icrası dövründə layihənin icra planında düzəlişlər edildikdə bu Qaydaların 3.2-ci bəndinin müddəaları tətbiq olunur.
+
+ 
+
+4. Proqrama daxil edilən investisiya layihələrinin icrasına dair hesabatların forması, məzmunu və təqdim olunması müddətləri
+
+ 
+
+4.1. Proqrama daxil olan investisiya layihələrinin icrasına nəzarət sifarişçi təşkilatlar tərəfindən həyata keçirilir. Dövlət investisiya layihəsinin icrasının monitorinqi zamanı sifarişçi təşkilat görülmüş işləri layihənin icra planı ilə müqayisəli təhlil etməli və nəticəsi barədə məlumatları bu Qaydaların 1 və 2 nömrəli əlavələri ilə müəyyən edilmiş müvafiq olaraq “Layihə üzrə dövri monitorinq hesabat forması” və “Layihə portfeli üzrə dövri monitorinq hesabat forması”na uyğun hər rüb üzrə, növbəti rübün ilk ayının 10-dək Azərbaycan Respublikasının Nazirlər Kabinetinə, Azərbaycan Respublikasının İqtisadiyyat Nazirliyinə, Azərbaycan Respublikasının Maliyyə Nazirliyinə və Azərbaycan Respublikasının Hesablama Palatasına təqdim edir. Görülmüş işlərə dair dövri tərəqqi hesabatları müvafiq təsdiqedici sənədlərlə birgə hesabat formalarına əlavə olunmalıdır.
+
+4.2. İnvestisiya layihəsinin icrası yekunlaşdıqdan sonra 30 (otuz) gün müddətində sifarişçi təşkilatlar Nazirliyi bu barədə yazılı qaydada məlumatlandırır və bu Qaydaların 3 nömrəli əlavəsi ilə müəyyən edilmiş “Layihənin yekun hesabat forması”nı dolduraraq Azərbaycan Respublikasının Nazirlər Kabinetinə, Azərbaycan Respublikasının İqtisadiyyat Nazirliyinə, Azərbaycan Respublikasının Maliyyə Nazirliyinə və Azərbaycan Respublikasının Hesablama Palatasına təqdim edirlər.
+
+4.3. Sifarişçi təşkilat bu Qaydaların 1, 2 və ya 3 nömrəli əlavələri ilə müəyyən edilmiş hesabat formasını natamam və düzgün tərtib edilmədən (rəqəmlərdə uyğunsuzluq, boş xanalar və səhv məlumatın daxil edilməsi) təqdim etdikdə aşkar edilmiş nöqsanların aradan qaldırılması barədə Nazirliyin sorğusunun alındığı gündən 5 (beş) iş günü müddətində hesabat formasını düzəlişlər edilməklə yenidən Azərbaycan Respublikasının Nazirlər Kabinetinə, Azərbaycan Respublikasının İqtisadiyyat Nazirliyinə, Azərbaycan Respublikasının Maliyyə Nazirliyinə və Azərbaycan Respublikasının Hesablama Palatasına təqdim etməlidir.
+
+4.4. Dövlət büdcəsində dövlət əsaslı vəsait qoyuluşu (investisiya xərcləri) üçün nəzərdə tutulan vəsaitin bölgüsü təsdiq edildikdən sonra Azərbaycan Respublikasının Maliyyə Nazirliyi investisiya layihələrinin maliyyələşməsinə dair aylıq məlumatları növbəti ayın 5-dək Azərbaycan Respublikasının İqtisadiyyat Nazirliyinə təqdim edir.
+
+4.5. Sifarişçi təşkilatlar tərəfindən bu Qaydaların 4.1-ci bəndinə əsasən təqdim olunan dövri hesabatlar əsasında Nazirlik hər il üzrə dövlət büdcəsində dövlət əsaslı vəsait qoyuluşu (investisiya xərcləri) üçün nəzərdə tutulan vəsaitin bölgüsünə daxil olan investisiya layihələrinin rüblük icra vəziyyətinə dair məlumatları təhlil edərək hazırlanmış icmal hesabatı Azərbaycan Respublikasının Nazirlər Kabinetinə təqdim edir.
+
+4.6. Nazirlik sifarişçi təşkilatlar tərəfindən təqdim olunan məlumatlar əsasında investisiya layihələrinin icrasının monitorinqinin nəticələrinə dair hazırlanmış illik icmal hesabatı növbəti ilin mart ayının 1-dək Azərbaycan Respublikasının Nazirlər Kabinetinə, Azərbaycan Respublikasının Maliyyə Nazirliyinə və Hesablama Palatasına təqdim edir.
+
+4.7. Bu Qaydaların 4.6-cı bəndi ilə müəyyən olunmuş hesabatda aşağıdakı məlumatlar əks olunur:
+
+4.7.1. investisiya portfelinin cəmi dəyəri;
+
+4.7.2. hesabat dövrü üzrə plan və faktiki ayrılmış vəsait (o cümlədən sahələr üzrə), planla müqayisədə kənarlaşma və onun investisiya portfelinin cəmi dəyərində payı;
+
+4.7.3. hesabat dövrü üzrə plan ilə müqayisədə faktiki ayrılmış xərclər üzrə kənarlaşmaların olduğu layihələr və dəyəri, eləcə də onların müvafiq olaraq ümumi layihə sayındakı və layihə portfelindəki payı;
+
+4.7.4. hesabat dövrü üzrə plan ilə müqayisədə faktiki görülmüş işlər arasında kənarlaşmaların olduğu layihələr və dəyəri, eləcə də onların müvafiq olaraq ümumi layihə sayındakı və layihə portfelindəki payı;
+
+4.7.5. layihənin ümumi dəyəri və layihənin icra qrafiki üzrə dəyişikliklərin olduğu layihələrin ümumi layihə sayında payı, layihə portfeli üzrə dəyişikliyin ilkin layihə portfelindəki payı;
+
+4.7.6. icra göstəricisi aşağı olan layihələrin və dəyərinin müvafiq olaraq ümumi layihə sayında və layihə portfelindəki payı;
+
+4.7.7. hesabat dövründə layihənin icrasında yaranan problemlər və onların aradan qaldırılması üzrə tədbirlər;
+
+4.7.8. növbəti hesabat dövrü üzrə layihənin məlum zaman və büdcə çərçivəsində icrasına çətinliklər yarada biləcək strateji risklər;
+
+4.7.9. nəticə və tövsiyələr.
+
+4.8. İcmal hesabatda dövlət investisiya layihələrinin monitorinq sistemini tənzimləyən çərçivə sənədlərinə və digər aidiyyəti qanunvericilik aktlarında dəyişikliklər, eləcə də maliyyələşmədə yenidən bölüşdürmə ilə bağlı məlumatlar olduğu təqdirdə verilir. Bu Qaydaların 4.6-cı bəndinə uyğun olaraq hazırlanan icmal hesabatın nəticə hissəsində investisiya layihələrinin icrasının monitorinqinin nəticələrinə dair ümumiləşdirmələr edilir, inkişaf etdirilməli sahələrə və atılacaq addımlara dair məlumatlar əks olunur.
+
+4.9. Bu Qaydaların 4.5-ci və 4.6-cı bəndləri ilə müəyyən olunmuş hesabatlar 4.7.1-4.7.9-cu yarımbəndlərin müddəaları nəzərə alınmaqla hazırlanır.
+
+ 
+
+5. Proqrama daxil edilən investisiya layihələrinin icrasının monitorinqi üzrə məlumatların təqdim olunması
+
+ 
+
+5.1. Sifarişçi təşkilat bu Qaydaların 4.1-ci və 4.2-ci bəndləri ilə müəyyən olunmuş hesabat formalarını düzgün və müəyyən olunmuş müddətdə təqdim etməlidir. Hesabat forması sifarişçi təşkilatın rəhbəri və ya onu əvəz edən şəxs tərəfindən imzalanmalı və möhürlə təsdiq edilməlidir.
+
+5.2. İnvestisiya layihəsinin icra planından kənarlaşmalar müəyyən olunduqda sifarişçi təşkilat bunun səbəbləri və həlli ilə bağlı təklifləri bu Qaydaların 4.1-ci və 4.2-ci bəndləri ilə müəyyən olunmuş hesabat formalarına əlavə olunmaqla təqdim etməlidir.
+
+5.3. Bu Qaydaların 4.1-ci və 4.2-ci bəndləri ilə müəyyən olunmuş hesabat formalarında qeyd olunan məlumatların düzgünlüyünü yoxlamaq üçün Nazirlik investisiya layihəsinin icra olunduğu yerdə monitorinq həyata keçirmək hüququna malikdir.
+
+5.4. Sifarişçi təşkilat bu Qaydaların 4.1-4.3-cü bəndlərinin tələblərini yerinə yetirmədikdə Nazirlik investisiya layihəsinin maliyyələşdirilməsinin müvəqqəti dayandırılması ilə bağlı Azərbaycan Respublikasının Nazirlər Kabinetinə müraciət edir. Bu hal təkrarlandıqda Nazirlik bu təşkilatları müvafiq siyahıya əlavə edir və gələcəkdə layihələrin maliyyələşdirilməsi ilə bağlı müraciətlər zamanı nəzərə alınır.
+
+5.5. Maliyyələşdirilmə dayandırıldığı halda investisiya layihəsi ilə bağlı qərar qəbul edilənədək layihənin monitorinqi davam etdirilir.
+
+ 
+
+6. Proqrama daxil edilən investisiya layihələrinin icrasının monitorinqinin növləri və dövrü
+
+ 
+
+6.1. Sifarişçi təşkilat bu Qaydaların tələbləri nəzərə alınmaqla icra etdiyi investisiya layihələrinin monitorinqini mütəmadi olaraq həyata keçirməlidir.
+
+6.2. Sifarişçi təşkilat tərəfindən investisiya layihələrinin monitorinqi təşkilat tərəfindən təsdiq olunmuş daxili reqlament əsasında həyata keçirilir.
+
+6.3. Nazirlik tərəfindən investisiya layihələrinin icrasının monitorinqi hesabatlar əsasında və yerində aparılır.
+
+6.4. İnvestisiya layihəsinin icrası üzrə yerində monitorinq plan üzrə (növbəti) və ya plandankənar (növbədən kənar) aparılır.
+
+6.5. İnvestisiya layihələrinin icrasının monitorinqi həyata keçirildikdə Nazirlik sifarişçi təşkilatdan layihələrin icrası ilə əlaqəli sənədləri və ya aidiyyəti məlumatları sorğu edə bilər. Bu zaman, tələb yönəldilən subyekt və ya onun səlahiyyətli nümayəndəsi müvafiq sənədləri və ya məlumatları təsdiq edərək, Nazirliyin sorğusu alındığı gündən 5 (beş) iş günü müddətində Nazirliyə təqdim etməyə borcludur.
+
+6.6. İnvestisiya layihələrinin icrasının yerində monitorinqi zamanı sifarişçi təşkilat və (və ya) investisiya layihəsinin icraçısı monitorinqi həyata keçirən məsul vəzifəli şəxsə (şəxslərə) vəzifə səlahiyyətlərinin icra olunması məqsədilə şəraitin yaradılmasını və sahədə olarkən onun (onların) təhlükəsizliyini təmin etməlidir.
+
+6.7. Digər monitorinq metodlarının tətbiqi effektiv hesab edilmədikdə, yerində monitorinqə əlavə olaraq, texniki cəhətdən mürəkkəb və ya riskli olan seçilmiş iri investisiya layihələri üzrə hesabatlılığın artırılması və səmərəli qərarvermənin həyata keçirilməsi üçün sifarişçi təşkilat tərəfindən icranın monitorinqi real vaxt rejimində qanunvericiliklə qadağan edilməyən müşahidə vasitələri ilə həyata keçirilir.
+
+ 
+
+ 
+
+7. Proqrama daxil edilən investisiya layihələrinin icrasına dair hesabatların monitorinqi
+
+ 
+
+7.1. İnvestisiya layihələrinin icrasına dair hesabatların monitorinqi yerlərə getmədən sifarişçi təşkilatın təqdim etdiyi bu Qaydaların 4.1-ci və 4.2.-ci bəndləri ilə müəyyən olunmuş hesabat formaları və mənbəyi məlum olan məlumatlar əsasında keçirilir.
+
+7.2. İnvestisiya layihələrinin icrasına dair hesabatların monitorinqi bu Qaydaların 4-cü hissəsi ilə müəyyən olunmuş hesabatlılıq dövrlərinə uyğun olaraq həyata keçirilir.
+
+7.3. İnvestisiya layihələrinin icrasına dair hesabatların monitorinqi zamanı aşkar edilmiş nöqsanlar sifarişçi təşkilata bildirildikdən sonra 5 (beş) iş günü müddətində aradan qaldırılır və yenilənmiş hesabatlar Nazirliyə təqdim edilir.
+
+ 
+
+8. Proqrama daxil edilən investisiya layihələrinin yerində monitorinqi
+
+ 
+
+8.1. İnvestisiya layihələrinin yerində monitorinqi Nazirliyin qərarına əsasən həyata keçirilir.
+
+8.2. Plan üzrə (növbəti) yerində monitorinq Nazirliyin tərtib etdiyi illik plan əsasında aparılır.
+
+8.3. Plan üzrə (növbəti) yerində monitorinq keçirildikdə, Nazirlik tərəfindən sifarişçi təşkilata monitorinqin başlanmasından azı 10 (on) gün əvvəl yazılı bildiriş göndərilir. Bildirişdə monitorinqin keçirilməsinin əsası, mövzusu və tarixi göstərilir.
+
+8.4. Plan üzrə (növbəti) yerində monitorinq 10 (on) iş günü müddətində həyata keçirilir.
+
+8.5. Plandankənar (növbədənkənar) yerində monitorinq Nazirlik tərəfindən aşağıda göstərilən hallarda keçirilə bilər:
+
+8.5.1. bu Qaydaların 4.1-4.3-cü və 5.2-ci bəndlərinin tələbləri yerinə yetirilmədikdə;
+
+8.5.2. plan üzrə (növbəti) aparılmış sonuncu yerində monitorinq zamanı ciddi nöqsanlar aşkar edildikdə;
+
+8.5.3. hesabatların monitorinqinin nəticələri əsasında icrasında risk yaranan layihələr müəyyən edildikdə;
+
+8.5.4. hesabatların monitorinqi və ya plan üzrə (növbəti) aparılmış yerində monitorinqin nəticələri ilə razılaşmayan sifarişçi təşkilat plandankənar (növbədənkənar) yerində monitorinqin keçirilməsini yazılı şəkildə tələb etdikdə. Bu halda plandankənar (növbədənkənar) monitorinq Nazirliyin əvvəlki monitorinqi keçirmiş vəzifəli şəxsləri tərəfindən keçirilə bilməz;
+
+8.5.5. dövlət investisiya layihəsinin icrasına dair dürüst olmayan və ya təhrif olunmuş mənbəyi bəlli olan məlumatlar daxil olduqda, eləcə də mediada mənfi məlumatlar yayıldıqda;
+
+8.5.6. investisiya layihəsinin icrası ilə bağlı vətəndaşlardan və ya digər təşkilatlardan daxil olan şikayətlərin araşdırılması zamanı məsələlərin yerində yoxlanılması tələb edildikdə;
+
+8.5.7. qanunvericiliyə zidd olan hər hansı hallar aşkarlandıqda.
+
+8.6. Plandankənar (növbədənkənar) yerində monitorinq 10 (on) iş günü müddətində həyata keçirilir.
+
+8.7. Nazirliyin qərarına əsasən bu Qaydaların 8.4-cü və 8.6-cı bəndlərindəki müddət 10 (on) iş günündən çox olmayan müddətə uzadıla bilər.
+
+8.8. Yerində monitorinqin başlanmasına ən azı 3 (üç) gün qalmış Nazirliyin qərarı (göstərişi) ilə monitorinqdə iştirak edəcək vəzifəli şəxs (şəxslər), habelə zəruriliyi əsaslandırıldığı hallarda mütəxəssis və (və ya) ekspertlər təyin edilir və Nazirliyin vəsiqəsi ilə təmin olunur.
+
+8.9. Dövlət investisiya layihələrinin yerində monitorinqinə aidiyyəti dövlət orqanlarının nümayəndələri, habelə müqavilə əsasında müstəqil ekspertlər və mütəxəssislər cəlb oluna bilərlər. Müvafiq layihələr üzrə monitorinqlərə ekspertlərin və mütəxəssislərin cəlb olunması Azərbaycan Respublikası Prezidentinin 2024-cü il 20 dekabr tarixli 257 nömrəli Fərmanı ilə təsdiq edilmiş “Azərbaycan Respublikası Dövlət İnvestisiya Proqramının tərtibi, icrası, monitorinqi və qiymətləndirilməsi Qaydaları”nın 3.15-ci bəndinə uyğun olaraq dövlət əsaslı vəsait qoyuluşunun (investisiya xərclərinin) bölgüsündə texniki-iqtisadi əsaslandırma və layihə-smeta sənədlərinin hazırlanması, müstəqil ekspertlərin cəlb edilməsi üçün nəzərdə tutulmuş vəsait hesabına maliyyələşdirilir.
+
+8.10. Yerində monitorinq başlamazdan əvvəl monitorinqdə iştirak edəcək müvafiq əməkdaş (əməkdaşlar) sifarişçi təşkilatın məsul vəzifəli şəxsinə xidməti vəsiqəsini göstərir, monitorinqin aparılması haqqında qərarın surətini təqdim edir, monitorinqin hüquqi əsasları və istiqamətləri barədə məlumat verir.
+
+8.11. Yerində monitorinq aşağıdakı üsullarla həyata keçirilir:
+
+8.11.1. vizual baxış;
+
+8.11.2. aidiyyəti şəxslərlə (layihə komandası, təchizatçı və digər fokus qrupları) müsahibə;
+
+8.11.3. sənədlərin nəzərdən keçirilməsi;
+
+8.11.4. maraqlı tərəflərin iştirakı ilə müzakirələrin aparılması.
+
+8.12. Yerində monitorinq yalnız sifarişçi təşkilatın iş vaxtında və iş günlərində sifarişçi təşkilatın və ya investisiya layihəsinin icraçısının yerləşdiyi və ya layihənin icra edildiyi ünvanda keçirilir. Yerində monitorinq sifarişçinin və icraçının normal iş rejimini pozmamalıdır.
+
+8.13. Yerində monitorinq zamanı məsul şəxs (şəxslər) əsaslı qərar qəbul etmək üçün bütün fakt və məsələləri toplamaq və araşdırmaq səlahiyyətinə malikdir.
+
+8.14. Yerində monitorinqin nəticələrinə dair Nazirliyin məsul şəxsi (şəxsləri) tərəfindən 2 (iki) nüsxədə arayış tərtib edilir. Arayışda aşağıdakılar göstərilir:
+
+8.14.1. Layihə barədə ümumi məlumat;
+
+8.14.2. Yerində monitorinq barədə məlumat;
+
+8.14.3. Layihə üzrə nəzərdə tutulan və faktiki görülmüş işlərin müqayisəsi (fərq olduqda səbəbləri);
+
+8.14.4. Monitorinqin əhatə etdiyi dövr ərzində sifarişçi təşkilat tərəfindən aparılan monitorinqlər, monitorinqin nəticələri və görülən tədbirlər barədə məlumat;
+
+8.14.5. Monitorinqin nəticələri üzrə tövsiyələr və görülməli işlər;
+
+8.14.6. Əlavə qeydlər.
+
+8.15. Arayışda göstərilən məlumatları təsdiqləyən və yerində monitorinqin nəticələri üzrə qərarın qəbul edilməsi üçün əhəmiyyət kəsb edən sənədlər, fotoşəkillər və video çəkilişlər arayışa əlavə edilir.
+
+8.16. Arayış yerində monitorinq başa çatdıqdan sonra Nazirliyin məsul şəxsi (şəxsləri) tərəfindən imzalanaraq tanış olmaq və imzalamaq üçün sifarişçi təşkilata təqdim olunur. Arayışın və ona əlavə edilmiş sənədlərin 1 (bir) nüsxəsi sifarişçi təşkilatda, digər nüsxəsi isə Nazirlikdə qalır.
+
+8.17. Sifarişçi təşkilat arayışın məzmunu və (və ya) ona əlavə edilmiş sənədlərlə və ya Nazirliyin məsul şəxsinin (şəxslərinin) hərəkəti (hərəkətsizliyi) ilə razılaşmadığı halda, arayışa müvafiq qeyd aparmaqla öz izah, irad və etirazını bildirə bilər.
+
+8.18. Sifarişçi təşkilat arayışı almaqdan və (və ya) onu imzalamaqdan imtina etdikdə, bu barədə arayışda müvafiq qeydlər aparılır. Bundan sonra arayışın və ona əlavə edilmiş sənədlərin 1 (bir) nüsxəsi yerində monitorinqin keçirilməsi başa çatdığı tarixdən növbəti 3 (üç) iş günü ərzində sifarişçi təşkilata göndərilir.
+
+8.19. Sifarişçi təşkilat tərəfindən arayış üzrə yazılı izahatlar və ya etirazlar təqdim edildikdə, yerində monitorinq materialları sifarişçi təşkilatın vəzifəli şəxsinin (şəxslərinin) və ya onların nümayəndələrinin iştirakı ilə baxılır. Nazirlik yerində monitorinq materiallarına baxılmanın yeri və vaxtı haqqında sifarişçi təşkilata əvvəlcədən məlumat verir. Sifarişçi təşkilatın nümayəndəsi ona əvvəlcədən məlumat verilməsinə baxmayaraq üzürlü səbəb olmadan iştirak etmədikdə yerində monitorinq materiallarına, sifarişçi təşkilat tərəfindən təqdim edilən etirazlara, izahatlara, digər sənəd və materiallara onun iştirakı olmadan baxılır.
+
+8.20. Sifarişçi təşkilat 10 (on) iş günü müddətində arayışda qeyd olunan nöqsanların aradan qaldırılmasına dair dəqiq vaxt qrafikləri göstərilməklə Nazirliyə yazılı məlumat verməlidir.
+
+8.21. Zərurət yarandığı təqdirdə Nazirlik aşkar olunmuş nöqsanlarla bağlı qanunvericiliyin tələblərinə uyğun tədbirlərin görülməsi üçün aidiyyəti dövlət qurumları qarşısında vəsatət qaldırır.
+
+8.22. Sifarişçi təşkilat tərəfindən bu Qaydaların 8.19-cu bəndində qeyd olunan tələblərə və ya nöqsanların aradan qaldırılması ilə bağlı müəyyən edilmiş qrafikə əməl olunmadıqda 10 (on) iş günündən çox olmayan müddətdə Nazirlik nöqsanlarla bağlı məlumatları müvafiq tədbirlərin görülməsi üçün Azərbaycan Respublikasının Nazirlər Kabinetinə təqdim edir.
+
+8.23. Yerində monitorinqin nəticələrinə dair qeydlər Nazirlik tərəfindən hazırlanan dövlət investisiya layihələrinin icra vəziyyətinə dair rüblük və illik hesabatlarda əks etdirilir.
+
+ 
+
+9. Proqrama daxil edilən investisiya layihələrində düzəlişlərin edilməsi
+
+ 
+
+9.1. Monitorinqin nəticələrinə görə investisiya layihələri üzrə il ərzində ayrılması nəzərdə tutulan vəsaitin istifadəsi icra planında qeyd olunan qrafikdən geri qaldığı təqdirdə sifarişçi təşkilatdan təqdim olunmuş məlumatlar Nazirlik tərəfindən təhlil edilir və vəsaitin tam istifadəsinin mümkünsüzlüyünə əsaslar olduğu təqdirdə, il ərzində maliyyə vəsaitinin istifadəsi az olan layihələrdən istifadəsi çox olan layihələrin xeyrinə yenidən bölüşdürülməsi məqsədilə Nazirlik tərəfindən Azərbaycan Respublikasının Prezidentinə təkliflər verilir.
+
+9.2. Yenidən bölüşdürülmə təsdiq edildikdən sonra icra planlarında müvafiq dəyişikliklər edilir.
+
+9.3. İnvestisiya layihəsinin icrasının monitorinqi zamanı layihə üzrə il ərzində ayrılmış vəsaitin istifadəsində kənarlaşma layihənin icra planında müəyyən olunmuş həcmin 50 faizindən çox olduqda və kənarlaşmanın səbəbləri aradan qaldırılmadıqda bu, həmin investisiya layihəsi üzrə növbəti illər üçün nəzərdə tutulan vəsaitin digər layihələrin maliyyələşdirilməsinə yönəldilməsi üçün əsas verən hal hesab olunur.
+
+9.4. İcrasında risk yaranan layihənin müqavilə dəyəri (iş həcminə, müqavilə öhdəliklərinə və digər dəyişiklik əsasında) inflyasiya təsirləri çıxılmaqla 20 faizdən çox artdığı və ya tələb proqnozunun özünü doğrultmayacağı ilə bağlı əsaslı ehtimallar olduğu (ilkin proqnoz rəqəmlərdən 30 faizdən çox dəyişəcəyi proqnoz edildikdə) təqdirdə, sifarişçi təşkilat layihənin yenidən qiymətləndirilməsini həyata keçirməlidir.
+
+9.5. Bu halda layihə üzrə investisiya qoyuluşundan öncəki mərhələdə aparılmış qiymətləndirmənin yenilənmiş xərclər, tələb proqnozu və icra qrafiklərinə əsasən həyata keçirilməsi təmin edilir. Yenidən qiymətləndirmə zamanı həmin dövrədək sərf olunmuş vəsait qiymətləndirmədə nəzərə alınmır.
+
+9.6. Yenidən qiymətləndirmə əsasında Nazirlik tərəfindən aşağıdakı qərarlardan biri qəbul edilir:
+
+9.6.1. investisiya layihəsinin davam etdirilməsi;
+
+9.6.2. iş həcminin dəyişdirilməsi və ya investisiya layihələrinin müəyyən dövrə təxirə salınması ilə bağlı Azərbaycan Respublikasının Prezidentinə təkliflərin təqdim edilməsi;
+
+9.6.3. davam etdirilməsi məqsədəuyğun hesab edilməyən investisiya layihələrinə xitam verilməsi və obyektin gələcək istifadəsi ilə bağlı Azərbaycan Respublikasının Prezidentinə təkliflərin təqdim edilməsi.
+
+9.7. Bu Qaydaların 9.6.2-ci və 9.6.3-cü yarımbəndlərində göstərilən hallarda Nazirlik Azərbaycan Respublikasının Maliyyə Nazirliyinə və Azərbaycan Respublikasının Hesablama Palatasına məlumat verir.
+
+ 
+
+10. Proqrama daxil edilən investisiya layihələrinin nəticələrinin qiymətləndirilməsi
+
+ 
+
+10.1. Təhvil-təslim aktına uyğun olaraq əsas vəsaitlər təchizatçı tərəfindən sifarişçi təşkilata təhvil verildikdən və müvafiq inventarlaşma işləri aparıldıqdan sonra layihə obyekti son istifadəçilərə təqdim edilir.
+
+10.2. Sifarişçi təşkilatlar tamamlanmış əsaslı kapital qoyuluşu layihələrinin nəticəsi olaraq yaradılmış əsas vəsaitlərin dayanıqlı istismarı üçün zəruri şərait yaradırlar.
+
+10.3. Sifarişçi təşkilatlar tərəfindən dövlət əmlakının qorunub saxlanılmaması və səmərəli istifadə edilməməsi bu qurumlar tərəfindən irəli sürülən yeni layihə təşəbbüslərinin qiymətləndirilməsi zamanı nəzərə alınır.
+
+10.4. Prioritet orta və iri investisiya layihələrinin icrası tamamlandıqdan və istismar mərhələsinə keçdikdən sonra investisiya layihələri üzrə planlaşdırılmış məqsədlərə nail olunmasını müəyyənləşdirmək üçün Azərbaycan Respublikasının İqtisadiyyat Nazirliyi tərəfindən müstəqil kənar qiymətləndirici cəlb edilməklə investisiya layihələrinin nəticələrinin qiymətləndirilməsi hesabatı hazırlanır.
+
+10.5. Hazırlanmış yekun qiymətləndirilmə hesabatları səmərəlilik və effektivliyin artırılması üçün növbəti investisiya layihələrinin hazırlanması və qiymətləndirilməsi zamanı nəzərə alınır.
+
+10.6. Müstəqil kənar qiymətləndiricinin fəaliyyəti Azərbaycan Respublikası Prezidentinin 2024-cü il 20 dekabr tarixli 257 nömrəli Fərmanı ilə təsdiq edilmiş “Azərbaycan Respublikası Dövlət İnvestisiya Proqramının tərtibi, icrası, monitorinqi və qiymətləndirilməsi Qaydaları”nın 3.15-ci bəndinə uyğun olaraq dövlət əsaslı vəsait qoyuluşunun (investisiya xərclərinin) bölgüsündə texniki-iqtisadi əsaslandırma və layihə-smeta sənədlərinin hazırlanması, ekspertlərin cəlb edilməsi məqsədi üçün nəzərdə tutulmuş vəsait hesabına maliyyələşdirilir.
+
+ 
+
+11. Yekun müddəa
+
+ 
+
+Bu Qaydalarla tənzimlənməyən digər məsələlər Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun tənzimlənir.
+
+ 
+
+ 
+
+
+
+
+ 
+
+	
+
+“Dövlət İnvestisiya Proqramına daxil edilən investisiya layihələrinin icrasının monitorinqi və nəticələrinin qiymətləndirilməsi Qaydaları”na
+
+1 nömrəli əlavə
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+	
+
+“Dövlət İnvestisiya Proqramına daxil edilən investisiya layihələrinin icrasının monitorinqi və nəticələrinin qiymətləndirilməsi Qaydaları”na
+
+2 nömrəli əlavə
+
+ 
+
+ 
+
+
+
+
+ 
+
+	
+
+“Dövlət İnvestisiya Proqramına daxil edilən investisiya layihələrinin icrasının monitorinqi və nəticələrinin qiymətləndirilməsi Qaydaları”na
+
+3 nömrəli əlavə
+
+ 
+
+ 
+
+ 
+
+ 
+
+Qüvvədədir
+YÜKLƏ
+Məcəllələr
+© 2025 | e-qanun.az | Bütün Haqqlar Qorunur
+Ədliyyə Nazirliyinin İnformasiya - kommunikasiya Texnologiyaları İdarəsi CROCUSOFT
+
+E-QANUN
