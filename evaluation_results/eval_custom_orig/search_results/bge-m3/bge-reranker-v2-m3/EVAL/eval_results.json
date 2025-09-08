@@ -1,0 +1,14 @@
+{
+    "test": {
+        "ndcg_at_10": 0.88997,
+        "ndcg_at_50": 0.88997,
+        "map_at_10": 0.85557,
+        "map_at_50": 0.85557,
+        "recall_at_10": 1.0,
+        "recall_at_50": 1.0,
+        "precision_at_10": 0.1,
+        "precision_at_50": 0.02,
+        "mrr_at_10": 0.85557,
+        "mrr_at_50": 0.85557
+    }
+}
